@@ -1,0 +1,26 @@
+name: Autopost Buffer
+
+on:
+  schedule:
+    # 18:00 UTC = 20:00 à Paris (heure d'été). Programme les éléments des 30 h suivantes.
+    - cron: "0 18 * * *"
+  workflow_dispatch:
+
+concurrency:
+  group: autopost
+  cancel-in-progress: false
+
+jobs:
+  schedule:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Programmer les posts du lendemain
+        env:
+          BUFFER_API_KEY: ${{ secrets.BUFFER_API_KEY }}
+          MEDIA_BRANCH: ${{ github.ref_name }}
+        run: python scripts/schedule.py

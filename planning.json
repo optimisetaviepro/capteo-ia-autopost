@@ -1,0 +1,145 @@
+{
+  "channel_id": "6abe5c73ea19ca0bde4335c8",
+  "organization_id": "5f564abc0863135ce86371df",
+  "timezone": "Europe/Paris",
+  "items": [
+    {
+      "at": "2026-10-03T16:00:00+02:00",
+      "type": "carousel",
+      "media": "c/07",
+      "text": "« Token » : le mot que tu vois partout dans les prix de l'IA. 🪙\n\nC'est l'unité de base de l'IA : ce que tu envoies, ce qu'elle répond, et même sa mémoire se comptent en tokens.\n\n👉 Swipe pour ne plus être perdu.\n\n📌 Enregistre ce post.\n\n#token #ia #llm #apprendrelia #intelligenceartificielle"
+    },
+    {
+      "at": "2026-10-03T16:45:00+02:00",
+      "type": "carousel",
+      "media": "c/08",
+      "text": "Pourquoi l'IA invente parfois des trucs avec un aplomb total ? 🤥\n\nOn appelle ça une hallucination. La bonne nouvelle : il y a une parade simple.\n\n👉 Swipe pour savoir où vérifier et comment limiter le risque.\n\n🔁 Partage ce post à quelqu'un qui croit tout ce que dit l'IA.\n\n#ia #hallucination #espritcritique #intelligenceartificielle #astuceia"
+    },
+    {
+      "at": "2026-10-03T17:30:00+02:00",
+      "type": "carousel",
+      "media": "c/09",
+      "text": "API : le mot magique derrière toutes les automatisations. 🔌\n\nImagine un serveur au restaurant : tu ne vas pas en cuisine, tu passes commande. L'API, c'est pareil entre deux logiciels.\n\n👉 Swipe pour comprendre.\n\n➕ Abonne-toi : demain, les webhooks.\n\n#api #automatisation #nocode #tech #apprendre"
+    },
+    {
+      "at": "2026-10-03T18:00:00+02:00",
+      "type": "story",
+      "media": "s/story_jour03.png",
+      "text": ""
+    },
+    {
+      "at": "2026-10-04T16:00:00+02:00",
+      "type": "carousel",
+      "media": "c/10",
+      "text": "n8n, l'outil que j'utilise pour automatiser sans coder. ⚙️\n\nDes blocs reliés entre eux, des centaines d'applis connectées, et la possibilité de l'héberger toi-même pour qu'il tourne 24h/24.\n\n💬 Commente « N8N » si tu veux le tuto de ton premier workflow.\n\n#n8n #automatisation #nocode #ia #productivite"
+    },
+    {
+      "at": "2026-10-04T16:45:00+02:00",
+      "type": "carousel",
+      "media": "c/11",
+      "text": "API : tu demandes. Webhook : on te prévient. 🔔\n\nLe webhook, c'est la sonnette de tes automatisations : un événement arrive, ton workflow démarre en 2 secondes.\n\n👉 Swipe pour voir un exemple concret.\n\n📌 Enregistre ce post pour ton prochain workflow.\n\n#webhook #automatisation #n8n #nocode #tech"
+    },
+    {
+      "at": "2026-10-04T17:30:00+02:00",
+      "type": "carousel",
+      "media": "c/12",
+      "text": "MCP : le standard qui branche l'IA à tes outils. 🔌\n\nLancé par Anthropic, le Model Context Protocol permet à une IA de se connecter à Drive, Gmail, Canva… avec une seule norme. Un peu comme l'USB.\n\n👉 Swipe pour comprendre.\n\n➕ Abonne-toi pour plus de bases IA.\n\n#mcp #anthropic #claude #agentia #ia"
+    },
+    {
+      "at": "2026-10-04T18:00:00+02:00",
+      "type": "story",
+      "media": "s/story_jour04.png",
+      "text": ""
+    },
+    {
+      "at": "2026-10-05T16:00:00+02:00",
+      "type": "carousel",
+      "media": "c/13",
+      "text": "Les Skills de Claude : la fonction qui rend l'IA vraiment spécialisée. 🧩\n\nTa charte, ta méthode, tes templates : tu les écris une fois, Claude les applique à chaque fois.\n\n💬 Commente « SKILL » et je te partage comment j'écris les miens.\n\n#claude #anthropic #ia #productivite #automatisation"
+    },
+    {
+      "at": "2026-10-05T16:45:00+02:00",
+      "type": "carousel",
+      "media": "c/14",
+      "text": "Claude Code en 3 points : l'agent qui code à ta place. 💻\n\nIl lit tes fichiers, écrit le code, lance les commandes… et toi, tu restes le chef de projet.\n\n💬 Tu l'as déjà testé ? Dis-moi ce que tu aimerais lui faire construire.\n\n#claudecode #claude #dev #ia #nocode"
+    },
+    {
+      "at": "2026-10-05T17:30:00+02:00",
+      "type": "carousel",
+      "media": "c/15",
+      "text": "Créer un site sans savoir coder ? Oui, en 4 étapes avec l'IA. 🌐\n\nTu décris, l'IA génère, tu ajustes, tu mets en ligne.\n\n👉 Swipe pour la méthode.\n\n💬 Commente « SITE » si tu veux le tuto vidéo de zéro à en ligne.\n\n#siteweb #ia #nocode #webdesign #entrepreneur"
+    },
+    {
+      "at": "2026-10-05T18:00:00+02:00",
+      "type": "story",
+      "media": "s/story_jour05.png",
+      "text": ""
+    },
+    {
+      "at": "2026-10-06T16:00:00+02:00",
+      "type": "carousel",
+      "media": "c/16",
+      "text": "Installer Docker, c'est 3 étapes. Et c'est la base de tout l'auto-hébergement. 🐳\n\nInstalle, teste, lance ta première vraie appli.\n\n👉 Swipe pour la marche à suivre.\n\n➕ Abonne-toi : prochaine étape, n8n sur un serveur 24h/24.\n\n#docker #selfhosted #autohebergement #tech #n8n"
+    },
+    {
+      "at": "2026-10-06T16:45:00+02:00",
+      "type": "carousel",
+      "media": "c/17",
+      "text": "Comment une IA peut répondre avec TES documents ? 📚\n\nGrâce au RAG : l'IA cherche d'abord les bons passages, puis rédige en s'appuyant dessus. Résultat : moins d'invention.\n\n👉 Swipe pour comprendre.\n\n📌 Enregistre ce post.\n\n#rag #ia #agentia #intelligenceartificielle #tech"
+    },
+    {
+      "at": "2026-10-06T17:30:00+02:00",
+      "type": "carousel",
+      "media": "c/18",
+      "text": "Avant ton prochain copier-coller dans une IA, lis ça. 🔒\n\n4 règles simples pour protéger tes infos et celles des autres.\n\n👉 Swipe.\n\n🔁 Envoie ce post au collègue qui colle tout dans l'IA sans réfléchir.\n\n#cybersecurite #donneespersonnelles #ia #rgpd #bonnespratiques"
+    },
+    {
+      "at": "2026-10-06T18:00:00+02:00",
+      "type": "story",
+      "media": "s/story_jour06.png",
+      "text": ""
+    },
+    {
+      "at": "2026-10-07T16:00:00+02:00",
+      "type": "carousel",
+      "media": "c/19",
+      "text": "3 automatisations pour gagner 1h par jour. ⏱️\n\nTri des mails, résumé du matin, veille automatique : toutes faisables avec n8n.\n\n💬 Laquelle tu veux en premier, 1, 2 ou 3 ? Je fais le tuto de la plus demandée.\n\n#automatisation #productivite #n8n #ia #gaindetemps"
+    },
+    {
+      "at": "2026-10-07T16:45:00+02:00",
+      "type": "carousel",
+      "media": "c/20",
+      "text": "Quoi déléguer à l'IA… et quoi garder pour toi ? 🤝\n\nLa règle est simple : délègue l'exécution, garde la décision.\n\n👉 Swipe pour savoir où placer la limite.\n\n➕ Abonne-toi pour plus de méthodes IA.\n\n#ia #productivite #methode #intelligenceartificielle #travail"
+    },
+    {
+      "at": "2026-10-07T17:30:00+02:00",
+      "type": "carousel",
+      "media": "c/21",
+      "text": "Pourquoi l'IA « oublie » ce que tu lui as dit au début ? 🧠\n\nLa faute à la fenêtre de contexte, sa mémoire de travail. Et la parade est toute simple.\n\n👉 Swipe.\n\n📌 Enregistre ce post.\n\n#ia #llm #astuceia #claude #chatgpt"
+    },
+    {
+      "at": "2026-10-07T18:00:00+02:00",
+      "type": "story",
+      "media": "s/story_jour07.png",
+      "text": ""
+    },
+    {
+      "at": "2026-10-08T16:00:00+02:00",
+      "type": "carousel",
+      "media": "c/22",
+      "text": "Faire des vidéos sans tourner une seule image ? 🎬\n\nLe motion design en code : l'IA écrit, ton navigateur anime. Gratuit, réutilisable… avec une limite à connaître.\n\n💬 Commente « MOTION » et je te montre comment je fais mes vidéos.\n\n#motiondesign #ia #creationdecontenu #video #nocode"
+    },
+    {
+      "at": "2026-10-08T16:45:00+02:00",
+      "type": "carousel",
+      "media": "c/23",
+      "text": "Ton premier agent IA, en 4 étapes et sans coder. 🤖\n\nUn objectif clair, les bons outils, des consignes précises… et surtout un point de validation.\n\n💬 Commente « AGENT » et je le monte avec toi pas à pas.\n\n#agentia #ia #automatisation #nocode #tuto"
+    },
+    {
+      "at": "2026-10-08T18:00:00+02:00",
+      "type": "story",
+      "media": "s/story_jour08.png",
+      "text": ""
+    }
+  ]
+}
