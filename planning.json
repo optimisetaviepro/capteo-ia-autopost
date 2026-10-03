@@ -141,6 +141,342 @@
       "type": "story",
       "media": "s/story_jour08.png",
       "text": ""
+    },
+    {
+      "at": "2026-10-09T16:00:00+02:00",
+      "type": "carousel",
+      "media": "c/24",
+      "text": "Le réglage que 90 % des gens n'ont jamais touché. ⚙️\n\nLe prompt système, ce sont les consignes que l'IA relit avant chacun de tes messages. Bien réglé, il t'évite de répéter les mêmes choses à chaque fois.\n\n👉 Swipe pour écrire le tien en 3 lignes.\n\n📌 Enregistre ce post.\n\n#ia #prompt #chatgpt #claude #astuceia"
+    },
+    {
+      "at": "2026-10-09T16:45:00+02:00",
+      "type": "carousel",
+      "media": "c/25",
+      "text": "Tu expliques pendant 10 lignes ce que tu veux… alors qu'un seul exemple suffirait. 🎯\n\nDonne 2 ou 3 exemples à l'IA : elle copie le format, le ton et la longueur.\n\n👉 Swipe pour la méthode et le piège à éviter.\n\n📌 Enregistre ce post.\n\n#prompt #ia #chatgpt #astuceia #productivite"
+    },
+    {
+      "at": "2026-10-09T17:30:00+02:00",
+      "type": "carousel",
+      "media": "c/26",
+      "text": "Une seule phrase à ajouter à tes prompts. 🙋\n\n« Pose-moi d'abord tes questions. » L'IA arrête de deviner et te demande ce qu'il lui manque.\n\n👉 Swipe pour savoir quand l'utiliser.\n\n🔁 Partage ce post à quelqu'un qui trouve l'IA trop vague.\n\n#ia #prompt #chatgpt #claude #astuceia"
+    },
+    {
+      "at": "2026-10-09T18:00:00+02:00",
+      "type": "story",
+      "media": "s/story_jour09_10.png",
+      "text": ""
+    },
+    {
+      "at": "2026-10-10T16:00:00+02:00",
+      "type": "carousel",
+      "media": "c/27",
+      "text": "Même question, deux réponses différentes. Bug ? Non. 🎲\n\nL'IA choisit ses mots avec une part de hasard, réglée par la température.\n\n👉 Swipe pour savoir quand la baisser et quand la monter.\n\n➕ Abonne-toi pour comprendre l'IA en 5 slides.\n\n#ia #llm #intelligenceartificielle #chatgpt #apprendrelia"
+    },
+    {
+      "at": "2026-10-10T16:45:00+02:00",
+      "type": "carousel",
+      "media": "c/28",
+      "text": "Tu tapes encore tout à la main ? 📸\n\nChatGPT, Claude et Gemini lisent tes photos : tickets, captures d'écran, croquis, graphiques.\n\n👉 Swipe pour 5 usages qui font gagner du temps.\n\n📌 Enregistre ce post.\n\n#ia #productivite #chatgpt #claude #astuceia"
+    },
+    {
+      "at": "2026-10-10T17:30:00+02:00",
+      "type": "carousel",
+      "media": "c/29",
+      "text": "Comment l'IA sait que « voiture » et « auto » veulent dire la même chose ? 🗺️\n\nGrâce aux embeddings : chaque texte devient une adresse sur une carte du sens.\n\n👉 Swipe, zéro équation promis.\n\n➕ Abonne-toi : la suite arrive.\n\n#ia #embeddings #rag #llm #apprendrelia"
+    },
+    {
+      "at": "2026-10-10T18:00:00+02:00",
+      "type": "story",
+      "media": "s/story_jour10_10.png",
+      "text": ""
+    },
+    {
+      "at": "2026-10-11T16:00:00+02:00",
+      "type": "carousel",
+      "media": "c/30",
+      "text": "Une base de données qui comprend ce que tu veux dire. 🧲\n\nLa base vectorielle ne cherche pas des mots, elle cherche des idées. C'est la mémoire des chatbots qui répondent sur tes documents.\n\n👉 Swipe pour comprendre la différence.\n\n📌 Enregistre ce post.\n\n#ia #rag #basevectorielle #nocode #automatisation"
+    },
+    {
+      "at": "2026-10-11T16:45:00+02:00",
+      "type": "carousel",
+      "media": "c/31",
+      "text": "Prompt, RAG ou fine-tuning ? On te vend souvent le plus cher. 💸\n\nLa règle : commence par le prompt, ajoute le RAG s'il manque des infos, et garde le fine-tuning pour les cas très précis.\n\n👉 Swipe pour savoir lequel il te faut.\n\n📌 Enregistre ce post.\n\n#ia #rag #finetuning #llm #intelligenceartificielle"
+    },
+    {
+      "at": "2026-10-11T17:30:00+02:00",
+      "type": "carousel",
+      "media": "c/32",
+      "text": "Open source ou fermée : quelle IA choisir ? 🔓\n\nLes fermées (GPT, Claude, Gemini) sont les plus fortes. Les ouvertes (Llama, Mistral) te laissent garder tes données chez toi.\n\n👉 Swipe pour comparer.\n\n➕ Abonne-toi : demain, on l'installe sur ton PC.\n\n#ia #opensource #mistral #llm #intelligenceartificielle"
+    },
+    {
+      "at": "2026-10-11T18:00:00+02:00",
+      "type": "story",
+      "media": "s/story_jour11_10.png",
+      "text": ""
+    },
+    {
+      "at": "2026-10-12T16:00:00+02:00",
+      "type": "carousel",
+      "media": "c/33",
+      "text": "Une IA qui tourne sur ton PC, même sans Internet. 💻\n\nAvec Ollama ou LM Studio, tu lances un modèle gratuit en local. Tes documents ne quittent jamais ta machine.\n\n👉 Swipe pour les 3 étapes.\n\n📌 Enregistre ce post.\n\n#ia #ollama #opensource #confidentialite #tuto"
+    },
+    {
+      "at": "2026-10-12T16:45:00+02:00",
+      "type": "carousel",
+      "media": "c/34",
+      "text": "Zapier, Make ou n8n ? La question que tout le monde se pose. ⚔️\n\nZapier pour la simplicité, Make pour le visuel, n8n pour la liberté. Les trois font le job.\n\n👉 Swipe pour choisir le tien.\n\n💬 Dis-moi en commentaire lequel tu utilises.\n\n#automatisation #n8n #zapier #make #nocode"
+    },
+    {
+      "at": "2026-10-12T17:30:00+02:00",
+      "type": "carousel",
+      "media": "c/35",
+      "text": "Ce post a été publié par un réveil. ⏰\n\nLe déclencheur « cron » lance tes automatisations à heure fixe : tous les matins, chaque lundi, toutes les heures.\n\n👉 Swipe pour des idées et le réflexe à ne pas oublier.\n\n📌 Enregistre ce post.\n\n#automatisation #n8n #nocode #productivite #ia"
+    },
+    {
+      "at": "2026-10-12T18:00:00+02:00",
+      "type": "story",
+      "media": "s/story_jour12_10.png",
+      "text": ""
+    },
+    {
+      "at": "2026-10-13T16:00:00+02:00",
+      "type": "carousel",
+      "media": "c/36",
+      "text": "Tu en vois partout sans savoir le lire ? 🧩\n\nLe JSON, c'est une fiche bien rangée que toutes les applis comprennent. Et l'IA peut te répondre directement dans ce format.\n\n👉 Swipe pour le comprendre en 1 minute.\n\n📌 Enregistre ce post.\n\n#json #automatisation #nocode #api #apprendre"
+    },
+    {
+      "at": "2026-10-13T16:45:00+02:00",
+      "type": "carousel",
+      "media": "c/37",
+      "text": "Et si ta boîte mail se triait toute seule ? 📬\n\nUn mail arrive, l'IA le classe et le résume, il part dans le bon dossier. Tu ne lis plus que l'essentiel.\n\n👉 Swipe pour les 3 étapes.\n\n🔁 Partage ce post à quelqu'un qui croule sous les mails.\n\n#automatisation #email #ia #productivite #nocode"
+    },
+    {
+      "at": "2026-10-13T17:30:00+02:00",
+      "type": "carousel",
+      "media": "c/38",
+      "text": "Le compte rendu de réunion qui s'écrit tout seul. 🎙️\n\nEnregistrer, transcrire, faire résumer : décisions, actions, qui fait quoi. Prêt à envoyer en 5 minutes.\n\n👉 Swipe pour la méthode.\n\n📌 Enregistre ce post.\n\n#ia #productivite #reunion #automatisation #travail"
+    },
+    {
+      "at": "2026-10-13T18:00:00+02:00",
+      "type": "story",
+      "media": "s/story_jour13_10.png",
+      "text": ""
+    },
+    {
+      "at": "2026-10-14T16:00:00+02:00",
+      "type": "carousel",
+      "media": "c/39",
+      "text": "Ta veille, résumée et livrée chaque matin à 8h. ☕\n\nTes sources préférées, l'IA qui trie et résume, un seul message à lire. 3 minutes au lieu d'une heure.\n\n👉 Swipe pour la mettre en place.\n\n📌 Enregistre ce post.\n\n#veille #automatisation #ia #productivite #nocode"
+    },
+    {
+      "at": "2026-10-14T16:45:00+02:00",
+      "type": "carousel",
+      "media": "c/40",
+      "text": "Un simple mail peut détourner ton assistant IA. 🕵️\n\nC'est le prompt injection : des ordres cachés dans un texte que l'IA lit. Dangereux dès qu'elle peut agir à ta place.\n\n👉 Swipe pour t'en protéger.\n\n🔁 Partage ce post à quelqu'un qui monte des agents IA.\n\n#cybersecurite #ia #agentia #securite #automatisation"
+    },
+    {
+      "at": "2026-10-14T17:30:00+02:00",
+      "type": "carousel",
+      "media": "c/41",
+      "text": "Tu as déjà collé ça dans ChatGPT ? 🚫\n\nMots de passe, clés API, données bancaires ou de santé, secrets de clients : à garder hors de l'IA, ou à anonymiser avant.\n\n👉 Swipe pour la liste complète.\n\n🔁 Partage ce post, ça peut éviter une grosse erreur.\n\n#cybersecurite #ia #rgpd #chatgpt #confidentialite"
+    },
+    {
+      "at": "2026-10-14T18:00:00+02:00",
+      "type": "story",
+      "media": "s/story_jour14_10.png",
+      "text": ""
+    },
+    {
+      "at": "2026-10-15T16:00:00+02:00",
+      "type": "carousel",
+      "media": "c/42",
+      "text": "L'IA t'a donné un chiffre très précis ? Vérifie-le. 🔎\n\nDemande la source, méfie-toi des dates et des statistiques, recoupe ailleurs. 30 secondes qui évitent une belle erreur.\n\n👉 Swipe pour les 3 réflexes.\n\n📌 Enregistre ce post.\n\n#ia #espritcritique #hallucination #methode #chatgpt"
+    },
+    {
+      "at": "2026-10-15T16:45:00+02:00",
+      "type": "carousel",
+      "media": "c/43",
+      "text": "Arrête de tout réexpliquer à l'IA à chaque conversation. 🤖\n\nAvec les Projets Claude, les GPTs ou les Gems, tu crées un assistant qui connaît déjà tes consignes et tes documents.\n\n👉 Swipe pour créer le tien.\n\n📌 Enregistre ce post.\n\n#ia #claude #chatgpt #productivite #tuto"
+    },
+    {
+      "at": "2026-10-15T17:30:00+02:00",
+      "type": "carousel",
+      "media": "c/44",
+      "text": "Ton long prompt donne une réponse brouillon ? 🗂️\n\nDécoupe-le en sections avec des titres et encadre tes documents entre balises. L'IA suit enfin ton plan.\n\n👉 Swipe pour la structure.\n\n📌 Enregistre ce post.\n\n#prompt #ia #claude #chatgpt #astuceia"
+    },
+    {
+      "at": "2026-10-15T18:00:00+02:00",
+      "type": "story",
+      "media": "s/story_jour15_10.png",
+      "text": ""
+    },
+    {
+      "at": "2026-10-16T16:00:00+02:00",
+      "type": "carousel",
+      "media": "c/45",
+      "text": "Tu passes 20 minutes à chercher une formule Excel ? 📊\n\nDécris ce que tu veux en français, l'IA t'écrit la formule. Elle t'explique aussi celles que tu ne comprends pas.\n\n👉 Swipe pour 3 usages.\n\n📌 Enregistre ce post.\n\n#excel #ia #productivite #googlesheets #astuceia"
+    },
+    {
+      "at": "2026-10-16T16:45:00+02:00",
+      "type": "carousel",
+      "media": "c/46",
+      "text": "5 prompts à copier-coller pour gagner une heure par jour. ⏱️\n\nMails, résumés, priorités, réunions, et un prompt pour te débloquer quand tu tournes en rond.\n\n👉 Swipe pour les récupérer.\n\n📌 Enregistre ce post pour les avoir sous la main.\n\n#prompt #productivite #ia #chatgpt #organisation"
+    },
+    {
+      "at": "2026-10-16T17:30:00+02:00",
+      "type": "carousel",
+      "media": "c/47",
+      "text": "Tout le monde parle d'agents IA. Mais la plupart sont des workflows. 🔀\n\nWorkflow : un chemin fixe et fiable. Agent : un but, des outils, et il choisit sa route.\n\n👉 Swipe pour savoir lequel il te faut.\n\n🔁 Partage ce post à quelqu'un qui veut « un agent IA ».\n\n#agentia #automatisation #ia #n8n #nocode"
+    },
+    {
+      "at": "2026-10-16T18:00:00+02:00",
+      "type": "story",
+      "media": "s/story_jour16_10.png",
+      "text": ""
+    },
+    {
+      "at": "2026-10-17T16:00:00+02:00",
+      "type": "carousel",
+      "media": "c/48",
+      "text": "Ton automatisation IA a envoyé n'importe quoi à un client ? 😬\n\nAjoute une validation humaine avant chaque action irréversible : envoyer, payer, publier, supprimer.\n\n👉 Swipe pour savoir où et comment.\n\n📌 Enregistre ce post.\n\n#automatisation #ia #agentia #methode #nocode"
+    },
+    {
+      "at": "2026-10-17T16:45:00+02:00",
+      "type": "carousel",
+      "media": "c/49",
+      "text": "Une automatisation IA, ça coûte combien en vrai ? 💶\n\nL'outil, l'IA payée à l'usage… et ton temps, le poste que tout le monde oublie.\n\n👉 Swipe pour faire le calcul.\n\n📌 Enregistre ce post.\n\n#automatisation #ia #entrepreneur #rentabilite #nocode"
+    },
+    {
+      "at": "2026-10-17T17:30:00+02:00",
+      "type": "carousel",
+      "media": "c/50",
+      "text": "« Ça me fait gagner du temps. » Combien, exactement ? ⏳\n\nChronomètre la tâche, compte les exécutions, multiplie. Tu sauras enfin ce que vaut ton automatisation.\n\n👉 Swipe pour la méthode.\n\n📌 Enregistre ce post.\n\n#automatisation #productivite #entrepreneur #ia #methode"
+    },
+    {
+      "at": "2026-10-17T18:00:00+02:00",
+      "type": "story",
+      "media": "s/story_jour17_10.png",
+      "text": ""
+    },
+    {
+      "at": "2026-10-18T16:00:00+02:00",
+      "type": "carousel",
+      "media": "c/51",
+      "text": "Créer une appli sans savoir coder ? C'est le vibe coding. ✨\n\nTu décris ton idée, l'IA écrit le code, tu testes et tu corriges en discutant. Idéal pour un prototype.\n\n👉 Swipe pour les outils et les limites.\n\n➕ Abonne-toi pour plus d'outils IA.\n\n#vibecoding #ia #nocode #claudecode #developpement"
+    },
+    {
+      "at": "2026-10-18T16:45:00+02:00",
+      "type": "carousel",
+      "media": "c/52",
+      "text": "L'IA a cassé ton projet ? Pas de panique si tu utilises Git. 💾\n\nGit prend une photo de ton projet à chaque étape. Tu peux toujours revenir en arrière.\n\n👉 Swipe pour comprendre en 1 minute.\n\n📌 Enregistre ce post.\n\n#git #github #vibecoding #developpement #apprendre"
+    },
+    {
+      "at": "2026-10-18T17:30:00+02:00",
+      "type": "carousel",
+      "media": "c/53",
+      "text": "Ton site est prêt mais pas en ligne ? 🚀\n\nGitHub + Netlify, Vercel ou Cloudflare Pages : en quelques minutes ton site est public, et chaque modification se met en ligne toute seule.\n\n👉 Swipe pour les 3 étapes.\n\n📌 Enregistre ce post.\n\n#siteweb #netlify #nocode #vibecoding #tuto"
+    },
+    {
+      "at": "2026-10-18T18:00:00+02:00",
+      "type": "story",
+      "media": "s/story_jour18_10.png",
+      "text": ""
+    },
+    {
+      "at": "2026-10-19T16:00:00+02:00",
+      "type": "carousel",
+      "media": "c/54",
+      "text": "Ta clé API traîne dans ton code ? Danger. 🔑\n\nUne clé volée, c'est quelqu'un qui utilise l'IA à tes frais. Range-la dans les secrets et mets un plafond de dépense.\n\n👉 Swipe pour les bons réflexes.\n\n🔁 Partage ce post à quelqu'un qui débute avec les API.\n\n#api #cybersecurite #developpement #ia #automatisation"
+    },
+    {
+      "at": "2026-10-19T16:45:00+02:00",
+      "type": "carousel",
+      "media": "c/55",
+      "text": "« Rate limit exceeded » : ton automatisation s'arrête net ? 🚦\n\nChaque service limite le nombre de demandes. La parade : des pauses et des nouvelles tentatives automatiques.\n\n👉 Swipe pour comprendre et contourner.\n\n📌 Enregistre ce post.\n\n#api #automatisation #n8n #ia #developpement"
+    },
+    {
+      "at": "2026-10-19T17:30:00+02:00",
+      "type": "carousel",
+      "media": "c/56",
+      "text": "Ton IA « réfléchit » pendant 30 secondes. Elle fait quoi ? 🧠\n\nElle écrit un brouillon : elle décompose, teste, se corrige. Génial pour les problèmes complexes, inutile pour un mail.\n\n👉 Swipe pour savoir quand l'activer.\n\n➕ Abonne-toi pour comprendre l'IA en 5 slides.\n\n#ia #llm #raisonnement #claude #chatgpt"
+    },
+    {
+      "at": "2026-10-19T18:00:00+02:00",
+      "type": "story",
+      "media": "s/story_jour19_10.png",
+      "text": ""
+    },
+    {
+      "at": "2026-10-20T16:00:00+02:00",
+      "type": "carousel",
+      "media": "c/57",
+      "text": "Une journée de recherche faite en 10 minutes. 🔬\n\nLa recherche approfondie lit des dizaines de sources et te rend un rapport avec les liens. Parfait pour étudier un marché ou des concurrents.\n\n👉 Swipe pour bien la lancer.\n\n📌 Enregistre ce post.\n\n#ia #recherche #veille #chatgpt #productivite"
+    },
+    {
+      "at": "2026-10-20T16:45:00+02:00",
+      "type": "carousel",
+      "media": "c/58",
+      "text": "Tu parles 3 fois plus vite que tu n'écris. Profites-en. 🎧\n\nL'IA transcrit tes audios en texte, puis les transforme en article, mail ou liste de tâches.\n\n👉 Swipe pour les usages.\n\n📌 Enregistre ce post.\n\n#ia #transcription #productivite #podcast #creationdecontenu"
+    },
+    {
+      "at": "2026-10-20T17:30:00+02:00",
+      "type": "carousel",
+      "media": "c/59",
+      "text": "Une voix off pro, sans micro ni studio. 🎙️\n\nL'IA lit ton texte avec une voix naturelle, dans la langue de ton choix. Parfait pour tes vidéos et formations.\n\n👉 Swipe pour les usages et la limite à respecter.\n\n➕ Abonne-toi pour plus d'outils IA.\n\n#ia #voixoff #creationdecontenu #video #tts"
+    },
+    {
+      "at": "2026-10-20T18:00:00+02:00",
+      "type": "story",
+      "media": "s/story_jour20_10.png",
+      "text": ""
+    },
+    {
+      "at": "2026-10-21T16:00:00+02:00",
+      "type": "carousel",
+      "media": "c/60",
+      "text": "Tes images IA ont toutes le même look plastique ? 🖼️\n\nLe secret : un sujet précis, un lieu, une lumière et un style photo. Et oublie « ultra réaliste 8K ».\n\n👉 Swipe pour le prompt en 4 blocs.\n\n📌 Enregistre ce post.\n\n#ia #imageia #prompt #midjourney #creationdecontenu"
+    },
+    {
+      "at": "2026-10-21T16:45:00+02:00",
+      "type": "carousel",
+      "media": "c/61",
+      "text": "Ta présentation de demain n'est pas prête ? Pas de panique. 📽️\n\nLe plan avec l'IA, puis le contenu slide par slide, puis la mise en forme automatique. 10 minutes.\n\n👉 Swipe pour la méthode.\n\n📌 Enregistre ce post.\n\n#ia #presentation #powerpoint #canva #productivite"
+    },
+    {
+      "at": "2026-10-21T17:30:00+02:00",
+      "type": "carousel",
+      "media": "c/62",
+      "text": "Tes clients posent les mêmes questions à 23h ? 💬\n\nUn chatbot branché sur ta FAQ répond à ta place, et passe la main à un humain quand il ne sait pas.\n\n👉 Swipe pour le mettre en place.\n\n🔁 Partage ce post à un commerçant ou un artisan.\n\n#chatbot #ia #automatisation #entrepreneur #siteweb"
+    },
+    {
+      "at": "2026-10-21T18:00:00+02:00",
+      "type": "story",
+      "media": "s/story_jour21_10.png",
+      "text": ""
+    },
+    {
+      "at": "2026-10-22T16:00:00+02:00",
+      "type": "carousel",
+      "media": "c/63",
+      "text": "Ce post, je ne l'ai pas publié. Un robot l'a fait. 🤖\n\nUn planning, un script qui programme dans Buffer toutes les heures, et un filet de sécurité qui relance ce qui échoue.\n\n👉 Swipe pour voir les coulisses.\n\n💬 Dis-moi en commentaire si tu veux le même système.\n\n#automatisation #reseauxsociaux #instagram #buffer #nocode"
+    },
+    {
+      "at": "2026-10-22T16:45:00+02:00",
+      "type": "carousel",
+      "media": "c/64",
+      "text": "Les 3 erreurs que font tous les débutants en automatisation. 🚧\n\nAutomatiser un processus flou, oublier les alertes, vouloir tout faire d'un coup.\n\n👉 Swipe pour les éviter.\n\n📌 Enregistre ce post.\n\n#automatisation #nocode #n8n #ia #entrepreneur"
+    },
+    {
+      "at": "2026-10-22T17:30:00+02:00",
+      "type": "carousel",
+      "media": "c/65",
+      "text": "Il y a un mois, ces 10 mots étaient du charabia. 📚\n\nLLM, token, prompt système, embeddings, base vectorielle, RAG, API, webhook, agent, MCP. Le récap de la série en 5 slides.\n\n👉 Swipe pour réviser.\n\n💬 Dis-moi en commentaire celui qui t'a le plus servi.\n\n#ia #apprendrelia #intelligenceartificielle #llm #automatisation"
+    },
+    {
+      "at": "2026-10-22T18:00:00+02:00",
+      "type": "story",
+      "media": "s/story_jour22_10.png",
+      "text": ""
     }
   ]
 }

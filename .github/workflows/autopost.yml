@@ -2,25 +2,38 @@ name: Autopost Buffer
 
 on:
   schedule:
-    # 18:00 UTC = 20:00 à Paris (heure d'été). Programme les éléments des 30 h suivantes.
-    - cron: "0 18 * * *"
+    # Toutes les heures (à :17 pour éviter l'embouteillage de :00 sur GitHub).
+    # Chaque passage programme les 24 h suivantes et rattrape ce qui a été manqué :
+    # un passage raté ou en retard est couvert par le suivant.
+    - cron: "17 * * * *"
   workflow_dispatch:
 
 concurrency:
   group: autopost
   cancel-in-progress: false
 
+permissions:
+  contents: read
+  actions: write
+
 jobs:
   schedule:
     runs-on: ubuntu-latest
-    timeout-minutes: 10
+    timeout-minutes: 15
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
-      - name: Programmer les posts du lendemain
+      - name: Programmer et rattraper les posts
         env:
           BUFFER_API_KEY: ${{ secrets.BUFFER_API_KEY }}
           MEDIA_BRANCH: ${{ github.ref_name }}
         run: python scripts/schedule.py
+      # GitHub désactive les tâches planifiées d'un dépôt public après 60 jours sans activité.
+      # Réactiver le workflow via l'API remet ce compteur à zéro : l'automatisation ne s'arrête jamais.
+      - name: Garder l'automatisation active
+        if: always() && github.event_name == 'schedule'
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: gh api -X PUT "repos/${{ github.repository }}/actions/workflows/autopost.yml/enable"
