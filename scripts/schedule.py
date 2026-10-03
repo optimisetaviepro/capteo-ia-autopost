@@ -15,6 +15,7 @@ import argparse
 import json
 import os
 import sys
+import time
 import urllib.error
 import urllib.request
 from datetime import datetime, timedelta, timezone
@@ -73,11 +74,19 @@ def gql(api_key, query, variables=None):
         "Content-Type": "application/json",
         "User-Agent": USER_AGENT,
     })
-    try:
-        with urllib.request.urlopen(req, timeout=60) as r:
-            payload = json.load(r)
-    except urllib.error.HTTPError as e:
-        fail(f"HTTP {e.code} de l'API Buffer : {e.read().decode(errors='replace')[:500]}")
+    for attempt in range(1, 4):
+        try:
+            with urllib.request.urlopen(req, timeout=60) as r:
+                payload = json.load(r)
+            break
+        except urllib.error.HTTPError as e:
+            if e.code < 500 or attempt == 3:
+                fail(f"HTTP {e.code} de l'API Buffer : {e.read().decode(errors='replace')[:500]}")
+        except (urllib.error.URLError, TimeoutError, ConnectionError) as e:
+            if attempt == 3:
+                fail(f"API Buffer injoignable après 3 tentatives : {e}")
+        print(f"  … erreur réseau Buffer, nouvelle tentative dans {15 * attempt} s")
+        time.sleep(15 * attempt)
     if payload.get("errors"):
         fail(f"Erreur GraphQL : {json.dumps(payload['errors'], ensure_ascii=False)[:500]}")
     return payload["data"]
@@ -118,6 +127,17 @@ def existing_due_times(api_key, org_id, channel_id, start, end):
         if not data["pageInfo"]["hasNextPage"]:
             return seen
         after = data["pageInfo"]["endCursor"]
+
+
+def post_metadata(network, it):
+    if network == "tiktok":
+        # Titre du post photo TikTok : 1re ligne du texte, 90 caractères max.
+        first_line = it.get("text", "").strip().split("\n")[0]
+        return {"tiktok": {"title": first_line[:90]}}
+    return {"instagram": {
+        "type": "story" if it["type"] == "story" else "post",
+        "shouldShareToFeed": True,
+    }}
 
 
 def iso(dt):
@@ -167,39 +187,44 @@ def main():
         print("Rien à programmer dans la fenêtre.")
         return
 
-    already = existing_due_times(api_key, data["organization_id"], data["channel_id"], now, end)
+    # Instagram reçoit tout ; TikTok (si configuré) reçoit les carrousels en post photo.
+    channels = [("instagram", data["channel_id"])]
+    if data.get("tiktok_channel_id"):
+        channels.append(("tiktok", data["tiktok_channel_id"]))
+
     created = skipped = errors = 0
-    for it in due:
-        label = f"{it['at']:%d/%m %H:%M} {it['type']} {it['media']}"
-        if it["at"].astimezone(timezone.utc).replace(microsecond=0) in already:
-            print(f"  = déjà programmé : {label}")
-            skipped += 1
-            continue
-        urls = [media_url(repo, branch, f) for f in it["files"]]
-        missing = [u for u in urls if not check_url(u)]
-        if missing:
-            print(f"  ✗ image inaccessible (dépôt privé ou fichier non poussé ?) : {missing[0]}")
-            errors += 1
-            continue
-        post_input = {
-            "channelId": data["channel_id"],
-            "text": it.get("text", ""),
-            "assets": [{"image": {"url": u}} for u in urls],
-            "dueAt": iso(it["at"]),
-            "mode": "customScheduled",
-            "schedulingType": "automatic",
-            "metadata": {"instagram": {
-                "type": "story" if it["type"] == "story" else "post",
-                "shouldShareToFeed": True,
-            }},
-        }
-        res = gql(api_key, CREATE_MUTATION, {"input": post_input})["createPost"]
-        if "post" in res:
-            print(f"  ✓ programmé : {label} (id {res['post']['id']})")
-            created += 1
-        else:
-            print(f"  ✗ refusé par Buffer : {label} — {res.get('message')}")
-            errors += 1
+    for network, channel_id in channels:
+        already = existing_due_times(api_key, data["organization_id"], channel_id, now, end)
+        for it in due:
+            if network == "tiktok" and it["type"] != "carousel":
+                continue
+            label = f"{network:9} {it['at']:%d/%m %H:%M} {it['type']} {it['media']}"
+            if it["at"].astimezone(timezone.utc).replace(microsecond=0) in already:
+                print(f"  = déjà programmé : {label}")
+                skipped += 1
+                continue
+            urls = [media_url(repo, branch, f) for f in it["files"]]
+            missing = [u for u in urls if not check_url(u)]
+            if missing:
+                print(f"  ✗ image inaccessible (dépôt privé ou fichier non poussé ?) : {missing[0]}")
+                errors += 1
+                continue
+            post_input = {
+                "channelId": channel_id,
+                "text": it.get("text", ""),
+                "assets": [{"image": {"url": u}} for u in urls],
+                "dueAt": iso(it["at"]),
+                "mode": "customScheduled",
+                "schedulingType": "automatic",
+                "metadata": post_metadata(network, it),
+            }
+            res = gql(api_key, CREATE_MUTATION, {"input": post_input})["createPost"]
+            if "post" in res:
+                print(f"  ✓ programmé : {label} (id {res['post']['id']})")
+                created += 1
+            else:
+                print(f"  ✗ refusé par Buffer : {label} — {res.get('message')}")
+                errors += 1
 
     print(f"Bilan : {created} programmé(s), {skipped} déjà présent(s), {errors} erreur(s)")
     if errors:
