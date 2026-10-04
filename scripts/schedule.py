@@ -67,13 +67,11 @@ def load_planning():
             if not files[0].is_file():
                 fail(f"item {i} : fichier introuvable media/{it['media']}")
         elif it["type"] == "video":
-            # Reel Instagram + vidéo TikTok : media = "v/NN-slug.mp4", miniature facultative à côté en .jpg
+            # Reel Instagram + vidéo TikTok : media = "v/NN-slug.mp4" ; "cover_ms" = image de couverture
+            # (les réseaux n'acceptent pas de miniature personnalisée, seulement un instant de la vidéo).
             files = [MEDIA_DIR / it["media"]]
             if not files[0].is_file() or files[0].suffix != ".mp4":
                 fail(f"item {i} : vidéo introuvable media/{it['media']}")
-            cover = files[0].with_suffix(".jpg")
-            if cover.is_file():
-                files.append(cover)
         else:
             fail(f"item {i} : type inconnu '{it['type']}' (carousel, story ou video)")
         items.append({**it, "at": at, "files": files})
@@ -216,8 +214,8 @@ def post_metadata(network, it):
 def post_assets(it, urls):
     if it["type"] == "video":
         video = {"url": urls[0]}
-        if len(urls) > 1:
-            video["thumbnailUrl"] = urls[1]
+        if it.get("cover_ms") is not None:
+            video["metadata"] = {"thumbnailOffset": int(it["cover_ms"])}
         return [{"video": video}]
     return [{"image": {"url": u}} for u in urls]
 
