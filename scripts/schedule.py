@@ -66,8 +66,16 @@ def load_planning():
             files = [MEDIA_DIR / it["media"]]
             if not files[0].is_file():
                 fail(f"item {i} : fichier introuvable media/{it['media']}")
+        elif it["type"] == "video":
+            # Reel Instagram + vidéo TikTok : media = "v/NN-slug.mp4", miniature facultative à côté en .jpg
+            files = [MEDIA_DIR / it["media"]]
+            if not files[0].is_file() or files[0].suffix != ".mp4":
+                fail(f"item {i} : vidéo introuvable media/{it['media']}")
+            cover = files[0].with_suffix(".jpg")
+            if cover.is_file():
+                files.append(cover)
         else:
-            fail(f"item {i} : type inconnu '{it['type']}' (carousel ou story)")
+            fail(f"item {i} : type inconnu '{it['type']}' (carousel, story ou video)")
         items.append({**it, "at": at, "files": files})
     items.sort(key=lambda it: it["at"])
     return data, items
@@ -191,14 +199,32 @@ def parse_utc(s):
 
 
 def post_metadata(network, it):
+    video = it["type"] == "video"
     if network == "tiktok":
-        # Titre du post photo TikTok : 1re ligne du texte, 90 caractères max.
+        # Titre du post TikTok : 1re ligne du texte, 90 caractères max.
         first_line = it.get("text", "").strip().split("\n")[0]
-        return {"tiktok": {"title": first_line[:90]}}
-    return {"instagram": {
-        "type": "story" if it["type"] == "story" else "post",
-        "shouldShareToFeed": True,
-    }}
+        meta = {"title": first_line[:90]}
+        if video:
+            meta["isAiGenerated"] = True  # label « contenu généré par IA » exigé par TikTok
+        return {"tiktok": meta}
+    meta = {"type": "reel" if video else ("story" if it["type"] == "story" else "post"), "shouldShareToFeed": True}
+    if video:
+        meta["isAiGenerated"] = True
+    return {"instagram": meta}
+
+
+def post_assets(it, urls):
+    if it["type"] == "video":
+        video = {"url": urls[0]}
+        if len(urls) > 1:
+            video["thumbnailUrl"] = urls[1]
+        return [{"video": video}]
+    return [{"image": {"url": u}} for u in urls]
+
+
+def on_network(network, it):
+    """TikTok reçoit les carrousels et les vidéos, pas les stories."""
+    return network != "tiktok" or it["type"] in ("carousel", "video")
 
 
 def main():
@@ -235,7 +261,7 @@ def main():
     if args.dry_run:
         for network, _ in channels:
             for it in due:
-                if network == "tiktok" and it["type"] != "carousel":
+                if not on_network(network, it):
                     continue
                 mode = "rattrapage" if it["at"] <= now else "programmé"
                 print(f"  [dry-run] {network:9} {it['at']:%d/%m %H:%M} {it['type']:8} {mode:10} {it['media']}")
@@ -258,7 +284,7 @@ def main():
 
     created = caught_up = skipped = 0
     for network, channel_id in channels:
-        todo = [it for it in due if network != "tiktok" or it["type"] == "carousel"]
+        todo = [it for it in due if on_network(network, it)]
         if not todo:
             continue
         try:
@@ -279,12 +305,12 @@ def main():
                 print(f"  ! publication en erreur dans Buffer, nouvel essai : {label}")
             missing = [u for u in urls if not check_url(u)]
             if missing:
-                problems.append(f"image inaccessible pour {label} : {missing[0]}")
+                problems.append(f"fichier inaccessible pour {label} : {missing[0]}")
                 continue
             post_input = {
                 "channelId": channel_id,
                 "text": it.get("text", ""),
-                "assets": [{"image": {"url": u}} for u in urls],
+                "assets": post_assets(it, urls),
                 "mode": "shareNow" if late else "customScheduled",
                 "schedulingType": "automatic",
                 "metadata": post_metadata(network, it),
