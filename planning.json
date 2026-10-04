@@ -624,6 +624,20 @@
       "text": ""
     },
     {
+      "at": "2026-10-19T20:00:00+02:00",
+      "type": "video",
+      "media": "v/27-kino.mp4",
+      "text": "Aucune de ces affiches n'a été dessinée. Tout est du code.\n\n48 affiches de films générées, un mur en 3D, la fiche du film, le lecteur. Même les films sont inventés. Tu regarderais lequel ?\n\nMarque fictive. Pub 100 % codée par Claude, sans logiciel de montage.\n👉 Note-la sur 10 en commentaire.\n\n#claude #ia #cinema #streaming #motiondesign",
+      "cover_ms": 3900
+    },
+    {
+      "at": "2026-10-20T12:30:00+02:00",
+      "type": "video",
+      "media": "v/28-folio.mp4",
+      "text": "Ce livre n'a jamais été imprimé.\n\nUn livre ouvert, des pages qui tournent en 3D, une citation surlignée, le mode nuit. Le livre, l'autrice et l'histoire sont inventés, l'animation est écrite en code.\n\nMarque fictive. Pub 100 % codée par Claude, sans logiciel de montage.\n👉 Note-la sur 10 en commentaire.\n\n#claude #ia #lecture #livres #motiondesign",
+      "cover_ms": 3450
+    },
+    {
       "at": "2026-10-20T16:00:00+02:00",
       "type": "carousel",
       "media": "c/57",
@@ -648,6 +662,20 @@
       "text": ""
     },
     {
+      "at": "2026-10-20T20:00:00+02:00",
+      "type": "video",
+      "media": "v/29-alize.mp4",
+      "text": "4 saisons en 8 secondes. Zéro caméra.\n\nSoleil, nuages, pluie, neige, orage, puis le ciel qui se dégage. Chaque goutte et chaque flocon sont calculés par le code de Claude.\n\nMarque fictive. Pub 100 % codée par Claude, sans logiciel de montage.\n👉 Note-la sur 10 en commentaire.\n\n#claude #ia #meteo #motiondesign #marseille",
+      "cover_ms": 7100
+    },
+    {
+      "at": "2026-10-21T12:30:00+02:00",
+      "type": "video",
+      "media": "v/30-verde.mp4",
+      "text": "Cette plante pousse en code.\n\nPas une image de banque : chaque branche, chaque feuille et chaque fleur sont générées par un algorithme écrit par Claude. 90 jours de croissance en 6 secondes.\n\nMarque fictive. Pub 100 % codée par Claude, sans logiciel de montage.\n👉 Note-la sur 10 en commentaire.\n\n#claude #ia #plantes #creativecoding #motiondesign",
+      "cover_ms": 6100
+    },
+    {
       "at": "2026-10-21T16:00:00+02:00",
       "type": "carousel",
       "media": "c/60",
@@ -670,6 +698,13 @@
       "type": "story",
       "media": "s/story_jour21_10.png",
       "text": ""
+    },
+    {
+      "at": "2026-10-21T20:00:00+02:00",
+      "type": "video",
+      "media": "v/00-montage.mp4",
+      "text": "Claude a fait 30 pubs en une soirée.\n\n30 pubs, 30 marques inventées, 0 logiciel de montage. Tout est écrit en code par Claude. Laquelle tu préfères ? Donne son numéro.\n\nMarque fictive. Pub 100 % codée par Claude, sans logiciel de montage.\n👉 Note-la sur 10 en commentaire.\n\n#claude #ia #motiondesign #intelligenceartificielle #pub",
+      "cover_ms": 4500
     },
     {
       "at": "2026-10-22T16:00:00+02:00",

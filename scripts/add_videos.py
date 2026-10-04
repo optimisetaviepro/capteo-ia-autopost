@@ -21,7 +21,7 @@ SLOTS = ["12:30", "20:00"]
 ORDER = ["06-forma", "13-nexa", "08-spark", "01-nova", "20-bloom", "15-orbital", "11-volta", "07-aura", "02-orbit", "21-chrono",
          "03-pulse", "24-prism", "04-terra", "14-stack", "12-synth", "19-vandal", "09-flux", "23-nomad", "05-lento", "17-vault",
          "18-pixel", "22-tide", "10-habitat", "16-flow", "25-solaris", "26-echo", "27-kino", "28-folio", "29-alize", "30-verde",
-         "13b-nexa", "06b-forma", "08b-spark", "01b-nova", "15b-orbital"]
+         "13b-nexa", "06b-forma", "08b-spark", "01b-nova", "15b-orbital", "00-montage"]
 VARIANT_HOOKS = {"01b": "Ces écouteurs n'existent pas.", "06b": "Ce clip a demandé 0 heure de montage.",
                  "08b": "4 000 particules. Toutes codées par une IA.", "13b": "Ce téléphone n'existe pas.", "15b": "Aucune fusée n'a été filmée."}
 
