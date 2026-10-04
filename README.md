@@ -4,8 +4,8 @@ Publie automatiquement les carrousels sur Instagram (@capteo_ia) **et** TikTok (
 
 ## Comment ça marche (et pourquoi rien n'est raté)
 
-- GitHub Actions lance `scripts/schedule.py` **toutes les heures** (à :17).
-- Chaque passage programme dans Buffer tout ce qui est dû dans les **24 h** suivantes (reste sous la limite de 10 posts du plan gratuit).
+- GitHub Actions lance `scripts/schedule.py` **deux fois par heure** (à :17 et :47), car GitHub saute souvent des passages planifiés.
+- Chaque passage programme dans Buffer tout ce qui est dû dans les **6 h** suivantes (`WINDOW_HOURS`, pour rester sous la limite de 10 posts programmés du plan gratuit).
 - **Rattrapage** : un élément dont l'heure est passée depuis moins de 6 h et qui n'a pas été publié (ou dont la publication a échoué dans Buffer) est publié immédiatement.
 - **Anti-doublon** : un post déjà présent (même texte, même image de story ou même heure) n'est jamais recréé.
 - **Tentatives** : chaque appel à Buffer est retenté 4 fois en cas de panne réseau.

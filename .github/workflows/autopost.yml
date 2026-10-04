@@ -2,10 +2,11 @@ name: Autopost Buffer
 
 on:
   schedule:
-    # Toutes les heures (à :17 pour éviter l'embouteillage de :00 sur GitHub).
-    # Chaque passage programme les 24 h suivantes et rattrape ce qui a été manqué :
+    # Deux fois par heure (:17 et :47) : GitHub saute souvent des passages planifiés, le doublon compense.
+    # Chaque passage programme les heures suivantes (WINDOW_HOURS) et rattrape ce qui a été manqué :
     # un passage raté ou en retard est couvert par le suivant.
     - cron: "17 * * * *"
+    - cron: "47 * * * *"
   workflow_dispatch:
 
 concurrency:
