@@ -39,6 +39,18 @@ Le dépôt doit rester **public** : Buffer télécharge les images via `raw.gith
 4. Vérifier : `python scripts/schedule.py --dry-run --now 2026-10-08T18:00:00+00:00`
 5. `git add . && git commit -m "Planning du 9 octobre" && git push`
 
+## Vidéos (Reels Instagram + TikTok)
+
+Les vidéos de la série « Claude Reactions » sont publiées **2 fois par jour, à 12:30 et 20:00**, sur Instagram (Reel) et TikTok, avec le label « contenu généré par IA ».
+
+- Fichiers : `media/v/NN-slug.mp4` (1080x1920, H.264, ≈ 6 Mo).
+- Entrée du planning : `{ "at": "…", "type": "video", "media": "v/06-forma.mp4", "text": "légende", "cover_ms": 3700 }`
+  (`cover_ms` = instant de la vidéo utilisé comme couverture ; Buffer n'accepte pas de miniature à part).
+- Ajouter de nouvelles vidéos : les réencoder dans `media/v/`, puis `python scripts/add_videos.py --start AAAA-MM-JJ`
+  (légendes lues dans `claude-reactions/PUBLICATION.md`, créneaux libres suivants), puis `--dry-run`, commit, push.
+- Fenêtre de programmation de **6 h** (variable `WINDOW_HOURS` du workflow) pour rester sous la limite Buffer
+  de 10 posts programmés pour toute l'organisation.
+
 ## Lancer à la main
 
 ```

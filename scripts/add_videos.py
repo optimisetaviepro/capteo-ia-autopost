@@ -4,7 +4,7 @@
     python scripts/add_videos.py --start 2026-10-04 [--dry-run]
 
 Lit les légendes dans PUBLICATION.md du projet claude-reactions, prend les vidéos déjà copiées
-dans media/v/ (NN-slug.mp4 + NN-slug.jpg) dans l'ordre ORDER, et n'ajoute que celles qui ne sont
+dans media/v/ (NN-slug.mp4) dans l'ordre ORDER, et n'ajoute que celles qui ne sont
 pas encore au planning. Gère le passage à l'heure d'hiver (+01:00 à partir du 25/10/2026).
 """
 import argparse
@@ -15,6 +15,7 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
 PUBLICATION = Path(r"C:\Users\enzof\prospection-immo\claude-reactions\PUBLICATION.md")
+MONTAGE = Path(r"C:\Users\enzof\prospection-immo\claude-reactions\tools\montage.mjs")
 SLOTS = ["12:30", "20:00"]
 # Les plus fortes d'abord ; les variantes d'accroche (b) une fois la série publiée, pour comparer.
 ORDER = ["06-forma", "13-nexa", "08-spark", "01-nova", "20-bloom", "15-orbital", "11-volta", "07-aura", "02-orbit", "21-chrono",
@@ -46,6 +47,12 @@ def caption_for(slug, caps):
             f"{c['tags']}")
 
 
+def cover_times():
+    """Instant (ms) le plus spectaculaire de chaque pub, repris des choix du montage récapitulatif."""
+    m = MONTAGE.read_text(encoding="utf-8") if MONTAGE.is_file() else ""
+    return {a: int((float(b) + 0.5) * 1000) for a, b, _ in re.findall(r'\["(\d+-[a-z]+)", ([\d.]+), "([^"]+)"\]', m)}
+
+
 def offset(d):
     # Heure d'été jusqu'au samedi 24/10/2026 inclus, heure d'hiver ensuite.
     return "+02:00" if d < date(2026, 10, 25) else "+01:00"
@@ -60,7 +67,7 @@ def main():
     planning_path = ROOT / "planning.json"
     planning = json.loads(planning_path.read_text(encoding="utf-8"))
     already = {it["media"] for it in planning["items"] if it["type"] == "video"}
-    caps = captions()
+    caps, covers = captions(), cover_times()
     todo = [s for s in ORDER if (ROOT / "media" / "v" / f"{s}.mp4").is_file() and f"v/{s}.mp4" not in already]
     missing = [s for s in ORDER if not (ROOT / "media" / "v" / f"{s}.mp4").is_file()]
 
@@ -79,7 +86,8 @@ def main():
             text = caption_for(slug, caps)
             if not text:
                 raise SystemExit(f"légende introuvable pour {slug} dans PUBLICATION.md")
-            new.append({"at": at, "type": "video", "media": f"v/{slug}.mp4", "text": text})
+            base = re.sub(r"^(\d+)b-", r"\1-", slug)
+            new.append({"at": at, "type": "video", "media": f"v/{slug}.mp4", "text": text, "cover_ms": covers.get(base, 4500)})
         d += timedelta(days=1)
 
     for it in new:
