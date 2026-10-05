@@ -1,10 +1,12 @@
 #!/usr/bin/env python3
-"""Carrousels TikTok du compte giletjaune2.0 : photo IA + message + compte à rebours vers le 17 octobre.
+"""Vidéos TikTok du compte giletjaune2.0 : photo IA + message + compte à rebours vers le 17 octobre.
 
-Chaque post = 3 slides 1080x1340 :
+TikTok refuse le label « contenu IA » sur les posts photo via l'API : chaque post est donc une vidéo
+9:16 de 12 s (media/gj/v/NN.mp4) montée à partir de 3 slides 1080x1340 :
   1. la photo (générée par IA, déjà marquée « Image IA »)
   2. le message du post
   3. « J-X avant le 17 octobre » + appel à partager (« C'est aujourd'hui » le jour J)
+Musique de fond : contenu/giletjaune/music/m1-4.wav (générée par claude-reactions/tools/music.py, libre de droits).
 Puis ajoute les posts à planning.json (compte secondaire "giletjaune", label IA TikTok obligatoire).
 
 Usage :
@@ -14,6 +16,7 @@ Usage :
 import argparse
 import html
 import json
+import subprocess
 from datetime import date, datetime
 from pathlib import Path
 
@@ -24,6 +27,7 @@ ROOT = Path(__file__).resolve().parent.parent
 SRC = Path(r"D:\ONEDRIVE\Bureau\MES CRÉATIONS IA\images gilet jaune")
 POSTS = ROOT / "contenu" / "giletjaune" / "posts.json"
 OUT = ROOT / "media" / "gj"
+MUSIC = ROOT / "contenu" / "giletjaune" / "music"
 W, H = 1080, 1340
 D_DAY = date(2026, 10, 17)
 
@@ -84,6 +88,30 @@ def shoot(pg, content, out):
     pg.screenshot(path=str(out), clip={"x": 0, "y": 0, "width": W, "height": H})
 
 
+def make_video(d, out, music):
+    """Photo (zoom lent sur fond flouté) 5 s -> message 4 s -> compte à rebours 4,5 s, fondus de 0,4 s."""
+    fmt = "fps=30,format=yuv420p,setsar=1"
+    graph = (
+        f"[0]split[a][b];"
+        f"[a]scale=1080:1920:force_original_aspect_ratio=increase,crop=1080:1920,boxblur=40:4,eq=brightness=-0.18[bg];"
+        f"[b]scale=w='1080*(1+0.05*t/5)':h=-1:eval=frame,crop=1080:1340[fg];"
+        f"[bg][fg]overlay=0:290,{fmt}[v0];"
+        f"[1]pad=1080:1920:0:290:color=0x0d0d0d,{fmt}[v1];"
+        f"[2]pad=1080:1920:0:290:color=0x0d0d0d,{fmt}[v2];"
+        f"[v0][v1]xfade=transition=fade:duration=0.4:offset=4.6[x1];"
+        f"[x1][v2]xfade=transition=fade:duration=0.4:offset=8.2[v];"
+        f"[3:a]afade=t=out:st=11.7:d=1,volume=0.8[aud]"
+    )
+    cmd = ["ffmpeg", "-y", "-loglevel", "error",
+           "-loop", "1", "-t", "5", "-i", str(d / "1.png"),
+           "-loop", "1", "-t", "4", "-i", str(d / "2.png"),
+           "-loop", "1", "-t", "4.5", "-i", str(d / "3.png"),
+           "-i", str(music), "-filter_complex", graph, "-map", "[v]", "-map", "[aud]",
+           "-t", "12.7", "-c:v", "libx264", "-preset", "medium", "-crf", "22", "-pix_fmt", "yuv420p",
+           "-c:a", "aac", "-b:a", "160k", "-movflags", "+faststart", str(out)]
+    subprocess.run(cmd, check=True)
+
+
 def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--no-plan", action="store_true")
@@ -99,6 +127,8 @@ def main():
             Image.open(SRC / post["image"]).convert("RGB").resize((W, H), Image.LANCZOS).save(d / "1.png", optimize=True)
             shoot(pg, message_slide(post["message"]), d / "2.png")
             shoot(pg, countdown_slide(date.fromisoformat(post["date"])), d / "3.png")
+            (OUT / "v").mkdir(exist_ok=True)
+            make_video(d, OUT / "v" / f"{post['id']}.mp4", MUSIC / f"m{int(post['id']) % 4 + 1}.wav")
             print(f"  gj/{post['id']} : {post['date']} {post['slot']} — {post['message'][:50]}")
         browser.close()
 
@@ -108,8 +138,8 @@ def main():
     planning["items"] = [it for it in planning["items"] if it.get("account") != "giletjaune"]
     for post in posts:
         planning["items"].append({
-            "at": f"{post['date']}T{post['slot']}:00+02:00", "type": "carousel", "media": f"gj/{post['id']}",
-            "text": caption(post), "account": "giletjaune", "ai_label": True,
+            "at": f"{post['date']}T{post['slot']}:00+02:00", "type": "video", "media": f"gj/v/{post['id']}.mp4",
+            "text": caption(post), "account": "giletjaune", "ai_label": True, "cover_ms": 1500,
         })
     planning["items"].sort(key=lambda it: datetime.fromisoformat(it["at"]))
     (ROOT / "planning.json").write_text(json.dumps(planning, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
