@@ -1,0 +1,254 @@
+[
+  {
+    "id": "01",
+    "image": "gilet-jaune-17-octobre-01.png",
+    "date": "2026-10-06",
+    "slot": "12:30",
+    "message": "Pompiers, agriculteurs, Gen Z, gilets jaunes. Pour une fois, tout le monde au même endroit."
+  },
+  {
+    "id": "02",
+    "image": "gilet-jaune-17-octobre-02.png",
+    "date": "2026-10-06",
+    "slot": "18:30",
+    "message": "Carburant. Loyers. Courses. Tout augmente. Sauf la fiche de paie."
+  },
+  {
+    "id": "03",
+    "image": "gilet-jaune-17-octobre-03.png",
+    "date": "2026-10-06",
+    "slot": "21:15",
+    "message": "Faire le plein ne devrait pas être un luxe."
+  },
+  {
+    "id": "04",
+    "image": "gilet-jaune-17-octobre-04.png",
+    "date": "2026-10-07",
+    "slot": "12:30",
+    "message": "Une vie de travail. Et une retraite qui ne suit plus les prix."
+  },
+  {
+    "id": "05",
+    "image": "gilet-jaune-17-octobre-06.png",
+    "date": "2026-10-07",
+    "slot": "18:30",
+    "message": "Le caddie coûte plus cher. Le salaire, lui, n'a pas bougé."
+  },
+  {
+    "id": "06",
+    "image": "gilet-jaune-17-octobre-05.png",
+    "date": "2026-10-07",
+    "slot": "21:15",
+    "message": "La Gen Z aussi en a marre de compter chaque euro."
+  },
+  {
+    "id": "07",
+    "image": "gilet-jaune-17-octobre-10.png",
+    "date": "2026-10-08",
+    "slot": "12:30",
+    "message": "Ceux qui font rouler le pays n'arrivent plus à payer le gazole."
+  },
+  {
+    "id": "08",
+    "image": "gilet-jaune-17-octobre-11.png",
+    "date": "2026-10-08",
+    "slot": "18:30",
+    "message": "Ils nous ont soignés. Aujourd'hui, ils sont épuisés."
+  },
+  {
+    "id": "09",
+    "image": "gilet-jaune-17-octobre-12.png",
+    "date": "2026-10-08",
+    "slot": "21:15",
+    "message": "Sans agriculteurs, pas d'assiette. Ils seront là."
+  },
+  {
+    "id": "10",
+    "image": "gilet-jaune-17-octobre-16.png",
+    "date": "2026-10-09",
+    "slot": "12:30",
+    "message": "Essence, loyer, électricité, courses. L'addition est trop salée."
+  },
+  {
+    "id": "11",
+    "image": "gilet-jaune-17-octobre-21.png",
+    "date": "2026-10-09",
+    "slot": "18:30",
+    "message": "Livreurs, précaires, indépendants : on pédale, ils encaissent."
+  },
+  {
+    "id": "12",
+    "image": "gilet-jaune-17-octobre-22.png",
+    "date": "2026-10-09",
+    "slot": "21:15",
+    "message": "Je bosse. Je paie. Et à la fin du mois, il ne reste rien."
+  },
+  {
+    "id": "13",
+    "image": "gilet-jaune-17-octobre-26.png",
+    "date": "2026-10-10",
+    "slot": "12:30",
+    "message": "Quand un plein coûte une journée de travail, quelque chose ne va plus."
+  },
+  {
+    "id": "14",
+    "image": "gilet-jaune-17-octobre-27.png",
+    "date": "2026-10-10",
+    "slot": "18:30",
+    "message": "Même panier, prix plus haut. Chaque semaine."
+  },
+  {
+    "id": "15",
+    "image": "gilet-jaune-17-octobre-15.png",
+    "date": "2026-10-10",
+    "slot": "21:15",
+    "message": "Carburant, inflation, loyers, salaires. Le 17, on dit tout."
+  },
+  {
+    "id": "16",
+    "image": "gilet-jaune-17-octobre-31.png",
+    "date": "2026-10-11",
+    "slot": "12:30",
+    "message": "Ils décident sans nous. Et c'est toujours nous qui payons."
+  },
+  {
+    "id": "17",
+    "image": "gilet-jaune-17-octobre-08.png",
+    "date": "2026-10-11",
+    "slot": "18:30",
+    "message": "Pas de réforme sans le peuple. C'est simple."
+  },
+  {
+    "id": "18",
+    "image": "gilet-jaune-17-octobre-20.png",
+    "date": "2026-10-11",
+    "slot": "21:15",
+    "message": "Carburant, inflation, réformes : notre réponse tient en trois lettres."
+  },
+  {
+    "id": "19",
+    "image": "gilet-jaune-17-octobre-14.png",
+    "date": "2026-10-12",
+    "slot": "12:30",
+    "message": "Paris, Marseille, Lyon, Lille… Partout en France."
+  },
+  {
+    "id": "20",
+    "image": "gilet-jaune-17-octobre-25.png",
+    "date": "2026-10-12",
+    "slot": "18:30",
+    "message": "Pas besoin d'une grande ville. Ta mairie, ton rond-point, ta place."
+  },
+  {
+    "id": "21",
+    "image": "gilet-jaune-17-octobre-35.png",
+    "date": "2026-10-12",
+    "slot": "21:15",
+    "message": "Ta ville aussi peut porter le gilet le 17 octobre."
+  },
+  {
+    "id": "22",
+    "image": "gilet-jaune-17-octobre-17.png",
+    "date": "2026-10-13",
+    "slot": "12:30",
+    "message": "Pas de casse, pas de haine. On est tous le peuple."
+  },
+  {
+    "id": "23",
+    "image": "gilet-jaune-17-octobre-28.png",
+    "date": "2026-10-13",
+    "slot": "18:30",
+    "message": "Pompiers, soignants, salariés, retraités. Ensemble."
+  },
+  {
+    "id": "24",
+    "image": "gilet-jaune-17-octobre-29.png",
+    "date": "2026-10-13",
+    "slot": "21:15",
+    "message": "On reste calmes. On reste dignes. On reste là."
+  },
+  {
+    "id": "25",
+    "image": "gilet-jaune-17-octobre-07.png",
+    "date": "2026-10-14",
+    "slot": "12:30",
+    "message": "Pacifiquement. Massivement. On marche."
+  },
+  {
+    "id": "26",
+    "image": "gilet-jaune-17-octobre-19.png",
+    "date": "2026-10-14",
+    "slot": "18:30",
+    "message": "Tambours, sifflets, klaxons : on ne se taira pas."
+  },
+  {
+    "id": "27",
+    "image": "gilet-jaune-17-octobre-33.png",
+    "date": "2026-10-14",
+    "slot": "21:15",
+    "message": "Filme. Partage. Montre ce qui se passe dans ta ville."
+  },
+  {
+    "id": "28",
+    "image": "gilet-jaune-17-octobre-13.png",
+    "date": "2026-10-15",
+    "slot": "12:30",
+    "message": "Le 17 octobre, rendez-vous partout en France."
+  },
+  {
+    "id": "29",
+    "image": "gilet-jaune-17-octobre-24.png",
+    "date": "2026-10-15",
+    "slot": "18:30",
+    "message": "Seul, on ne pèse rien. Ensemble, on a le nombre."
+  },
+  {
+    "id": "30",
+    "image": "gilet-jaune-17-octobre-32.png",
+    "date": "2026-10-15",
+    "slot": "21:15",
+    "message": "Le message est partout : ponts, ronds-points, réseaux."
+  },
+  {
+    "id": "31",
+    "image": "gilet-jaune-17-octobre-23.png",
+    "date": "2026-10-16",
+    "slot": "12:30",
+    "message": "Une réforme qui touche tout le monde se décide avec tout le monde."
+  },
+  {
+    "id": "32",
+    "image": "gilet-jaune-17-octobre-34.png",
+    "date": "2026-10-16",
+    "slot": "18:30",
+    "message": "Assis, pacifiques, déterminés. On reste."
+  },
+  {
+    "id": "33",
+    "image": "gilet-jaune-17-octobre-30.png",
+    "date": "2026-10-16",
+    "slot": "21:15",
+    "message": "Le 17, sors de chez toi. Rejoins le mouvement près de chez toi."
+  },
+  {
+    "id": "34",
+    "image": "gilet-jaune-17-octobre-18.png",
+    "date": "2026-10-17",
+    "slot": "08:00",
+    "message": "C'est aujourd'hui. On rallume la France."
+  },
+  {
+    "id": "35",
+    "image": "gilet-jaune-17-octobre-36.png",
+    "date": "2026-10-17",
+    "slot": "12:30",
+    "message": "On tient. Ensemble, jusqu'au bout."
+  },
+  {
+    "id": "36",
+    "image": "gilet-jaune-17-octobre-38.png",
+    "date": "2026-10-17",
+    "slot": "18:30",
+    "message": "Chaque ville compte. Chaque gilet compte. Merci d'être là."
+  }
+]

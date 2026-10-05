@@ -202,9 +202,9 @@ def post_metadata(network, it):
         # Titre du post TikTok : 1re ligne du texte, 90 caractères max.
         first_line = it.get("text", "").strip().split("\n")[0]
         meta = {"title": first_line[:90]}
-        if video:
-            # Label « contenu généré par IA » : activé par défaut, "ai_label": false pour le test A/B
-            # (motion design codé, pas d'image réaliste générée).
+        if video or "ai_label" in it:
+            # Label « contenu généré par IA » : activé par défaut sur les vidéos ("ai_label": false pour le
+            # test A/B, motion design codé) ; obligatoire sur les photos réalistes générées ("ai_label": true).
             meta["isAiGenerated"] = it.get("ai_label", True)
         return {"tiktok": meta}
     meta = {"type": "reel" if video else ("story" if it["type"] == "story" else "post"), "shouldShareToFeed": True}
@@ -222,9 +222,12 @@ def post_assets(it, urls):
     return [{"image": {"url": u}} for u in urls]
 
 
-def on_network(network, it):
-    """La clé "networks" (liste) choisit les réseaux d'un élément ; sinon TikTok reçoit carrousels et vidéos,
+def on_network(network, it, account=None):
+    """Un élément avec "account" ne part que sur ce compte secondaire (planning["accounts"]).
+    Sinon, la clé "networks" (liste) choisit les réseaux ; par défaut TikTok reçoit carrousels et vidéos,
     Instagram reçoit tout."""
+    if account or it.get("account"):
+        return it.get("account") == account
     if "networks" in it:
         return network in it["networks"]
     return network != "tiktok" or it["type"] in ("carousel", "video")
@@ -257,17 +260,21 @@ def main():
     repo = os.getenv("GITHUB_REPOSITORY", "PSEUDO/capteo-ia-autopost")
     branch = os.getenv("MEDIA_BRANCH", "main")
 
-    channels = [("instagram", data["channel_id"])]
+    # (réseau, channel Buffer, compte secondaire ou None pour les comptes Capteo)
+    channels = [("instagram", data["channel_id"], None)]
     if data.get("tiktok_channel_id"):
-        channels.append(("tiktok", data["tiktok_channel_id"]))
+        channels.append(("tiktok", data["tiktok_channel_id"], None))
+    for name, acc in data.get("accounts", {}).items():
+        channels.append((acc["network"], acc["channel_id"], name))
 
     if args.dry_run:
-        for network, _ in channels:
+        for network, _, account in channels:
             for it in due:
-                if not on_network(network, it):
+                if not on_network(network, it, account):
                     continue
                 mode = "rattrapage" if it["at"] <= now else "programmé"
-                print(f"  [dry-run] {network:9} {it['at']:%d/%m %H:%M} {it['type']:8} {mode:10} {it['media']}")
+                where = account or network
+                print(f"  [dry-run] {where:11} {it['at']:%d/%m %H:%M} {it['type']:8} {mode:10} {it['media']}")
         for p in problems:
             alert(p)
         return
@@ -286,18 +293,18 @@ def main():
     print(f"Connexion Buffer OK (organisation « {orgs[data['organization_id']]} »)")
 
     created = caught_up = skipped = 0
-    for network, channel_id in channels:
-        todo = [it for it in due if on_network(network, it)]
+    for network, channel_id, account in channels:
+        todo = [it for it in due if on_network(network, it, account)]
         if not todo:
             continue
         try:
             ok, failed = existing_posts(api_key, data["organization_id"], channel_id,
                                         start - timedelta(hours=1), end + timedelta(minutes=5))
         except BufferError as e:
-            problems.append(f"{network} : lecture des posts existants impossible ({e})")
+            problems.append(f"{account or network} : lecture des posts existants impossible ({e})")
             continue
         for it in todo:
-            label = f"{network:9} {it['at']:%d/%m %H:%M} {it['type']} {it['media']}"
+            label = f"{account or network:11} {it['at']:%d/%m %H:%M} {it['type']} {it['media']}"
             urls = [media_url(repo, branch, f) for f in it["files"]]
             keys = item_keys(it, urls)
             if keys & ok:
