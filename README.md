@@ -57,3 +57,16 @@ Les vidéos de la série « Claude Reactions » sont publiées **2 fois par jour
 gh workflow run autopost.yml
 gh run watch
 ```
+
+## Stratégie v2 et tests A/B (depuis le 05/10/2026 après-midi)
+
+- **Instagram : 2 posts par jour** au lieu de 6 : le carrousel de 16:00 et le Reel de 20:00. Plus de story récap.
+  **TikTok** garde tout (3 carrousels + 2 vidéos).
+  Clé `"networks": ["instagram", "tiktok"]` sur chaque élément du planning (absente = comportement par défaut).
+- **Accroches v2** : les couvertures des carrousels 24 à 65 parlent d'un problème du lecteur au lieu de définir un mot
+  (ancien titre conservé dans `title_v1` de `contenu/*.json`). Clé `"hook": "v2"` dans le planning.
+- **Label IA** : `"ai_label": false` un jour sur deux (jours impairs) sur les vidéos, pour mesurer son effet.
+  Les vidéos sont du motion design codé, sans image réaliste générée.
+- **Tableau de bord** : `.github/workflows/metrics.yml` lance chaque matin `scripts/metrics.py`, qui écrit
+  `stats/posts.csv` et `stats/RAPPORT.md` (top 5 par réseau et verdict de chaque test). À la main :
+  `gh workflow run metrics.yml`.

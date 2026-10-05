@@ -1,254 +1,653 @@
 [
   {
-    "id": "45", "short": "L'IA et Excel", "kicker": "Cas concret",
-    "title": "Plus jamais bloqué sur une formule Excel.",
+    "id": "45",
+    "short": "L'IA et Excel",
+    "kicker": "Cas concret",
+    "title": "20 minutes pour trouver une formule Excel ?",
     "subtitle": "L'IA comme assistant tableur.",
     "slides": [
-      {"k": "Usage 1", "t": "Écrire la formule", "b": "« En colonne C, je veux le total si la colonne B dit payé. » Elle te donne la formule exacte."},
-      {"k": "Usage 2", "t": "Comprendre une formule", "b": "Colle la formule de ton collègue, elle t'explique chaque morceau en français."},
-      {"k": "Usage 3", "t": "Nettoyer des données", "b": "Noms en majuscules, dates mélangées, doublons. Elle te dit comment tout remettre d'aplomb."}
+      {
+        "k": "Usage 1",
+        "t": "Écrire la formule",
+        "b": "« En colonne C, je veux le total si la colonne B dit payé. » Elle te donne la formule exacte."
+      },
+      {
+        "k": "Usage 2",
+        "t": "Comprendre une formule",
+        "b": "Colle la formule de ton collègue, elle t'explique chaque morceau en français."
+      },
+      {
+        "k": "Usage 3",
+        "t": "Nettoyer des données",
+        "b": "Noms en majuscules, dates mélangées, doublons. Elle te dit comment tout remettre d'aplomb."
+      }
     ],
-    "cta": {"k": "L'astuce", "t": "Donne les noms de colonnes.", "b": "Et dis si tu es sur Excel ou Google Sheets : les formules diffèrent parfois."},
-    "caption": "Tu passes 20 minutes à chercher une formule Excel ? 📊\n\nDécris ce que tu veux en français, l'IA t'écrit la formule. Elle t'explique aussi celles que tu ne comprends pas.\n\n👉 Swipe pour 3 usages.\n\n📌 Enregistre ce post.\n\n#excel #ia #productivite #googlesheets #astuceia"
+    "cta": {
+      "k": "L'astuce",
+      "t": "Donne les noms de colonnes.",
+      "b": "Et dis si tu es sur Excel ou Google Sheets : les formules diffèrent parfois."
+    },
+    "caption": "Tu passes 20 minutes à chercher une formule Excel ? 📊\n\nDécris ce que tu veux en français, l'IA t'écrit la formule. Elle t'explique aussi celles que tu ne comprends pas.\n\n👉 Swipe pour 3 usages.\n\n📌 Enregistre ce post.\n\n#excel #ia #productivite #googlesheets #astuceia",
+    "title_v1": "Plus jamais bloqué sur une formule Excel."
   },
   {
-    "id": "46", "short": "5 prompts pour gagner 1h", "kicker": "Prompts",
-    "title": "5 prompts pour gagner une heure par jour.",
+    "id": "46",
+    "short": "5 prompts pour gagner 1h",
+    "kicker": "Prompts",
+    "title": "Ces 5 prompts me font gagner 1 h par jour.",
     "subtitle": "À copier-coller.",
     "slides": [
-      {"k": "1 et 2", "t": "Mails et résumés", "b": "« Réponds à ce mail, poli et ferme, 5 lignes max. » « Résume ce document en 5 points. »"},
-      {"k": "3 et 4", "t": "Planning et réunions", "b": "« Classe ces tâches par urgence et importance. » « Prépare l'ordre du jour de cette réunion. »"},
-      {"k": "5", "t": "Le déblocage", "b": "« Je bloque sur ce sujet. Pose-moi 5 questions pour m'aider à avancer. »"}
+      {
+        "k": "1 et 2",
+        "t": "Mails et résumés",
+        "b": "« Réponds à ce mail, poli et ferme, 5 lignes max. » « Résume ce document en 5 points. »"
+      },
+      {
+        "k": "3 et 4",
+        "t": "Planning et réunions",
+        "b": "« Classe ces tâches par urgence et importance. » « Prépare l'ordre du jour de cette réunion. »"
+      },
+      {
+        "k": "5",
+        "t": "Le déblocage",
+        "b": "« Je bloque sur ce sujet. Pose-moi 5 questions pour m'aider à avancer. »"
+      }
     ],
-    "cta": {"k": "Le conseil", "t": "Enregistre-les quelque part.", "b": "Un fichier de prompts prêts à l'emploi, c'est du temps gagné chaque jour."},
-    "caption": "5 prompts à copier-coller pour gagner une heure par jour. ⏱️\n\nMails, résumés, priorités, réunions, et un prompt pour te débloquer quand tu tournes en rond.\n\n👉 Swipe pour les récupérer.\n\n📌 Enregistre ce post pour les avoir sous la main.\n\n#prompt #productivite #ia #chatgpt #organisation"
+    "cta": {
+      "k": "Le conseil",
+      "t": "Enregistre-les quelque part.",
+      "b": "Un fichier de prompts prêts à l'emploi, c'est du temps gagné chaque jour."
+    },
+    "caption": "5 prompts à copier-coller pour gagner une heure par jour. ⏱️\n\nMails, résumés, priorités, réunions, et un prompt pour te débloquer quand tu tournes en rond.\n\n👉 Swipe pour les récupérer.\n\n📌 Enregistre ce post pour les avoir sous la main.\n\n#prompt #productivite #ia #chatgpt #organisation",
+    "title_v1": "5 prompts pour gagner une heure par jour."
   },
   {
-    "id": "47", "short": "Agent ou workflow", "kicker": "Choisir",
-    "title": "Agent IA ou workflow : arrête de tout appeler « agent ».",
-    "subtitle": "La vraie différence.",
+    "id": "47",
+    "short": "Agent ou workflow",
+    "kicker": "Choisir",
+    "title": "La plupart des « agents IA » n'en sont pas.",
+    "subtitle": "Agent ou workflow : la vraie différence.",
     "slides": [
-      {"k": "Le workflow", "t": "Un chemin fixe", "b": "Étape 1, puis 2, puis 3. Toujours le même parcours. Prévisible et facile à vérifier."},
-      {"k": "L'agent", "t": "Un chemin choisi", "b": "On lui donne un but et des outils. Il décide lui-même des étapes. Plus souple, moins prévisible."},
-      {"k": "Lequel choisir", "t": "Workflow d'abord", "b": "Si tu peux dessiner les étapes à l'avance, fais un workflow. L'agent, c'est pour les cas imprévisibles."}
+      {
+        "k": "Le workflow",
+        "t": "Un chemin fixe",
+        "b": "Étape 1, puis 2, puis 3. Toujours le même parcours. Prévisible et facile à vérifier."
+      },
+      {
+        "k": "L'agent",
+        "t": "Un chemin choisi",
+        "b": "On lui donne un but et des outils. Il décide lui-même des étapes. Plus souple, moins prévisible."
+      },
+      {
+        "k": "Lequel choisir",
+        "t": "Workflow d'abord",
+        "b": "Si tu peux dessiner les étapes à l'avance, fais un workflow. L'agent, c'est pour les cas imprévisibles."
+      }
     ],
-    "cta": {"k": "À retenir", "t": "Fiable avant intelligent.", "b": "La plupart des « agents » vendus sont des workflows. Et c'est très bien."},
-    "caption": "Tout le monde parle d'agents IA. Mais la plupart sont des workflows. 🔀\n\nWorkflow : un chemin fixe et fiable. Agent : un but, des outils, et il choisit sa route.\n\n👉 Swipe pour savoir lequel il te faut.\n\n🔁 Partage ce post à quelqu'un qui veut « un agent IA ».\n\n#agentia #automatisation #ia #n8n #nocode"
+    "cta": {
+      "k": "À retenir",
+      "t": "Fiable avant intelligent.",
+      "b": "La plupart des « agents » vendus sont des workflows. Et c'est très bien."
+    },
+    "caption": "Tout le monde parle d'agents IA. Mais la plupart sont des workflows. 🔀\n\nWorkflow : un chemin fixe et fiable. Agent : un but, des outils, et il choisit sa route.\n\n👉 Swipe pour savoir lequel il te faut.\n\n🔁 Partage ce post à quelqu'un qui veut « un agent IA ».\n\n#agentia #automatisation #ia #n8n #nocode",
+    "title_v1": "Agent IA ou workflow : arrête de tout appeler « agent »."
   },
   {
-    "id": "48", "short": "L'humain dans la boucle", "kicker": "Méthode",
-    "title": "L'étape qui évite les catastrophes en automatisation.",
-    "subtitle": "L'humain dans la boucle.",
+    "id": "48",
+    "short": "L'humain dans la boucle",
+    "kicker": "Méthode",
+    "title": "Ton automatisation a écrit n'importe quoi à un client ?",
+    "subtitle": "L'étape qui évite la catastrophe.",
     "slides": [
-      {"k": "Le principe", "t": "Une validation au bon moment", "b": "L'IA prépare, un humain valide, puis l'automatisation continue."},
-      {"k": "Où la mettre", "t": "Avant ce qui est irréversible", "b": "Envoyer un mail client, payer, publier, supprimer. Tout ce qu'on ne peut pas annuler."},
-      {"k": "Comment", "t": "Un bouton « OK »", "b": "Un message Slack, Telegram ou mail avec Valider / Refuser. n8n et Make le font très bien."}
+      {
+        "k": "Le principe",
+        "t": "Une validation au bon moment",
+        "b": "L'IA prépare, un humain valide, puis l'automatisation continue."
+      },
+      {
+        "k": "Où la mettre",
+        "t": "Avant ce qui est irréversible",
+        "b": "Envoyer un mail client, payer, publier, supprimer. Tout ce qu'on ne peut pas annuler."
+      },
+      {
+        "k": "Comment",
+        "t": "Un bouton « OK »",
+        "b": "Un message Slack, Telegram ou mail avec Valider / Refuser. n8n et Make le font très bien."
+      }
     ],
-    "cta": {"k": "La règle", "t": "Automatise, mais garde la clé.", "b": "Tu retireras la validation quand l'IA aura fait ses preuves."},
-    "caption": "Ton automatisation IA a envoyé n'importe quoi à un client ? 😬\n\nAjoute une validation humaine avant chaque action irréversible : envoyer, payer, publier, supprimer.\n\n👉 Swipe pour savoir où et comment.\n\n📌 Enregistre ce post.\n\n#automatisation #ia #agentia #methode #nocode"
+    "cta": {
+      "k": "La règle",
+      "t": "Automatise, mais garde la clé.",
+      "b": "Tu retireras la validation quand l'IA aura fait ses preuves."
+    },
+    "caption": "Ton automatisation IA a envoyé n'importe quoi à un client ? 😬\n\nAjoute une validation humaine avant chaque action irréversible : envoyer, payer, publier, supprimer.\n\n👉 Swipe pour savoir où et comment.\n\n📌 Enregistre ce post.\n\n#automatisation #ia #agentia #methode #nocode",
+    "title_v1": "L'étape qui évite les catastrophes en automatisation."
   },
   {
-    "id": "49", "short": "Le coût d'une automatisation", "kicker": "Argent",
-    "title": "Combien coûte vraiment une automatisation IA ?",
+    "id": "49",
+    "short": "Le coût d'une automatisation",
+    "kicker": "Argent",
+    "title": "Une automatisation IA, ça coûte combien en vrai ?",
     "subtitle": "Les 3 postes de dépense.",
     "slides": [
-      {"k": "Poste 1", "t": "L'outil d'automatisation", "b": "Gratuit en auto-hébergé, ou abonnement mensuel selon le nombre d'exécutions."},
-      {"k": "Poste 2", "t": "L'IA à l'usage", "b": "Payée au volume de texte traité. Pour de petites tâches, c'est souvent quelques euros par mois."},
-      {"k": "Poste 3", "t": "Ton temps", "b": "La création, puis la maintenance. C'est souvent le poste le plus cher, et le plus oublié."}
+      {
+        "k": "Poste 1",
+        "t": "L'outil d'automatisation",
+        "b": "Gratuit en auto-hébergé, ou abonnement mensuel selon le nombre d'exécutions."
+      },
+      {
+        "k": "Poste 2",
+        "t": "L'IA à l'usage",
+        "b": "Payée au volume de texte traité. Pour de petites tâches, c'est souvent quelques euros par mois."
+      },
+      {
+        "k": "Poste 3",
+        "t": "Ton temps",
+        "b": "La création, puis la maintenance. C'est souvent le poste le plus cher, et le plus oublié."
+      }
     ],
-    "cta": {"k": "Le calcul", "t": "Temps gagné × ton taux horaire.", "b": "Si ça dépasse les 3 postes, l'automatisation est rentable."},
-    "caption": "Une automatisation IA, ça coûte combien en vrai ? 💶\n\nL'outil, l'IA payée à l'usage… et ton temps, le poste que tout le monde oublie.\n\n👉 Swipe pour faire le calcul.\n\n📌 Enregistre ce post.\n\n#automatisation #ia #entrepreneur #rentabilite #nocode"
+    "cta": {
+      "k": "Le calcul",
+      "t": "Temps gagné × ton taux horaire.",
+      "b": "Si ça dépasse les 3 postes, l'automatisation est rentable."
+    },
+    "caption": "Une automatisation IA, ça coûte combien en vrai ? 💶\n\nL'outil, l'IA payée à l'usage… et ton temps, le poste que tout le monde oublie.\n\n👉 Swipe pour faire le calcul.\n\n📌 Enregistre ce post.\n\n#automatisation #ia #entrepreneur #rentabilite #nocode",
+    "title_v1": "Combien coûte vraiment une automatisation IA ?"
   },
   {
-    "id": "50", "short": "Mesurer le temps gagné", "kicker": "Méthode",
-    "title": "Prouve que ton automatisation sert à quelque chose.",
+    "id": "50",
+    "short": "Mesurer le temps gagné",
+    "kicker": "Méthode",
+    "title": "« Ça me fait gagner du temps. » Combien, exactement ?",
     "subtitle": "Mesurer le temps gagné.",
     "slides": [
-      {"k": "Étape 1", "t": "Chronomètre avant", "b": "Combien de minutes prend la tâche à la main ? Combien de fois par semaine ?"},
-      {"k": "Étape 2", "t": "Compte les exécutions", "b": "Ton outil d'automatisation garde un historique. Note combien de fois le flux tourne."},
-      {"k": "Étape 3", "t": "Fais la multiplication", "b": "15 minutes × 20 fois par mois = 5 heures récupérées. Chaque mois."}
+      {
+        "k": "Étape 1",
+        "t": "Chronomètre avant",
+        "b": "Combien de minutes prend la tâche à la main ? Combien de fois par semaine ?"
+      },
+      {
+        "k": "Étape 2",
+        "t": "Compte les exécutions",
+        "b": "Ton outil d'automatisation garde un historique. Note combien de fois le flux tourne."
+      },
+      {
+        "k": "Étape 3",
+        "t": "Fais la multiplication",
+        "b": "15 minutes × 20 fois par mois = 5 heures récupérées. Chaque mois."
+      }
     ],
-    "cta": {"k": "Le bonus", "t": "Compte aussi les erreurs évitées.", "b": "Un oubli de relance client peut coûter bien plus que 15 minutes."},
-    "caption": "« Ça me fait gagner du temps. » Combien, exactement ? ⏳\n\nChronomètre la tâche, compte les exécutions, multiplie. Tu sauras enfin ce que vaut ton automatisation.\n\n👉 Swipe pour la méthode.\n\n📌 Enregistre ce post.\n\n#automatisation #productivite #entrepreneur #ia #methode"
+    "cta": {
+      "k": "Le bonus",
+      "t": "Compte aussi les erreurs évitées.",
+      "b": "Un oubli de relance client peut coûter bien plus que 15 minutes."
+    },
+    "caption": "« Ça me fait gagner du temps. » Combien, exactement ? ⏳\n\nChronomètre la tâche, compte les exécutions, multiplie. Tu sauras enfin ce que vaut ton automatisation.\n\n👉 Swipe pour la méthode.\n\n📌 Enregistre ce post.\n\n#automatisation #productivite #entrepreneur #ia #methode",
+    "title_v1": "Prouve que ton automatisation sert à quelque chose."
   },
   {
-    "id": "51", "short": "Le vibe coding", "kicker": "Tendance",
-    "title": "Coder une appli en décrivant ce que tu veux.",
+    "id": "51",
+    "short": "Le vibe coding",
+    "kicker": "Tendance",
+    "title": "Créer une appli sans savoir coder ? Oui.",
     "subtitle": "Le « vibe coding ».",
     "slides": [
-      {"k": "C'est quoi ?", "t": "Tu décris, l'IA code", "b": "Tu expliques ton idée en français, l'IA écrit le code, tu testes et tu corriges en discutant."},
-      {"k": "Les outils", "t": "Les noms à connaître", "b": "Claude Code, Cursor, Lovable, Bolt, Replit. Certains ne demandent aucune installation."},
-      {"k": "Les limites", "t": "Pas magique", "b": "Parfait pour un prototype ou un outil interne. Pour une vraie appli avec des clients, fais relire le code."}
+      {
+        "k": "C'est quoi ?",
+        "t": "Tu décris, l'IA code",
+        "b": "Tu expliques ton idée en français, l'IA écrit le code, tu testes et tu corriges en discutant."
+      },
+      {
+        "k": "Les outils",
+        "t": "Les noms à connaître",
+        "b": "Claude Code, Cursor, Lovable, Bolt, Replit. Certains ne demandent aucune installation."
+      },
+      {
+        "k": "Les limites",
+        "t": "Pas magique",
+        "b": "Parfait pour un prototype ou un outil interne. Pour une vraie appli avec des clients, fais relire le code."
+      }
     ],
-    "cta": {"k": "Commence par", "t": "Un mini-outil pour toi.", "b": "Un calculateur, un générateur de devis, une page de réservation."},
-    "caption": "Créer une appli sans savoir coder ? C'est le vibe coding. ✨\n\nTu décris ton idée, l'IA écrit le code, tu testes et tu corriges en discutant. Idéal pour un prototype.\n\n👉 Swipe pour les outils et les limites.\n\n➕ Abonne-toi pour plus d'outils IA.\n\n#vibecoding #ia #nocode #claudecode #developpement"
+    "cta": {
+      "k": "Commence par",
+      "t": "Un mini-outil pour toi.",
+      "b": "Un calculateur, un générateur de devis, une page de réservation."
+    },
+    "caption": "Créer une appli sans savoir coder ? C'est le vibe coding. ✨\n\nTu décris ton idée, l'IA écrit le code, tu testes et tu corriges en discutant. Idéal pour un prototype.\n\n👉 Swipe pour les outils et les limites.\n\n➕ Abonne-toi pour plus d'outils IA.\n\n#vibecoding #ia #nocode #claudecode #developpement",
+    "title_v1": "Coder une appli en décrivant ce que tu veux."
   },
   {
-    "id": "52", "short": "Git en 1 minute", "kicker": "Bases",
-    "title": "Le bouton « annuler » infini de ton code.",
+    "id": "52",
+    "short": "Git en 1 minute",
+    "kicker": "Bases",
+    "title": "L'IA a cassé ton projet ? Reviens en arrière.",
     "subtitle": "Git, expliqué simplement.",
     "slides": [
-      {"k": "C'est quoi ?", "t": "Des photos de ton projet", "b": "À chaque étape, Git prend une photo de tous tes fichiers. Ça s'appelle un commit."},
-      {"k": "Pourquoi c'est vital", "t": "Revenir en arrière", "b": "L'IA a tout cassé ? Tu reviens à la photo d'hier en une commande."},
-      {"k": "Et GitHub ?", "t": "Le cloud de tes photos", "b": "GitHub stocke ton projet en ligne. Sauvegarde, partage, et mise en ligne automatique."}
+      {
+        "k": "C'est quoi ?",
+        "t": "Des photos de ton projet",
+        "b": "À chaque étape, Git prend une photo de tous tes fichiers. Ça s'appelle un commit."
+      },
+      {
+        "k": "Pourquoi c'est vital",
+        "t": "Revenir en arrière",
+        "b": "L'IA a tout cassé ? Tu reviens à la photo d'hier en une commande."
+      },
+      {
+        "k": "Et GitHub ?",
+        "t": "Le cloud de tes photos",
+        "b": "GitHub stocke ton projet en ligne. Sauvegarde, partage, et mise en ligne automatique."
+      }
     ],
-    "cta": {"k": "La règle", "t": "Un commit avant chaque gros changement.", "b": "Surtout quand tu laisses une IA modifier ton code."},
-    "caption": "L'IA a cassé ton projet ? Pas de panique si tu utilises Git. 💾\n\nGit prend une photo de ton projet à chaque étape. Tu peux toujours revenir en arrière.\n\n👉 Swipe pour comprendre en 1 minute.\n\n📌 Enregistre ce post.\n\n#git #github #vibecoding #developpement #apprendre"
+    "cta": {
+      "k": "La règle",
+      "t": "Un commit avant chaque gros changement.",
+      "b": "Surtout quand tu laisses une IA modifier ton code."
+    },
+    "caption": "L'IA a cassé ton projet ? Pas de panique si tu utilises Git. 💾\n\nGit prend une photo de ton projet à chaque étape. Tu peux toujours revenir en arrière.\n\n👉 Swipe pour comprendre en 1 minute.\n\n📌 Enregistre ce post.\n\n#git #github #vibecoding #developpement #apprendre",
+    "title_v1": "Le bouton « annuler » infini de ton code."
   },
   {
-    "id": "53", "short": "Mettre un site en ligne", "kicker": "Tuto",
-    "title": "Mettre ton site en ligne en quelques minutes.",
-    "subtitle": "Sans serveur à gérer.",
+    "id": "53",
+    "short": "Mettre un site en ligne",
+    "kicker": "Tuto",
+    "title": "Ton site est prêt mais personne ne peut le voir ?",
+    "subtitle": "En ligne en quelques minutes.",
     "slides": [
-      {"k": "Étape 1", "t": "Ton site sur GitHub", "b": "Le dossier de ton site, envoyé sur GitHub. L'IA peut te guider commande par commande."},
-      {"k": "Étape 2", "t": "Connecte un hébergeur", "b": "Netlify, Vercel ou Cloudflare Pages. Tu choisis ton dépôt, il fait le reste."},
-      {"k": "Étape 3", "t": "Chaque modif en ligne", "b": "Tu modifies, tu envoies sur GitHub, le site se met à jour tout seul."}
+      {
+        "k": "Étape 1",
+        "t": "Ton site sur GitHub",
+        "b": "Le dossier de ton site, envoyé sur GitHub. L'IA peut te guider commande par commande."
+      },
+      {
+        "k": "Étape 2",
+        "t": "Connecte un hébergeur",
+        "b": "Netlify, Vercel ou Cloudflare Pages. Tu choisis ton dépôt, il fait le reste."
+      },
+      {
+        "k": "Étape 3",
+        "t": "Chaque modif en ligne",
+        "b": "Tu modifies, tu envoies sur GitHub, le site se met à jour tout seul."
+      }
     ],
-    "cta": {"k": "Le bonus", "t": "Ton nom de domaine.", "b": "Branche-le en quelques clics, le HTTPS est inclus."},
-    "caption": "Ton site est prêt mais pas en ligne ? 🚀\n\nGitHub + Netlify, Vercel ou Cloudflare Pages : en quelques minutes ton site est public, et chaque modification se met en ligne toute seule.\n\n👉 Swipe pour les 3 étapes.\n\n📌 Enregistre ce post.\n\n#siteweb #netlify #nocode #vibecoding #tuto"
+    "cta": {
+      "k": "Le bonus",
+      "t": "Ton nom de domaine.",
+      "b": "Branche-le en quelques clics, le HTTPS est inclus."
+    },
+    "caption": "Ton site est prêt mais pas en ligne ? 🚀\n\nGitHub + Netlify, Vercel ou Cloudflare Pages : en quelques minutes ton site est public, et chaque modification se met en ligne toute seule.\n\n👉 Swipe pour les 3 étapes.\n\n📌 Enregistre ce post.\n\n#siteweb #netlify #nocode #vibecoding #tuto",
+    "title_v1": "Mettre ton site en ligne en quelques minutes."
   },
   {
-    "id": "54", "short": "Protéger ses clés API", "kicker": "Sécurité",
-    "title": "Ta clé API, c'est ta carte bancaire.",
-    "subtitle": "Comment la protéger.",
+    "id": "54",
+    "short": "Protéger ses clés API",
+    "kicker": "Sécurité",
+    "title": "Ta clé API traîne dans ton code ? Danger.",
+    "subtitle": "Elle vaut ta carte bancaire.",
     "slides": [
-      {"k": "Le risque", "t": "Une clé volée, une facture salée", "b": "Quelqu'un qui récupère ta clé utilise l'IA à tes frais. Ça peut aller très vite."},
-      {"k": "Les erreurs", "t": "Où elles fuient", "b": "Dans le code envoyé sur GitHub, dans une capture d'écran, dans un message copié-collé."},
-      {"k": "Les bons réflexes", "t": "Secrets et plafonds", "b": "Range-les dans les secrets ou les variables d'environnement. Mets une limite de dépense mensuelle."}
+      {
+        "k": "Le risque",
+        "t": "Une clé volée, une facture salée",
+        "b": "Quelqu'un qui récupère ta clé utilise l'IA à tes frais. Ça peut aller très vite."
+      },
+      {
+        "k": "Les erreurs",
+        "t": "Où elles fuient",
+        "b": "Dans le code envoyé sur GitHub, dans une capture d'écran, dans un message copié-collé."
+      },
+      {
+        "k": "Les bons réflexes",
+        "t": "Secrets et plafonds",
+        "b": "Range-les dans les secrets ou les variables d'environnement. Mets une limite de dépense mensuelle."
+      }
     ],
-    "cta": {"k": "Si c'est trop tard", "t": "Révoque et recrée.", "b": "Une clé exposée doit être supprimée immédiatement, même si « personne ne l'a vue »."},
-    "caption": "Ta clé API traîne dans ton code ? Danger. 🔑\n\nUne clé volée, c'est quelqu'un qui utilise l'IA à tes frais. Range-la dans les secrets et mets un plafond de dépense.\n\n👉 Swipe pour les bons réflexes.\n\n🔁 Partage ce post à quelqu'un qui débute avec les API.\n\n#api #cybersecurite #developpement #ia #automatisation"
+    "cta": {
+      "k": "Si c'est trop tard",
+      "t": "Révoque et recrée.",
+      "b": "Une clé exposée doit être supprimée immédiatement, même si « personne ne l'a vue »."
+    },
+    "caption": "Ta clé API traîne dans ton code ? Danger. 🔑\n\nUne clé volée, c'est quelqu'un qui utilise l'IA à tes frais. Range-la dans les secrets et mets un plafond de dépense.\n\n👉 Swipe pour les bons réflexes.\n\n🔁 Partage ce post à quelqu'un qui débute avec les API.\n\n#api #cybersecurite #developpement #ia #automatisation",
+    "title_v1": "Ta clé API, c'est ta carte bancaire."
   },
   {
-    "id": "55", "short": "Les limites d'usage", "kicker": "Comprendre",
-    "title": "« Limite atteinte, réessaie plus tard. » Pourquoi ?",
-    "subtitle": "Les rate limits.",
+    "id": "55",
+    "short": "Les limites d'usage",
+    "kicker": "Comprendre",
+    "title": "Ton automatisation s'arrête net : « rate limit ».",
+    "subtitle": "Pourquoi, et comment l'éviter.",
     "slides": [
-      {"k": "C'est quoi ?", "t": "Un nombre de demandes maximum", "b": "Par minute, par heure ou par jour. Chaque service fixe ses propres quotas."},
-      {"k": "Pourquoi", "t": "Protéger les serveurs", "b": "Sans limite, quelques utilisateurs pourraient saturer le service pour tout le monde."},
-      {"k": "La parade", "t": "Ralentis et réessaie", "b": "Dans tes automatisations : une pause entre les appels et 2 ou 3 nouvelles tentatives en cas d'erreur."}
+      {
+        "k": "C'est quoi ?",
+        "t": "Un nombre de demandes maximum",
+        "b": "Par minute, par heure ou par jour. Chaque service fixe ses propres quotas."
+      },
+      {
+        "k": "Pourquoi",
+        "t": "Protéger les serveurs",
+        "b": "Sans limite, quelques utilisateurs pourraient saturer le service pour tout le monde."
+      },
+      {
+        "k": "La parade",
+        "t": "Ralentis et réessaie",
+        "b": "Dans tes automatisations : une pause entre les appels et 2 ou 3 nouvelles tentatives en cas d'erreur."
+      }
     ],
-    "cta": {"k": "À retenir", "t": "Une erreur n'est pas une panne.", "b": "Prévois toujours le « réessayer plus tard » dans tes flux."},
-    "caption": "« Rate limit exceeded » : ton automatisation s'arrête net ? 🚦\n\nChaque service limite le nombre de demandes. La parade : des pauses et des nouvelles tentatives automatiques.\n\n👉 Swipe pour comprendre et contourner.\n\n📌 Enregistre ce post.\n\n#api #automatisation #n8n #ia #developpement"
+    "cta": {
+      "k": "À retenir",
+      "t": "Une erreur n'est pas une panne.",
+      "b": "Prévois toujours le « réessayer plus tard » dans tes flux."
+    },
+    "caption": "« Rate limit exceeded » : ton automatisation s'arrête net ? 🚦\n\nChaque service limite le nombre de demandes. La parade : des pauses et des nouvelles tentatives automatiques.\n\n👉 Swipe pour comprendre et contourner.\n\n📌 Enregistre ce post.\n\n#api #automatisation #n8n #ia #developpement",
+    "title_v1": "« Limite atteinte, réessaie plus tard. » Pourquoi ?"
   },
   {
-    "id": "56", "short": "Les modèles qui réfléchissent", "kicker": "Comprendre",
-    "title": "Pourquoi certaines IA « réfléchissent » avant de répondre.",
+    "id": "56",
+    "short": "Les modèles qui réfléchissent",
+    "kicker": "Comprendre",
+    "title": "Ton IA « réfléchit » 30 secondes. Elle fait quoi ?",
     "subtitle": "Les modèles de raisonnement.",
     "slides": [
-      {"k": "Le principe", "t": "Un brouillon avant la réponse", "b": "Le modèle décompose le problème, teste des pistes et se corrige avant d'écrire sa réponse."},
-      {"k": "Quand l'utiliser", "t": "Les problèmes à étapes", "b": "Maths, logique, code, analyse de documents, plans complexes. Là, la différence est nette."},
-      {"k": "Quand l'éviter", "t": "Les demandes simples", "b": "Reformuler un mail ou trouver un titre : plus lent et plus cher pour rien."}
+      {
+        "k": "Le principe",
+        "t": "Un brouillon avant la réponse",
+        "b": "Le modèle décompose le problème, teste des pistes et se corrige avant d'écrire sa réponse."
+      },
+      {
+        "k": "Quand l'utiliser",
+        "t": "Les problèmes à étapes",
+        "b": "Maths, logique, code, analyse de documents, plans complexes. Là, la différence est nette."
+      },
+      {
+        "k": "Quand l'éviter",
+        "t": "Les demandes simples",
+        "b": "Reformuler un mail ou trouver un titre : plus lent et plus cher pour rien."
+      }
     ],
-    "cta": {"k": "La règle", "t": "Question simple, mode rapide.", "b": "Problème complexe, mode réflexion."},
-    "caption": "Ton IA « réfléchit » pendant 30 secondes. Elle fait quoi ? 🧠\n\nElle écrit un brouillon : elle décompose, teste, se corrige. Génial pour les problèmes complexes, inutile pour un mail.\n\n👉 Swipe pour savoir quand l'activer.\n\n➕ Abonne-toi pour comprendre l'IA en 5 slides.\n\n#ia #llm #raisonnement #claude #chatgpt"
+    "cta": {
+      "k": "La règle",
+      "t": "Question simple, mode rapide.",
+      "b": "Problème complexe, mode réflexion."
+    },
+    "caption": "Ton IA « réfléchit » pendant 30 secondes. Elle fait quoi ? 🧠\n\nElle écrit un brouillon : elle décompose, teste, se corrige. Génial pour les problèmes complexes, inutile pour un mail.\n\n👉 Swipe pour savoir quand l'activer.\n\n➕ Abonne-toi pour comprendre l'IA en 5 slides.\n\n#ia #llm #raisonnement #claude #chatgpt",
+    "title_v1": "Pourquoi certaines IA « réfléchissent » avant de répondre."
   },
   {
-    "id": "57", "short": "La recherche approfondie", "kicker": "Outils",
-    "title": "Un rapport de recherche complet en 10 minutes.",
+    "id": "57",
+    "short": "La recherche approfondie",
+    "kicker": "Outils",
+    "title": "Une journée de recherche faite en 10 minutes.",
     "subtitle": "La recherche approfondie.",
     "slides": [
-      {"k": "C'est quoi ?", "t": "Une IA qui fouille le web", "b": "Elle lit des dizaines de sources, croise les infos et rédige un rapport avec les liens."},
-      {"k": "Pour quoi faire", "t": "Étudier un sujet à fond", "b": "Un marché, des concurrents, un fournisseur, une réglementation, un achat important."},
-      {"k": "Bien la lancer", "t": "Précise ton besoin", "b": "Pays, période, sources à privilégier, format du rapport. Plus c'est précis, meilleur c'est."}
+      {
+        "k": "C'est quoi ?",
+        "t": "Une IA qui fouille le web",
+        "b": "Elle lit des dizaines de sources, croise les infos et rédige un rapport avec les liens."
+      },
+      {
+        "k": "Pour quoi faire",
+        "t": "Étudier un sujet à fond",
+        "b": "Un marché, des concurrents, un fournisseur, une réglementation, un achat important."
+      },
+      {
+        "k": "Bien la lancer",
+        "t": "Précise ton besoin",
+        "b": "Pays, période, sources à privilégier, format du rapport. Plus c'est précis, meilleur c'est."
+      }
     ],
-    "cta": {"k": "Toujours", "t": "Ouvre les sources.", "b": "Le rapport est un point de départ, pas une vérité absolue."},
-    "caption": "Une journée de recherche faite en 10 minutes. 🔬\n\nLa recherche approfondie lit des dizaines de sources et te rend un rapport avec les liens. Parfait pour étudier un marché ou des concurrents.\n\n👉 Swipe pour bien la lancer.\n\n📌 Enregistre ce post.\n\n#ia #recherche #veille #chatgpt #productivite"
+    "cta": {
+      "k": "Toujours",
+      "t": "Ouvre les sources.",
+      "b": "Le rapport est un point de départ, pas une vérité absolue."
+    },
+    "caption": "Une journée de recherche faite en 10 minutes. 🔬\n\nLa recherche approfondie lit des dizaines de sources et te rend un rapport avec les liens. Parfait pour étudier un marché ou des concurrents.\n\n👉 Swipe pour bien la lancer.\n\n📌 Enregistre ce post.\n\n#ia #recherche #veille #chatgpt #productivite",
+    "title_v1": "Un rapport de recherche complet en 10 minutes."
   },
   {
-    "id": "58", "short": "De l'audio au texte", "kicker": "Outils",
-    "title": "Transforme n'importe quel audio en texte.",
-    "subtitle": "La transcription par l'IA.",
+    "id": "58",
+    "short": "De l'audio au texte",
+    "kicker": "Outils",
+    "title": "Tu parles bien plus vite que tu n'écris. Profites-en.",
+    "subtitle": "Transforme ta voix en texte.",
     "slides": [
-      {"k": "Comment", "t": "Des modèles très précis", "b": "Whisper et ses cousins transcrivent l'audio en texte, ponctuation comprise, dans des dizaines de langues."},
-      {"k": "Usages", "t": "Ce que tu peux en faire", "b": "Notes vocales, interviews, podcasts, sous-titres de tes vidéos, réunions."},
-      {"k": "Le combo", "t": "Transcrire puis transformer", "b": "Une note vocale de 5 minutes devient un article, un mail ou une liste de tâches."}
+      {
+        "k": "Comment",
+        "t": "Des modèles très précis",
+        "b": "Whisper et ses cousins transcrivent l'audio en texte, ponctuation comprise, dans des dizaines de langues."
+      },
+      {
+        "k": "Usages",
+        "t": "Ce que tu peux en faire",
+        "b": "Notes vocales, interviews, podcasts, sous-titres de tes vidéos, réunions."
+      },
+      {
+        "k": "Le combo",
+        "t": "Transcrire puis transformer",
+        "b": "Une note vocale de 5 minutes devient un article, un mail ou une liste de tâches."
+      }
     ],
-    "cta": {"k": "Essaie", "t": "Parle au lieu de taper.", "b": "Tu parles 3 fois plus vite que tu n'écris."},
-    "caption": "Tu parles 3 fois plus vite que tu n'écris. Profites-en. 🎧\n\nL'IA transcrit tes audios en texte, puis les transforme en article, mail ou liste de tâches.\n\n👉 Swipe pour les usages.\n\n📌 Enregistre ce post.\n\n#ia #transcription #productivite #podcast #creationdecontenu"
+    "cta": {
+      "k": "Essaie",
+      "t": "Parle au lieu de taper.",
+      "b": "Tu parles 3 fois plus vite que tu n'écris."
+    },
+    "caption": "Tu parles 3 fois plus vite que tu n'écris. Profites-en. 🎧\n\nL'IA transcrit tes audios en texte, puis les transforme en article, mail ou liste de tâches.\n\n👉 Swipe pour les usages.\n\n📌 Enregistre ce post.\n\n#ia #transcription #productivite #podcast #creationdecontenu",
+    "title_v1": "Transforme n'importe quel audio en texte."
   },
   {
-    "id": "59", "short": "Les voix IA", "kicker": "Outils",
-    "title": "Une voix off pro sans micro.",
+    "id": "59",
+    "short": "Les voix IA",
+    "kicker": "Outils",
+    "title": "Une voix off pro sans micro ni studio.",
     "subtitle": "Les voix générées par l'IA.",
     "slides": [
-      {"k": "C'est quoi ?", "t": "Du texte à la voix", "b": "Tu écris ton texte, l'IA le lit avec une voix naturelle, dans la langue de ton choix."},
-      {"k": "Usages", "t": "Vidéos, formations, pubs", "b": "Voix off de Reels, tutoriels, messages d'accueil, versions traduites de tes vidéos."},
-      {"k": "La limite", "t": "Le clonage de voix", "b": "Cloner ta propre voix, oui. Celle de quelqu'un d'autre sans son accord, jamais."}
+      {
+        "k": "C'est quoi ?",
+        "t": "Du texte à la voix",
+        "b": "Tu écris ton texte, l'IA le lit avec une voix naturelle, dans la langue de ton choix."
+      },
+      {
+        "k": "Usages",
+        "t": "Vidéos, formations, pubs",
+        "b": "Voix off de Reels, tutoriels, messages d'accueil, versions traduites de tes vidéos."
+      },
+      {
+        "k": "La limite",
+        "t": "Le clonage de voix",
+        "b": "Cloner ta propre voix, oui. Celle de quelqu'un d'autre sans son accord, jamais."
+      }
     ],
-    "cta": {"k": "Le conseil", "t": "Écris pour l'oreille.", "b": "Phrases courtes, mots simples. Ce qui se lit bien ne s'écoute pas toujours bien."},
-    "caption": "Une voix off pro, sans micro ni studio. 🎙️\n\nL'IA lit ton texte avec une voix naturelle, dans la langue de ton choix. Parfait pour tes vidéos et formations.\n\n👉 Swipe pour les usages et la limite à respecter.\n\n➕ Abonne-toi pour plus d'outils IA.\n\n#ia #voixoff #creationdecontenu #video #tts"
+    "cta": {
+      "k": "Le conseil",
+      "t": "Écris pour l'oreille.",
+      "b": "Phrases courtes, mots simples. Ce qui se lit bien ne s'écoute pas toujours bien."
+    },
+    "caption": "Une voix off pro, sans micro ni studio. 🎙️\n\nL'IA lit ton texte avec une voix naturelle, dans la langue de ton choix. Parfait pour tes vidéos et formations.\n\n👉 Swipe pour les usages et la limite à respecter.\n\n➕ Abonne-toi pour plus d'outils IA.\n\n#ia #voixoff #creationdecontenu #video #tts",
+    "title_v1": "Une voix off pro sans micro."
   },
   {
-    "id": "60", "short": "Bien prompter une image", "kicker": "Prompt",
-    "title": "Pourquoi tes images IA font « fake ».",
+    "id": "60",
+    "short": "Bien prompter une image",
+    "kicker": "Prompt",
+    "title": "Tes images IA ont toutes ce look plastique ?",
     "subtitle": "Le prompt image en 4 blocs.",
     "slides": [
-      {"k": "Bloc 1", "t": "Le sujet précis", "b": "Pas « une femme au café ». Plutôt « une boulangère de 50 ans qui sort une fournée, sourire fatigué »."},
-      {"k": "Blocs 2 et 3", "t": "Le lieu et la lumière", "b": "« Fournil, 6h du matin, lumière chaude et rasante. » La lumière fait tout le réalisme."},
-      {"k": "Bloc 4", "t": "Le style photo", "b": "« Photo argentique, 35 mm, grain léger. » Évite « ultra réaliste, 8K », ça donne l'effet inverse."}
+      {
+        "k": "Bloc 1",
+        "t": "Le sujet précis",
+        "b": "Pas « une femme au café ». Plutôt « une boulangère de 50 ans qui sort une fournée, sourire fatigué »."
+      },
+      {
+        "k": "Blocs 2 et 3",
+        "t": "Le lieu et la lumière",
+        "b": "« Fournil, 6h du matin, lumière chaude et rasante. » La lumière fait tout le réalisme."
+      },
+      {
+        "k": "Bloc 4",
+        "t": "Le style photo",
+        "b": "« Photo argentique, 35 mm, grain léger. » Évite « ultra réaliste, 8K », ça donne l'effet inverse."
+      }
     ],
-    "cta": {"k": "Le combo", "t": "Sujet + lieu + lumière + style.", "b": "Teste-le sur ton prochain visuel."},
-    "caption": "Tes images IA ont toutes le même look plastique ? 🖼️\n\nLe secret : un sujet précis, un lieu, une lumière et un style photo. Et oublie « ultra réaliste 8K ».\n\n👉 Swipe pour le prompt en 4 blocs.\n\n📌 Enregistre ce post.\n\n#ia #imageia #prompt #midjourney #creationdecontenu"
+    "cta": {
+      "k": "Le combo",
+      "t": "Sujet + lieu + lumière + style.",
+      "b": "Teste-le sur ton prochain visuel."
+    },
+    "caption": "Tes images IA ont toutes le même look plastique ? 🖼️\n\nLe secret : un sujet précis, un lieu, une lumière et un style photo. Et oublie « ultra réaliste 8K ».\n\n👉 Swipe pour le prompt en 4 blocs.\n\n📌 Enregistre ce post.\n\n#ia #imageia #prompt #midjourney #creationdecontenu",
+    "title_v1": "Pourquoi tes images IA font « fake »."
   },
   {
-    "id": "61", "short": "Une présentation en 10 min", "kicker": "Cas concret",
-    "title": "Une présentation complète en 10 minutes.",
-    "subtitle": "Avec l'IA, sans y passer ta soirée.",
+    "id": "61",
+    "short": "Une présentation en 10 min",
+    "kicker": "Cas concret",
+    "title": "Ta présentation de demain n'est pas prête ?",
+    "subtitle": "10 minutes avec l'IA.",
     "slides": [
-      {"k": "Étape 1", "t": "Le plan d'abord", "b": "« Fais le plan de 8 slides pour présenter X à Y. Un message clé par slide. »"},
-      {"k": "Étape 2", "t": "Le contenu ensuite", "b": "Valide le plan, puis fais écrire chaque slide : titre court, 3 points maximum."},
-      {"k": "Étape 3", "t": "La mise en forme", "b": "Gamma, Canva ou les outils intégrés de PowerPoint et Google Slides transforment le texte en slides."}
+      {
+        "k": "Étape 1",
+        "t": "Le plan d'abord",
+        "b": "« Fais le plan de 8 slides pour présenter X à Y. Un message clé par slide. »"
+      },
+      {
+        "k": "Étape 2",
+        "t": "Le contenu ensuite",
+        "b": "Valide le plan, puis fais écrire chaque slide : titre court, 3 points maximum."
+      },
+      {
+        "k": "Étape 3",
+        "t": "La mise en forme",
+        "b": "Gamma, Canva ou les outils intégrés de PowerPoint et Google Slides transforment le texte en slides."
+      }
     ],
-    "cta": {"k": "Le piège", "t": "Trop de texte.", "b": "L'IA écrit beaucoup. Coupe la moitié, ton public te remerciera."},
-    "caption": "Ta présentation de demain n'est pas prête ? Pas de panique. 📽️\n\nLe plan avec l'IA, puis le contenu slide par slide, puis la mise en forme automatique. 10 minutes.\n\n👉 Swipe pour la méthode.\n\n📌 Enregistre ce post.\n\n#ia #presentation #powerpoint #canva #productivite"
+    "cta": {
+      "k": "Le piège",
+      "t": "Trop de texte.",
+      "b": "L'IA écrit beaucoup. Coupe la moitié, ton public te remerciera."
+    },
+    "caption": "Ta présentation de demain n'est pas prête ? Pas de panique. 📽️\n\nLe plan avec l'IA, puis le contenu slide par slide, puis la mise en forme automatique. 10 minutes.\n\n👉 Swipe pour la méthode.\n\n📌 Enregistre ce post.\n\n#ia #presentation #powerpoint #canva #productivite",
+    "title_v1": "Une présentation complète en 10 minutes."
   },
   {
-    "id": "62", "short": "Un chatbot pour ton site", "kicker": "Cas concret",
-    "title": "Un chatbot qui répond à tes clients la nuit.",
-    "subtitle": "Sur ton site, avec tes infos.",
+    "id": "62",
+    "short": "Un chatbot pour ton site",
+    "kicker": "Cas concret",
+    "title": "Tes clients posent les mêmes questions à 23 h ?",
+    "subtitle": "Un chatbot avec tes infos.",
     "slides": [
-      {"k": "Étape 1", "t": "Rassemble tes réponses", "b": "Tarifs, horaires, FAQ, conditions. Tout ce que tes clients demandent souvent."},
-      {"k": "Étape 2", "t": "Branche l'IA dessus", "b": "Un outil de chatbot ou un flux n8n qui répond uniquement à partir de ces documents."},
-      {"k": "Étape 3", "t": "Prévois la sortie", "b": "Question hors sujet ou client mécontent ? Le chatbot passe la main à un humain."}
+      {
+        "k": "Étape 1",
+        "t": "Rassemble tes réponses",
+        "b": "Tarifs, horaires, FAQ, conditions. Tout ce que tes clients demandent souvent."
+      },
+      {
+        "k": "Étape 2",
+        "t": "Branche l'IA dessus",
+        "b": "Un outil de chatbot ou un flux n8n qui répond uniquement à partir de ces documents."
+      },
+      {
+        "k": "Étape 3",
+        "t": "Prévois la sortie",
+        "b": "Question hors sujet ou client mécontent ? Le chatbot passe la main à un humain."
+      }
     ],
-    "cta": {"k": "La règle", "t": "S'il ne sait pas, il le dit.", "b": "Un chatbot qui invente une réponse fait perdre un client."},
-    "caption": "Tes clients posent les mêmes questions à 23h ? 💬\n\nUn chatbot branché sur ta FAQ répond à ta place, et passe la main à un humain quand il ne sait pas.\n\n👉 Swipe pour le mettre en place.\n\n🔁 Partage ce post à un commerçant ou un artisan.\n\n#chatbot #ia #automatisation #entrepreneur #siteweb"
+    "cta": {
+      "k": "La règle",
+      "t": "S'il ne sait pas, il le dit.",
+      "b": "Un chatbot qui invente une réponse fait perdre un client."
+    },
+    "caption": "Tes clients posent les mêmes questions à 23h ? 💬\n\nUn chatbot branché sur ta FAQ répond à ta place, et passe la main à un humain quand il ne sait pas.\n\n👉 Swipe pour le mettre en place.\n\n🔁 Partage ce post à un commerçant ou un artisan.\n\n#chatbot #ia #automatisation #entrepreneur #siteweb",
+    "title_v1": "Un chatbot qui répond à tes clients la nuit."
   },
   {
-    "id": "63", "short": "Automatiser ses posts", "kicker": "Coulisses",
-    "title": "Ce post a été publié tout seul.",
+    "id": "63",
+    "short": "Automatiser ses posts",
+    "kicker": "Coulisses",
+    "title": "Ce post, je ne l'ai pas publié. Un robot l'a fait.",
     "subtitle": "Mon système, en coulisses.",
     "slides": [
-      {"k": "Étape 1", "t": "Le contenu à l'avance", "b": "Les carrousels sont préparés par lots, avec leurs légendes, dans un planning."},
-      {"k": "Étape 2", "t": "Un robot qui programme", "b": "Toutes les heures, un script vérifie le planning et programme les posts à venir dans Buffer."},
-      {"k": "Étape 3", "t": "Un filet de sécurité", "b": "Si une publication échoue, elle est relancée automatiquement, et je reçois une alerte."}
+      {
+        "k": "Étape 1",
+        "t": "Le contenu à l'avance",
+        "b": "Les carrousels sont préparés par lots, avec leurs légendes, dans un planning."
+      },
+      {
+        "k": "Étape 2",
+        "t": "Un robot qui programme",
+        "b": "Toutes les heures, un script vérifie le planning et programme les posts à venir dans Buffer."
+      },
+      {
+        "k": "Étape 3",
+        "t": "Un filet de sécurité",
+        "b": "Si une publication échoue, elle est relancée automatiquement, et je reçois une alerte."
+      }
     ],
-    "cta": {"k": "Le résultat", "t": "Instagram et TikTok, chaque jour.", "b": "Sans y penser."},
-    "caption": "Ce post, je ne l'ai pas publié. Un robot l'a fait. 🤖\n\nUn planning, un script qui programme dans Buffer toutes les heures, et un filet de sécurité qui relance ce qui échoue.\n\n👉 Swipe pour voir les coulisses.\n\n💬 Dis-moi en commentaire si tu veux le même système.\n\n#automatisation #reseauxsociaux #instagram #buffer #nocode"
+    "cta": {
+      "k": "Le résultat",
+      "t": "Instagram et TikTok, chaque jour.",
+      "b": "Sans y penser."
+    },
+    "caption": "Ce post, je ne l'ai pas publié. Un robot l'a fait. 🤖\n\nUn planning, un script qui programme dans Buffer toutes les heures, et un filet de sécurité qui relance ce qui échoue.\n\n👉 Swipe pour voir les coulisses.\n\n💬 Dis-moi en commentaire si tu veux le même système.\n\n#automatisation #reseauxsociaux #instagram #buffer #nocode",
+    "title_v1": "Ce post a été publié tout seul."
   },
   {
-    "id": "64", "short": "3 erreurs de débutant", "kicker": "Erreurs",
-    "title": "Les 3 erreurs de tous les débutants en automatisation.",
-    "subtitle": "Je les ai toutes faites.",
+    "id": "64",
+    "short": "3 erreurs de débutant",
+    "kicker": "Erreurs",
+    "title": "J'ai fait ces 3 erreurs en automatisation. Et toi ?",
+    "subtitle": "Les erreurs de tous les débutants.",
     "slides": [
-      {"k": "Erreur 1", "t": "Automatiser un processus flou", "b": "Si tu ne sais pas le faire à la main étape par étape, le robot non plus."},
-      {"k": "Erreur 2", "t": "Aucune alerte en cas d'échec", "b": "L'automatisation plante en silence, tu t'en rends compte trois semaines plus tard."},
-      {"k": "Erreur 3", "t": "Tout faire d'un coup", "b": "Un énorme flux de 40 étapes impossible à réparer. Commence par 3 étapes qui marchent."}
+      {
+        "k": "Erreur 1",
+        "t": "Automatiser un processus flou",
+        "b": "Si tu ne sais pas le faire à la main étape par étape, le robot non plus."
+      },
+      {
+        "k": "Erreur 2",
+        "t": "Aucune alerte en cas d'échec",
+        "b": "L'automatisation plante en silence, tu t'en rends compte trois semaines plus tard."
+      },
+      {
+        "k": "Erreur 3",
+        "t": "Tout faire d'un coup",
+        "b": "Un énorme flux de 40 étapes impossible à réparer. Commence par 3 étapes qui marchent."
+      }
     ],
-    "cta": {"k": "La méthode", "t": "Simple, surveillé, progressif.", "b": "C'est moins impressionnant, et ça tourne pendant des années."},
-    "caption": "Les 3 erreurs que font tous les débutants en automatisation. 🚧\n\nAutomatiser un processus flou, oublier les alertes, vouloir tout faire d'un coup.\n\n👉 Swipe pour les éviter.\n\n📌 Enregistre ce post.\n\n#automatisation #nocode #n8n #ia #entrepreneur"
+    "cta": {
+      "k": "La méthode",
+      "t": "Simple, surveillé, progressif.",
+      "b": "C'est moins impressionnant, et ça tourne pendant des années."
+    },
+    "caption": "Les 3 erreurs que font tous les débutants en automatisation. 🚧\n\nAutomatiser un processus flou, oublier les alertes, vouloir tout faire d'un coup.\n\n👉 Swipe pour les éviter.\n\n📌 Enregistre ce post.\n\n#automatisation #nocode #n8n #ia #entrepreneur",
+    "title_v1": "Les 3 erreurs de tous les débutants en automatisation."
   },
   {
-    "id": "65", "short": "10 mots de l'IA", "kicker": "Récap",
-    "title": "10 mots de l'IA que tu comprends maintenant.",
+    "id": "65",
+    "short": "10 mots de l'IA",
+    "kicker": "Récap",
+    "title": "Il y a un mois, ces 10 mots étaient du charabia.",
     "subtitle": "Le récap de la série.",
     "slides": [
-      {"k": "Les bases", "t": "LLM, token, prompt système", "b": "Le modèle qui écrit, l'unité qu'il compte, et les consignes qu'il relit à chaque message."},
-      {"k": "La mémoire", "t": "Embeddings, base vectorielle, RAG", "b": "Le sens en coordonnées, l'endroit où on le range, et l'IA qui répond sur tes documents."},
-      {"k": "L'action", "t": "API, webhook, agent, MCP", "b": "Les logiciels qui se parlent, qui se préviennent, l'IA qui agit, et le standard qui la branche à tes outils."}
+      {
+        "k": "Les bases",
+        "t": "LLM, token, prompt système",
+        "b": "Le modèle qui écrit, l'unité qu'il compte, et les consignes qu'il relit à chaque message."
+      },
+      {
+        "k": "La mémoire",
+        "t": "Embeddings, base vectorielle, RAG",
+        "b": "Le sens en coordonnées, l'endroit où on le range, et l'IA qui répond sur tes documents."
+      },
+      {
+        "k": "L'action",
+        "t": "API, webhook, agent, MCP",
+        "b": "Les logiciels qui se parlent, qui se préviennent, l'IA qui agit, et le standard qui la branche à tes outils."
+      }
     ],
-    "cta": {"k": "Et toi ?", "t": "Lequel t'a le plus servi ?", "b": "Dis-le en commentaire, je prépare la suite."},
-    "caption": "Il y a un mois, ces 10 mots étaient du charabia. 📚\n\nLLM, token, prompt système, embeddings, base vectorielle, RAG, API, webhook, agent, MCP. Le récap de la série en 5 slides.\n\n👉 Swipe pour réviser.\n\n💬 Dis-moi en commentaire celui qui t'a le plus servi.\n\n#ia #apprendrelia #intelligenceartificielle #llm #automatisation"
+    "cta": {
+      "k": "Et toi ?",
+      "t": "Lequel t'a le plus servi ?",
+      "b": "Dis-le en commentaire, je prépare la suite."
+    },
+    "caption": "Il y a un mois, ces 10 mots étaient du charabia. 📚\n\nLLM, token, prompt système, embeddings, base vectorielle, RAG, API, webhook, agent, MCP. Le récap de la série en 5 slides.\n\n👉 Swipe pour réviser.\n\n💬 Dis-moi en commentaire celui qui t'a le plus servi.\n\n#ia #apprendrelia #intelligenceartificielle #llm #automatisation",
+    "title_v1": "10 mots de l'IA que tu comprends maintenant."
   }
 ]

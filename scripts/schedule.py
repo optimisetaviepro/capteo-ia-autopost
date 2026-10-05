@@ -203,11 +203,13 @@ def post_metadata(network, it):
         first_line = it.get("text", "").strip().split("\n")[0]
         meta = {"title": first_line[:90]}
         if video:
-            meta["isAiGenerated"] = True  # label « contenu généré par IA » exigé par TikTok
+            # Label « contenu généré par IA » : activé par défaut, "ai_label": false pour le test A/B
+            # (motion design codé, pas d'image réaliste générée).
+            meta["isAiGenerated"] = it.get("ai_label", True)
         return {"tiktok": meta}
     meta = {"type": "reel" if video else ("story" if it["type"] == "story" else "post"), "shouldShareToFeed": True}
     if video:
-        meta["isAiGenerated"] = True
+        meta["isAiGenerated"] = it.get("ai_label", True)
     return {"instagram": meta}
 
 
@@ -221,7 +223,10 @@ def post_assets(it, urls):
 
 
 def on_network(network, it):
-    """TikTok reçoit les carrousels et les vidéos, pas les stories."""
+    """La clé "networks" (liste) choisit les réseaux d'un élément ; sinon TikTok reçoit carrousels et vidéos,
+    Instagram reçoit tout."""
+    if "networks" in it:
+        return network in it["networks"]
     return network != "tiktok" or it["type"] in ("carousel", "video")
 
 
