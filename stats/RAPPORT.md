@@ -1,30 +1,30 @@
-# Tableau de bord des tests — 05/10/2026 09:53
+# Tableau de bord des tests — 06/10/2026 15:28
 
-34 posts publiés relevés, 23 assez anciens (> 36 h) pour être comparés.
+43 posts publiés relevés, 34 assez anciens (> 36 h) pour être comparés.
 
 ## Tiktok — top 5
 
 | Vues | Réac. | Partages | Format | Date | Titre |
 |---|---|---|---|---|---|
-| 1786 | 25 | 2 | carousel | 2026-10-01 15:32 | Ton automatisation ne marche que quand ton PC est allumé ? 😅 |
-| 1134 | 2 | 1 | carousel | 2026-10-02 16:03 | Si l'IA te répond n'importe quoi, le problème vient souvent… du prompt |
-| 905 | 7 | 0 | carousel | 2026-10-01 15:30 | Chatbot, automatisation, agent IA : tout le monde mélange. 🤔 |
-| 504 | 8 | 0 | carousel | 2026-10-03 17:40 | API : le mot magique derrière toutes les automatisations. 🔌 |
-| 472 | 2 | 0 | carousel | 2026-10-01 15:31 | Haiku, Sonnet, Opus, Mythos… tu t'y retrouves ? 🤯 |
+| 1827 | 26 | 2 | carousel | 2026-10-01 15:32 | Ton automatisation ne marche que quand ton PC est allumé ? 😅 Normal :  |
+| 1138 | 2 | 1 | carousel | 2026-10-02 16:03 | Si l'IA te répond n'importe quoi, le problème vient souvent… du prompt |
+| 905 | 7 | 0 | carousel | 2026-10-01 15:30 | Chatbot, automatisation, agent IA : tout le monde mélange. 🤔 Pourtant  |
+| 542 | 10 | 0 | carousel | 2026-10-03 17:40 | API : le mot magique derrière toutes les automatisations. 🔌 Imagine un |
+| 472 | 2 | 0 | carousel | 2026-10-01 15:31 | Haiku, Sonnet, Opus, Mythos… tu t'y retrouves ? 🤯 Claude n'est pas un  |
 
-Moyenne : 613 vues par post, 5.7 réactions.
+Moyenne : 500 vues par post, 5.2 réactions.
 
 ## Instagram — top 5
 
 | Vues | Réac. | Partages | Format | Date | Titre |
 |---|---|---|---|---|---|
+| 126 | 1 | 0 | video | 2026-10-04 12:30 | After Effects ? Plus besoin. |
+| 32 | 1 | 0 | carousel | 2026-10-02 17:31 | ChatGPT, Claude, Gemini : ce sont tous des LLM. Mais c'est quoi, exact |
 | 32 | 0 | 0 | carousel | 2026-10-01 15:28 | Chatbot, automatisation, agent IA : tout le monde mélange. 🤔 |
-| 29 | 1 | 0 | carousel | 2026-10-02 17:31 | ChatGPT, Claude, Gemini : ce sont tous des LLM. Mais c'est quoi, exact |
-| 28 | 0 | 0 | carousel | 2026-10-01 15:27 | Haiku, Sonnet, Opus, Mythos… tu t'y retrouves ? 🤯 |
-| 24 | 0 | 0 | carousel | 2026-10-03 17:26 | « Token » : le mot que tu vois partout dans les prix de l'IA. 🪙 |
-| 24 | 1 | 0 | carousel | 2026-10-01 15:28 | Ton automatisation ne marche que quand ton PC est allumé ? 😅 |
+| 29 | 0 | 0 | carousel | 2026-10-01 15:27 | Haiku, Sonnet, Opus, Mythos… tu t'y retrouves ? 🤯 |
+| 28 | 1 | 0 | carousel | 2026-10-03 17:26 | Pourquoi l'IA invente parfois des trucs avec un aplomb total ? 🤥 |
 
-Moyenne : 20 vues par post, 0.6 réactions.
+Moyenne : 25 vues par post, 0.5 réactions.
 
 ## Tests A/B
 
@@ -48,20 +48,22 @@ Pas encore assez de données (il faut 2 variantes avec des posts de plus de 36 h
 
 | Variante | Posts | Vues moy. | Réactions moy. | Partages moy. | Visionnage moy. (s) |
 |---|---|---|---|---|---|
-| 16h | 1 | 1134 | 2.0 | 1.0 | 3.9 |
-| 15h | 4 | 858 | 9.5 | 0.5 | 6.1 |
-| 18h | 1 | 426 | 4.0 | 0.0 | 5.2 |
-| 17h | 4 | 369 | 4.8 | 0.0 | 4.4 |
-| 19h | 1 | 276 | 0.0 | 0.0 | 1.0 |
+| 15h | 4 | 868 | 9.8 | 0.5 | 6.1 |
+| 16h | 3 | 567 | 3.3 | 0.3 | 5.2 |
+| 18h | 1 | 427 | 4.0 | 0.0 | 5.3 |
+| 17h | 5 | 313 | 4.4 | 0.0 | 4.8 |
+| 12h | 1 | 283 | 8.0 | 0.0 | 3.3 |
+| 19h | 2 | 273 | 0.5 | 0.0 | 2.0 |
 
-Tendance : 16h devant, mais moins de 5 posts par variante — attendre avant de conclure.
+Tendance : 15h devant, mais moins de 5 posts par variante — attendre avant de conclure.
 
 ### Carrousel vs vidéo — TikTok
 
 | Variante | Posts | Vues moy. | Réactions moy. | Partages moy. | Visionnage moy. (s) |
 |---|---|---|---|---|---|
-| carousel | 10 | 647 | 6.3 | 0.3 | 5.1 |
-| image | 1 | 276 | 0.0 | 0.0 | 1.0 |
+| carousel | 13 | 551 | 5.8 | 0.2 | 5.3 |
+| image | 1 | 277 | 0.0 | 0.0 | 1.0 |
+| video | 2 | 276 | 4.5 | 0.0 | 3.1 |
 
 Tendance : carousel devant, mais moins de 5 posts par variante — attendre avant de conclure.
 
