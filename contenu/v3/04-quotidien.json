@@ -1,0 +1,171 @@
+[
+  {
+    "id": "89",
+    "emoji": "📄",
+    "hook": "Ton CV relu par l'IA *comme un recruteur*",
+    "sub": "3 prompts pour passer les filtres et la 1re lecture.",
+    "badge": "📤 Envoie-le à quelqu'un qui postule",
+    "slides": [
+      {"type": "prompt", "title": "1. Les *6 secondes*", "prompt": "Tu es recruteur et tu lis ce CV en 6 secondes pour ce poste : [colle l'offre]. Qu'est-ce que tu retiens ? Qu'est-ce qui te fait passer au suivant ? [colle ton CV, sans adresse ni téléphone]", "tip": "Retire tes coordonnées avant de coller."},
+      {"type": "prompt", "title": "2. Les *mots-clés*", "prompt": "Compare mon CV et l'offre. Liste les compétences et mots-clés de l'offre qui manquent dans mon CV, puis propose où les ajouter honnêtement.", "tip": "N'ajoute que ce que tu sais vraiment faire."},
+      {"type": "prompt", "title": "3. Des *résultats*, pas des tâches", "prompt": "Réécris ces lignes d'expérience pour montrer des résultats concrets avec des chiffres, sans rien inventer. Pose-moi des questions si un chiffre manque : [colle].", "tip": "« Géré la caisse » devient « 300 clients par jour, 0 écart de caisse »."}
+    ],
+    "end": {"emoji": "🚀", "title": "Bonne candidature", "body": "Enregistre pour ta prochaine offre. Abonne-toi : un usage concret de l'IA chaque jour."},
+    "caption": "Ton CV relu par l'IA comme un recruteur 📄\n\nLe test des 6 secondes, les mots-clés manquants, des résultats au lieu des tâches. Sans rien inventer.\n\n📤 Envoie-le à quelqu'un qui postule.\n📌 Enregistre pour ta prochaine offre.\n\n#cv #emploi #recherchedemploi #chatgpt #ia"
+  },
+  {
+    "id": "90",
+    "emoji": "📮",
+    "hook": "Un courrier des impôts *incompréhensible* ? Prends-le en photo.",
+    "sub": "L'IA te l'explique en 5 lignes.",
+    "badge": "📤 Envoie-le à tes parents",
+    "slides": [
+      {"type": "prompt", "title": "1. *Traduire* le courrier", "prompt": "Voici la photo d'un courrier administratif (j'ai caché mes infos perso). Explique-moi en 5 lignes simples : qui m'écrit, pourquoi, ce que je dois faire, et avant quelle date.", "tip": "Cache ton nom, ton adresse et tes numéros avant la photo."},
+      {"type": "prompt", "title": "2. *Répondre*", "prompt": "Aide-moi à écrire une réponse claire et polie à ce courrier pour [contester / demander un délai / poser une question]. Ton neutre, 10 lignes maximum.", "tip": "Garde une copie de tout ce que tu envoies."},
+      {"type": "text", "title": "La règle *d'or*", "body": "L'IA explique, elle ne remplace pas l'organisme.\n\nPour un montant ou une date limite, vérifie toujours dans ton espace officiel (impots.gouv, caf.fr, ameli) ou appelle-les."}
+    ],
+    "end": {"emoji": "👵", "title": "Tes parents en ont besoin", "body": "Envoie-leur ce post. Abonne-toi pour d'autres usages simples de l'IA."},
+    "caption": "Un courrier des impôts ou de la CAF incompréhensible ? Prends-le en photo 📮\n\nL'IA te l'explique en 5 lignes et t'aide à répondre. Cache tes infos perso et vérifie toujours dans ton espace officiel.\n\n📤 Envoie-le à tes parents.\n📌 Enregistre au cas où.\n\n#administratif #impots #caf #ia #astuce"
+  },
+  {
+    "id": "91",
+    "emoji": "🗣️",
+    "hook": "Apprends *n'importe quelle langue* avec ce prompt",
+    "sub": "Un prof particulier gratuit, dispo 24 h/24.",
+    "badge": "📌 Enregistre et commence ce soir",
+    "slides": [
+      {"type": "prompt", "title": "Le *prof particulier*", "prompt": "Sois mon prof d'[anglais / espagnol…]. Mon niveau : [débutant / moyen]. Parle-moi uniquement dans cette langue avec des phrases simples. Quand je fais une faute, corrige-la entre parenthèses puis continue la conversation.", "tip": "Utilise le mode vocal : c'est là que ça devient magique."},
+      {"type": "prompt", "title": "La *mise en situation*", "prompt": "Fais un jeu de rôle : tu es [serveur à Madrid / recruteur à Londres]. Je dois [commander / passer l'entretien]. Commence.", "tip": "Prépare un voyage ou un entretien en 15 minutes par jour."},
+      {"type": "prompt", "title": "Le *bilan*", "prompt": "Fais la liste de mes erreurs les plus fréquentes dans cette conversation et donne-moi 5 exercices courts pour les corriger.", "tip": "Garde la liste : relis-la avant chaque séance."}
+    ],
+    "end": {"emoji": "🌍", "title": "Tu apprends quelle langue ?", "body": "Dis-le en commentaire. Abonne-toi pour d'autres prompts du quotidien."},
+    "caption": "Apprends n'importe quelle langue avec ce prompt 🗣️\n\nUn prof particulier gratuit : conversation corrigée, jeux de rôle, bilan de tes erreurs. Encore mieux en mode vocal.\n\n📌 Enregistre et commence ce soir.\n💬 Tu apprends quelle langue ?\n\n#anglais #apprendreunelangue #chatgpt #ia #astuce"
+  },
+  {
+    "id": "92",
+    "emoji": "🧾",
+    "hook": "Le prompt pour *faire baisser* tes factures",
+    "sub": "Box, assurance, abonnement : l'IA prépare la négo.",
+    "badge": "📌 Enregistre avant ton prochain appel",
+    "slides": [
+      {"type": "prompt", "title": "1. Le *diagnostic*", "prompt": "Voici mes abonnements et leurs prix : [liste]. Lesquels semblent trop chers pour ce marché ? Lesquels je pourrais résilier ou regrouper ?", "tip": "Vérifie les prix proposés sur les sites officiels avant d'appeler."},
+      {"type": "prompt", "title": "2. Le *script d'appel*", "prompt": "Écris-moi un script pour appeler le service client de [opérateur] et demander une baisse de prix sans être agressif. Prévois leurs objections et mes réponses.", "tip": "Demande le service « résiliation » : c'est souvent là qu'on fait les meilleures offres."},
+      {"type": "prompt", "title": "3. Le *mail* si tu détestes appeler", "prompt": "Écris un mail court à [opérateur] : client depuis [X] ans, j'ai vu des offres moins chères, je souhaite un geste avant d'envisager de partir.", "tip": "Reste poli : la personne en face n'y est pour rien."}
+    ],
+    "end": {"emoji": "💰", "title": "Tu as économisé combien ?", "body": "Dis-le en commentaire. Abonne-toi pour d'autres astuces qui te font gagner du temps et de l'argent."},
+    "caption": "Le prompt pour faire baisser tes factures 🧾\n\nDiagnostic de tes abonnements, script d'appel avec les objections, mail de négociation. L'IA prépare, toi tu appelles.\n\n📌 Enregistre avant ton prochain appel.\n💬 Tu paies combien ta box ?\n\n#argent #budget #economie #chatgpt #astuce"
+  },
+  {
+    "id": "93",
+    "emoji": "🛒",
+    "hook": "Demande ça à l'IA *avant tout achat* de plus de 100 €",
+    "sub": "Tu vas éviter au moins un mauvais achat.",
+    "badge": "📌 Enregistre pour ton prochain achat",
+    "slides": [
+      {"type": "prompt", "title": "1. Le *besoin réel*", "prompt": "Je veux acheter [produit] pour [usage]. Pose-moi 5 questions pour savoir de quoi j'ai vraiment besoin, puis dis-moi quelles caractéristiques comptent et lesquelles sont du marketing.", "tip": "Souvent, le modèle d'en dessous suffit."},
+      {"type": "prompt", "title": "2. Le *comparatif*", "prompt": "Compare ces 3 modèles pour mon usage : [liens ou noms]. Tableau : prix, points forts, points faibles, pour qui c'est fait. Cite tes sources.", "tip": "Utilise une IA avec recherche web (Perplexity, ChatGPT, Gemini)."},
+      {"type": "prompt", "title": "3. L'*avocat du diable*", "prompt": "Donne-moi les 3 meilleures raisons de NE PAS acheter ce produit, et une alternative moins chère ou d'occasion.", "tip": "Si les raisons te convainquent, tu viens d'économiser."}
+    ],
+    "end": {"emoji": "🧠", "title": "Achète malin", "body": "Enregistre ce post pour ton prochain achat. Abonne-toi : une astuce IA par jour."},
+    "caption": "Demande ça à l'IA avant tout achat de plus de 100 € 🛒\n\nLe besoin réel, le comparatif avec sources, l'avocat du diable. Tu vas éviter au moins un mauvais achat.\n\n📌 Enregistre pour ton prochain achat.\n💬 Ton pire achat regretté ?\n\n#consommation #argent #ia #chatgpt #astuce"
+  },
+  {
+    "id": "94",
+    "emoji": "▶️",
+    "hook": "Une vidéo YouTube d'1 h ? *Résumée en 30 secondes.*",
+    "sub": "2 outils gratuits, à partir du simple lien.",
+    "badge": "📌 Enregistre, ça va te servir",
+    "slides": [
+      {"type": "tool", "name": "Gemini", "domain": "gemini.google.com", "what": "Colle le *lien YouTube*, pose ta question", "how": "« Résume cette vidéo en 5 points » ou « À quel moment il parle de X ? ».", "free": "Version gratuite"},
+      {"type": "tool", "name": "Gemini Notebook", "domain": "notebooklm.google.com", "what": "Plusieurs vidéos → *une seule fiche*", "how": "Ex-NotebookLM. Ajoute des liens YouTube comme sources, puis demande une synthèse ou un quiz.", "free": "Gratuit"},
+      {"type": "prompt", "title": "Le prompt *qui va plus loin*", "prompt": "Résume cette vidéo en 5 points, donne pour chacun le moment exact, puis dis-moi les 2 idées les plus discutables et pourquoi.", "tip": "Les minutages te permettent de vérifier."}
+    ],
+    "end": {"emoji": "⏩", "title": "Plus jamais 1 h perdue", "body": "Enregistre ce post. Abonne-toi pour d'autres raccourcis IA."},
+    "caption": "Une vidéo YouTube d'1 h résumée en 30 secondes ▶️\n\nGemini et Gemini Notebook (ex-NotebookLM) lisent la vidéo à partir du lien. + le prompt qui donne les minutages.\n\n📌 Enregistre, ça va te servir.\n💬 Tu résumerais quelle vidéo ?\n\n#youtube #ia #gemini #productivite #astuce"
+  },
+  {
+    "id": "95",
+    "emoji": "🗓️",
+    "hook": "Planifie ta semaine *en 2 minutes* avec ce prompt",
+    "sub": "Tu vides ta tête, l'IA range.",
+    "badge": "📌 Enregistre pour dimanche soir",
+    "slides": [
+      {"type": "prompt", "title": "1. Le *vidage de tête*", "prompt": "Voici tout ce que j'ai en tête cette semaine, en vrac : [tout lister]. Classe-le en : urgent et important, important pas urgent, à déléguer, à abandonner.", "tip": "Écris en vrac, avec les fautes. Ou dicte-le."},
+      {"type": "prompt", "title": "2. Le *planning*", "prompt": "Mes disponibilités : [créneaux]. Répartis les tâches importantes sur la semaine, la plus difficile le matin, avec 30 % de marge pour les imprévus.", "tip": "La marge, c'est ce qui fait que le planning tient."},
+      {"type": "prompt", "title": "3. Le *point du vendredi*", "prompt": "Voici ce que j'ai fait et pas fait cette semaine : [liste]. Qu'est-ce que je dois changer la semaine prochaine ? 3 conseils max.", "tip": "5 minutes le vendredi = semaine suivante bien meilleure."}
+    ],
+    "end": {"emoji": "😮‍💨", "title": "Ta tête est vide, ta semaine est prête", "body": "Enregistre pour dimanche soir. Abonne-toi pour d'autres prompts du quotidien."},
+    "caption": "Planifie ta semaine en 2 minutes avec ce prompt 🗓️\n\nTu vides ta tête en vrac, l'IA classe, répartit et garde de la marge. + le point du vendredi.\n\n📌 Enregistre pour dimanche soir.\n💬 C'est quoi ta tâche que tu repousses ?\n\n#organisation #productivite #chatgpt #ia #planning"
+  },
+  {
+    "id": "96",
+    "emoji": "✈️",
+    "hook": "Ton *voyage complet* organisé en 1 prompt",
+    "sub": "Itinéraire, budget, valise. En 5 minutes.",
+    "badge": "📌 Enregistre pour tes prochaines vacances",
+    "slides": [
+      {"type": "prompt", "title": "1. L'*itinéraire*", "prompt": "Je pars [X] jours à [destination] en [mois], budget [X] € hors transport, j'aime [nature / musées / food]. Fais-moi un itinéraire jour par jour, avec des quartiers où dormir et des activités gratuites.", "tip": "Plus tu donnes tes goûts, moins c'est « touriste »."},
+      {"type": "prompt", "title": "2. Le *budget*", "prompt": "Estime le budget de ce voyage poste par poste (logement, repas, transports sur place, activités) en version économique et confort.", "tip": "Ce sont des estimations : vérifie les prix réels avant de réserver."},
+      {"type": "prompt", "title": "3. La *valise*", "prompt": "Fais ma liste de valise pour ce voyage, selon la météo habituelle à cette période et mes activités. Ajoute les papiers à ne pas oublier.", "tip": "Prends-la en photo : tu cocheras le jour J."}
+    ],
+    "end": {"emoji": "🌴", "title": "Tu pars où ?", "body": "Dis-le en commentaire. Abonne-toi : une astuce IA par jour."},
+    "caption": "Ton voyage complet organisé en 1 prompt ✈️\n\nItinéraire jour par jour, budget économique ou confort, liste de valise. Vérifie toujours les prix réels avant de réserver.\n\n📌 Enregistre pour tes prochaines vacances.\n💬 Tu pars où ?\n\n#voyage #vacances #ia #chatgpt #astuce"
+  },
+  {
+    "id": "97",
+    "emoji": "💡",
+    "hook": "5 prompts pour *lancer un projet* qui rapporte",
+    "sub": "Du « j'ai une idée » au premier client.",
+    "badge": "📌 Enregistre si tu as un projet",
+    "slides": [
+      {"type": "prompt", "title": "1. *Trouver* l'idée", "prompt": "Voici mes compétences et ce que j'aime : [liste]. Propose 5 services que je pourrais vendre dès ce mois-ci, sans investissement, avec le type de client pour chacun.", "tip": "Un service se lance plus vite qu'un produit."},
+      {"type": "prompt", "title": "2. *Tester* l'idée", "prompt": "Joue un client sceptique pour ce service : [idée]. Donne-moi les 5 objections les plus probables et comment y répondre.", "tip": "Si tu n'as pas de réponse, retravaille l'offre."},
+      {"type": "prompt", "title": "3. *Fixer* le prix", "prompt": "Aide-moi à fixer un prix pour [service] : propose 3 formules (simple, standard, premium) avec ce que contient chacune.", "tip": "La formule du milieu est souvent la plus vendue."},
+      {"type": "prompt", "title": "4 et 5. *Trouver* les clients", "prompt": "Où trouver mes 10 premiers clients pour [service] ? Puis écris un premier message court et personnalisable pour les contacter.", "tip": "10 messages personnalisés valent mieux que 100 copiés-collés."}
+    ],
+    "end": {"emoji": "🔥", "title": "C'est quoi ton projet ?", "body": "Dis-le en commentaire, je réponds à tout le monde. Abonne-toi pour la suite."},
+    "caption": "5 prompts pour lancer un projet qui rapporte 💡\n\nTrouver l'idée, la tester, fixer le prix, trouver les premiers clients. Du « j'ai une idée » au premier client.\n\n📌 Enregistre si tu as un projet.\n💬 C'est quoi ton idée ?\n\n#entrepreneur #sidehustle #business #chatgpt #ia"
+  },
+  {
+    "id": "98",
+    "emoji": "📊",
+    "hook": "Ton *budget du mois* fait par l'IA en 5 minutes",
+    "sub": "Sans tableur, sans prise de tête.",
+    "badge": "📌 Enregistre pour la fin du mois",
+    "slides": [
+      {"type": "prompt", "title": "1. Le *tri*", "prompt": "Voici mes dépenses du mois en vrac : [liste avec montants]. Classe-les par catégorie, fais les totaux, et montre ce qui représente le plus gros pourcentage.", "tip": "Ne colle pas tes relevés bancaires bruts : juste libellés et montants."},
+      {"type": "prompt", "title": "2. Les *fuites*", "prompt": "Où sont mes 3 plus grosses fuites d'argent ? Pour chacune, propose une action simple pour économiser sans changer complètement ma vie.", "tip": "Abonnements oubliés et livraisons de repas arrivent souvent en tête."},
+      {"type": "prompt", "title": "3. Le *plan*", "prompt": "Mon revenu est de [X] €. Propose un budget mensuel réaliste avec une part d'épargne, et un tableau à recopier dans Google Sheets.", "tip": "Demande-lui même les formules du tableau."}
+    ],
+    "end": {"emoji": "🐷", "title": "Tu épargnes combien par mois ?", "body": "Réponds en commentaire (même 0, c'est un début). Abonne-toi pour d'autres astuces."},
+    "caption": "Ton budget du mois fait par l'IA en 5 minutes 📊\n\nTri des dépenses, repérage des fuites d'argent, plan mensuel avec épargne. Sans tes relevés bancaires bruts.\n\n📌 Enregistre pour la fin du mois.\n💬 Tu épargnes combien par mois ?\n\n#budget #argent #epargne #chatgpt #astuce"
+  },
+  {
+    "id": "99",
+    "emoji": "🎤",
+    "hook": "Un exposé à rendre demain ? *Prêt en 30 minutes.*",
+    "sub": "Plan, slides, oral. Sans tricher.",
+    "badge": "📤 Envoie-le à ton groupe d'exposé",
+    "slides": [
+      {"type": "prompt", "title": "1. Le *plan*", "prompt": "Mon exposé porte sur [sujet], [durée] minutes, niveau [classe]. Propose un plan en 3 parties avec une accroche d'introduction et une question pour la conclusion.", "tip": "Tu écris le contenu toi-même, l'IA t'aide à structurer."},
+      {"type": "tool", "name": "Gamma", "domain": "gamma.app", "what": "Le plan devient des *slides*", "how": "Colle ton plan, choisis un thème : la présentation est prête à modifier.", "free": "Version gratuite"},
+      {"type": "prompt", "title": "3. L'*oral*", "prompt": "Pose-moi les 5 questions les plus difficiles qu'un prof pourrait poser sur ce sujet, une par une, et corrige mes réponses.", "tip": "C'est là que tu gagnes des points."}
+    ],
+    "end": {"emoji": "🏆", "title": "Bonne note assurée", "body": "Ou presque. Envoie-le à ton groupe. Abonne-toi pour d'autres astuces étudiantes."},
+    "caption": "Un exposé à rendre demain ? Prêt en 30 minutes 🎤\n\nLe plan avec l'IA, les slides avec Gamma, l'entraînement à l'oral avec les questions du prof. Tu écris le contenu, l'IA t'aide.\n\n📤 Envoie-le à ton groupe d'exposé.\n📌 Enregistre pour le prochain.\n\n#etudiant #expose #ia #chatgpt #astuceetudiant"
+  },
+  {
+    "id": "100",
+    "emoji": "📱",
+    "hook": "3 usages de l'IA à *montrer à tes parents* ce week-end",
+    "sub": "Ils vont enfin trouver ça utile.",
+    "badge": "📤 Envoie-le dans le groupe famille",
+    "slides": [
+      {"type": "text", "title": "1. *Parler* au lieu de taper", "body": "Le mode vocal de ChatGPT ou Gemini : on pose sa question à voix haute, comme au téléphone.\n\n« Comment je fais une capture d'écran ? » « C'est quoi ce message ? »"},
+      {"type": "text", "title": "2. La *photo* qui explique", "body": "Une photo d'une notice, d'un courrier, d'une plante ou d'un voyant sur le tableau de bord, puis : « Explique-moi simplement. »"},
+      {"type": "text", "title": "3. Le *détecteur d'arnaques*", "body": "Avant de cliquer sur un SMS bizarre : le copier dans l'IA et demander « Est-ce une arnaque ? ».\n\nRègle : jamais de code ni de numéro de carte."}
+    ],
+    "end": {"emoji": "❤️", "title": "Tes parents te diront merci", "body": "Envoie ce post dans le groupe famille. Abonne-toi pour l'IA expliquée simplement."},
+    "caption": "3 usages de l'IA à montrer à tes parents ce week-end 📱\n\nLe mode vocal, la photo qui explique, le détecteur d'arnaques. Ils vont enfin trouver ça utile.\n\n📤 Envoie-le dans le groupe famille.\n💬 Tes parents utilisent l'IA ?\n\n#parents #ia #chatgpt #astuce #famille"
+  }
+]

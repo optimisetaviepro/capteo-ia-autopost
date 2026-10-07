@@ -1,0 +1,347 @@
+[
+  {
+    "id": "72",
+    "emoji": "🎬",
+    "hook": "6 IA gratuites pour faire des *vidéos* sans savoir monter",
+    "sub": "Partie 2. Le n°2 découpe tes vidéos tout seul.",
+    "badge": "📌 Enregistre pour ton prochain montage",
+    "slides": [
+      {
+        "type": "tool",
+        "name": "CapCut",
+        "domain": "capcut.com",
+        "what": "Les *sous-titres automatiques* en 1 clic",
+        "how": "Il écoute ta vidéo et écrit chaque mot à l'écran. Styles animés inclus.",
+        "free": "Version gratuite",
+        "shot": true
+      },
+      {
+        "type": "tool",
+        "name": "OpusClip",
+        "domain": "opus.pro",
+        "what": "1 longue vidéo → *10 shorts*",
+        "how": "Colle un lien YouTube : il repère les meilleurs passages et les recadre en vertical.",
+        "free": "Crédits gratuits",
+        "shot": true
+      },
+      {
+        "type": "tool",
+        "name": "Descript",
+        "domain": "descript.com",
+        "what": "Tu montes ta vidéo *en éditant le texte*",
+        "how": "Supprime une phrase dans la transcription, elle disparaît de la vidéo. Les « euh » aussi.",
+        "free": "Version gratuite",
+        "shot": true
+      },
+      {
+        "type": "tool",
+        "name": "Clipchamp",
+        "domain": "clipchamp.com",
+        "what": "Le monteur gratuit *déjà dans Windows*",
+        "how": "Voix off IA, modèles, export 1080p. Rien à installer sur un PC récent.",
+        "free": "Gratuit",
+        "shot": true
+      },
+      {
+        "type": "tool",
+        "name": "ElevenLabs",
+        "domain": "elevenlabs.io",
+        "what": "Une *voix off* qui sonne humaine",
+        "how": "Tu tapes ton texte, tu choisis une voix française, tu télécharges.",
+        "free": "Crédits gratuits / mois",
+        "shot": true
+      },
+      {
+        "type": "tool",
+        "name": "Kling AI",
+        "domain": "klingai.com",
+        "what": "Une photo qui *prend vie* en vidéo",
+        "how": "Envoie une image et décris le mouvement. 5 secondes de vidéo réaliste.",
+        "free": "Crédits gratuits / jour",
+        "shot": true
+      }
+    ],
+    "end": {
+      "emoji": "👀",
+      "title": "Partie 3 : les IA pour étudier 2× plus vite",
+      "body": "Abonne-toi pour la recevoir. Et dis-moi en commentaire lequel tu vas tester."
+    },
+    "caption": "6 IA gratuites pour faire des vidéos sans savoir monter 🎬\n\nCapCut, OpusClip, Descript, Clipchamp, ElevenLabs, Kling. Partie 2 de la série des sites IA gratuits.\n\n📌 Enregistre pour ton prochain montage.\n💬 Tu montes sur quoi aujourd'hui ?\n\n#montagevideo #ia #capcut #outilsia #createurdecontenu"
+  },
+  {
+    "id": "73",
+    "emoji": "🎓",
+    "hook": "6 IA pour *étudier 2× plus vite* (gratuites)",
+    "sub": "Partie 3. Le n°1 transcrit ton cours pendant que tu écoutes.",
+    "badge": "📌 Envoie-le à quelqu'un qui révise",
+    "slides": [
+      {
+        "type": "tool",
+        "name": "TurboScribe",
+        "domain": "turboscribe.ai",
+        "what": "Ton cours audio *écrit mot pour mot*",
+        "how": "Enregistre ton prof avec ton téléphone, dépose le fichier, récupère le texte.",
+        "free": "3 fichiers gratuits / jour",
+        "shot": true
+      },
+      {
+        "type": "tool",
+        "name": "Gemini Notebook",
+        "domain": "notebooklm.google.com",
+        "what": "Tes cours deviennent *fiches, quiz et podcast*",
+        "how": "Ex-NotebookLM. Il ne répond qu'à partir de TES documents, avec la page citée.",
+        "free": "Gratuit",
+        "shot": true
+      },
+      {
+        "type": "tool",
+        "name": "DeepL",
+        "domain": "deepl.com",
+        "what": "La traduction qui sonne *naturelle*",
+        "how": "Traduis un PDF entier en gardant la mise en page. Meilleur que Google Traduction sur les textes longs.",
+        "free": "Version gratuite",
+        "shot": true
+      },
+      {
+        "type": "tool",
+        "name": "Consensus",
+        "domain": "consensus.app",
+        "what": "Des réponses tirées de *vraies études scientifiques*",
+        "how": "Pose une question, il lit les publications et te dit ce que dit la recherche.",
+        "free": "Version gratuite",
+        "shot": true
+      },
+      {
+        "type": "tool",
+        "name": "QuillBot",
+        "domain": "quillbot.com",
+        "what": "Reformule une phrase *10 façons différentes*",
+        "how": "Pratique quand tu tournes en rond sur une intro ou une conclusion.",
+        "free": "Version gratuite",
+        "shot": false
+      },
+      {
+        "type": "tool",
+        "name": "Excalidraw",
+        "domain": "excalidraw.com",
+        "what": "Des *schémas* propres en 2 minutes",
+        "how": "Un tableau blanc dans le navigateur. Parfait pour une carte mentale ou un exposé.",
+        "free": "Gratuit",
+        "shot": true
+      }
+    ],
+    "end": {
+      "emoji": "🎨",
+      "title": "Partie 4 : les IA pour créer des images",
+      "body": "Celle qui écrit du texte lisible dans les images va te servir. Abonne-toi pour ne pas la rater."
+    },
+    "caption": "6 IA gratuites pour étudier 2× plus vite 🎓\n\nTurboScribe, Gemini Notebook, DeepL, Consensus, QuillBot, Excalidraw. Partie 3 de la série.\n\n📤 Envoie-le à quelqu'un qui révise en ce moment.\n💬 Tu es en quelle année ?\n\n#etudiant #revision #ia #outilsia #astuceetudiant"
+  },
+  {
+    "id": "74",
+    "emoji": "🎨",
+    "hook": "6 IA pour créer des *images* (sans être graphiste)",
+    "sub": "Partie 4. Le n°1 écrit enfin du texte lisible.",
+    "badge": "📌 Enregistre pour ton prochain visuel",
+    "slides": [
+      {
+        "type": "tool",
+        "name": "Ideogram",
+        "domain": "ideogram.ai",
+        "what": "Des affiches avec du *texte lisible*",
+        "how": "Logo, flyer, miniature YouTube : il écrit les mots sans fautes bizarres.",
+        "free": "Crédits gratuits",
+        "shot": true
+      },
+      {
+        "type": "tool",
+        "name": "Canva",
+        "domain": "canva.com",
+        "what": "Tout ton visuel *décrit en une phrase*",
+        "how": "Les outils IA de Canva génèrent images, présentations et retouches dans l'éditeur.",
+        "free": "Version gratuite",
+        "shot": true
+      },
+      {
+        "type": "tool",
+        "name": "Adobe Firefly",
+        "domain": "firefly.adobe.com",
+        "what": "*Agrandir* une photo trop serrée",
+        "how": "Il invente le décor qui manque autour. Idéal pour passer du carré au vertical.",
+        "free": "Crédits gratuits / mois",
+        "shot": true
+      },
+      {
+        "type": "tool",
+        "name": "Krea",
+        "domain": "krea.ai",
+        "what": "L'image se dessine *pendant que tu tapes*",
+        "how": "Génération en temps réel et amélioration de la netteté d'images floues.",
+        "free": "Version gratuite",
+        "shot": true
+      },
+      {
+        "type": "tool",
+        "name": "Photoroom",
+        "domain": "photoroom.com",
+        "what": "Des *photos produit* dignes d'un studio",
+        "how": "Détourage, fond généré, ombre réaliste. Parfait pour Vinted ou une boutique.",
+        "free": "Version gratuite",
+        "shot": true
+      },
+      {
+        "type": "tool",
+        "name": "Leonardo",
+        "domain": "leonardo.ai",
+        "what": "Des *styles* au choix : 3D, anime, photo",
+        "how": "Beaucoup de modèles différents et des crédits offerts chaque jour.",
+        "free": "Crédits gratuits / jour",
+        "shot": true
+      }
+    ],
+    "end": {
+      "emoji": "🌐",
+      "title": "Partie 5 : créer un site sans coder",
+      "body": "Avec une seule phrase. Abonne-toi pour la recevoir demain."
+    },
+    "caption": "6 IA pour créer des images sans être graphiste 🎨\n\nIdeogram, Canva, Firefly, Krea, Photoroom, Leonardo. Partie 4 de la série des IA gratuites.\n\n📌 Enregistre pour ton prochain visuel.\n💬 Tu en utilises déjà une ?\n\n#ia #imageia #design #canva #outilsia"
+  },
+  {
+    "id": "75",
+    "emoji": "🌐",
+    "hook": "Ton *site ou ton appli* avec une seule phrase. Sans coder.",
+    "sub": "Partie 5. 6 outils que les développeurs utilisent déjà.",
+    "badge": "📌 Enregistre pour ton projet",
+    "slides": [
+      {
+        "type": "tool",
+        "name": "Lovable",
+        "domain": "lovable.dev",
+        "what": "Tu décris ton appli, *elle se construit*",
+        "how": "« Un site de réservation pour mon salon de coiffure. » Puis tu ajustes en discutant.",
+        "free": "Crédits gratuits / jour",
+        "shot": true
+      },
+      {
+        "type": "tool",
+        "name": "Bolt",
+        "domain": "bolt.new",
+        "what": "Une appli web *dans ton navigateur*",
+        "how": "Rien à installer : le code s'écrit et l'aperçu s'affiche en direct.",
+        "free": "Version gratuite",
+        "shot": true
+      },
+      {
+        "type": "tool",
+        "name": "Google AI Studio",
+        "domain": "aistudio.google.com",
+        "what": "Les modèles de Google *en accès direct*",
+        "how": "Teste Gemini, génère du code ou une petite appli, sans abonnement.",
+        "free": "Gratuit",
+        "shot": true
+      },
+      {
+        "type": "tool",
+        "name": "Claude",
+        "domain": "claude.ai",
+        "what": "Une mini-appli *dans la conversation*",
+        "how": "Demande un calculateur, un quiz ou une page : il le crée et tu peux l'utiliser tout de suite.",
+        "free": "Version gratuite",
+        "shot": true
+      },
+      {
+        "type": "tool",
+        "name": "Framer",
+        "domain": "framer.com",
+        "what": "Un *site vitrine* qui a l'air pro",
+        "how": "Génère une première version avec l'IA, puis modifie tout à la souris.",
+        "free": "Version gratuite",
+        "shot": true
+      },
+      {
+        "type": "tool",
+        "name": "v0",
+        "domain": "v0.app",
+        "what": "Des *interfaces* en quelques secondes",
+        "how": "Décris un écran ou colle une capture, il te rend une page prête à l'emploi.",
+        "free": "Crédits gratuits",
+        "shot": true
+      }
+    ],
+    "end": {
+      "emoji": "⚙️",
+      "title": "Partie 6 : automatiser ton boulot",
+      "body": "Les outils qui travaillent pendant que tu dors. Abonne-toi pour la dernière partie."
+    },
+    "caption": "Ton site ou ton appli avec une seule phrase, sans coder 🌐\n\nLovable, Bolt, Google AI Studio, Claude, Framer, v0. Partie 5 de la série.\n\n📌 Enregistre pour ton projet.\n💬 Tu créerais quoi en premier ?\n\n#nocode #ia #creersite #entrepreneur #outilsia"
+  },
+  {
+    "id": "76",
+    "emoji": "⚙️",
+    "hook": "6 outils pour *automatiser* ton boulot (pendant que tu dors)",
+    "sub": "Partie 6. Le n°1 est gratuit si tu l'installes toi-même.",
+    "badge": "📌 Enregistre, c'est la dernière partie",
+    "slides": [
+      {
+        "type": "tool",
+        "name": "n8n",
+        "domain": "n8n.io",
+        "what": "Des automatisations *sans limite de tâches*",
+        "how": "Mail reçu → résumé par l'IA → message sur ton téléphone. Gratuit en auto-hébergé.",
+        "free": "Gratuit en auto-hébergé",
+        "shot": true
+      },
+      {
+        "type": "tool",
+        "name": "Make",
+        "domain": "make.com",
+        "what": "Tes applis qui *se parlent* toutes seules",
+        "how": "Formulaire rempli → ligne dans Google Sheets → mail de bienvenue. En glisser-déposer.",
+        "free": "Version gratuite",
+        "shot": true
+      },
+      {
+        "type": "tool",
+        "name": "Zapier",
+        "domain": "zapier.com",
+        "what": "Le plus simple pour *débuter*",
+        "how": "Des milliers d'applis connectées, et un assistant qui crée l'automatisation à ta place.",
+        "free": "Version gratuite",
+        "shot": true
+      },
+      {
+        "type": "tool",
+        "name": "Tally",
+        "domain": "tally.so",
+        "what": "Des *formulaires* gratuits et illimités",
+        "how": "Inscriptions, devis, questionnaires. Se branche sur tes automatisations.",
+        "free": "Gratuit",
+        "shot": true
+      },
+      {
+        "type": "tool",
+        "name": "Fathom",
+        "domain": "fathom.video",
+        "what": "Le *compte rendu* de réunion écrit pour toi",
+        "how": "Il enregistre ta visio, puis te rend le résumé et les tâches à faire.",
+        "free": "Version gratuite",
+        "shot": true
+      },
+      {
+        "type": "tool",
+        "name": "Buffer",
+        "domain": "buffer.com",
+        "what": "Tes posts publiés *à l'heure, sans toi*",
+        "how": "Programme Instagram, TikTok et LinkedIn à l'avance. C'est ce que j'utilise pour ce compte.",
+        "free": "Version gratuite",
+        "shot": true
+      }
+    ],
+    "end": {
+      "emoji": "🔁",
+      "title": "Tu as raté une partie ?",
+      "body": "Les 6 parties sont sur mon profil. Abonne-toi : une nouvelle série commence demain."
+    },
+    "caption": "6 outils pour automatiser ton boulot pendant que tu dors ⚙️\n\nn8n, Make, Zapier, Tally, Fathom, Buffer. Dernière partie de la série des IA gratuites.\n\n📌 Enregistre pour plus tard.\n💬 Tu automatiserais quoi en premier ?\n\n#automatisation #nocode #ia #productivite #n8n"
+  }
+]

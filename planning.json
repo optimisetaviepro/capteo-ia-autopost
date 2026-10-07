@@ -270,13 +270,23 @@
       "cover_ms": 1500
     },
     {
+      "at": "2026-10-08T12:15:00+02:00",
+      "type": "carousel",
+      "media": "t/77",
+      "text": "Colle ce prompt dans ChatGPT : il va te dire qui tu es vraiment 🪞\n\n4 prompts : ton portrait, tes forces cachées, ton angle mort, ton plan sur 30 jours. Le 3e pique un peu.\n\n📌 Enregistre et teste ce soir.\n💬 Il t'a dit quoi ?\n\n#chatgpt #prompt #developpementpersonnel #ia #claude",
+      "hook": "v3",
+      "networks": [
+        "tiktok"
+      ]
+    },
+    {
       "at": "2026-10-08T12:30:00+02:00",
       "type": "video",
       "media": "v/02-orbit.mp4",
       "text": "Cette pub n'a pas été montée. Elle a été codée.\n\nCarte métal holographique en 3D, notifications, compteur d'épargne… Tout est généré en code par Claude. Marque fictive.\n\nMarque fictive. Pub 100 % codée par Claude, sans logiciel de montage.\n👉 Note-la sur 10 en commentaire.\n\n#claude #ia #fintech #motiondesign #codage",
       "cover_ms": 4100,
       "networks": [
-        "tiktok"
+        "instagram"
       ],
       "ai_label": true
     },
@@ -290,25 +300,6 @@
       "cover_ms": 1500
     },
     {
-      "at": "2026-10-08T16:00:00+02:00",
-      "type": "carousel",
-      "media": "c/22",
-      "text": "Faire des vidéos sans tourner une seule image ? 🎬\n\nLe motion design en code : l'IA écrit, ton navigateur anime. Gratuit, réutilisable… avec une limite à connaître.\n\n💬 Commente « MOTION » et je te montre comment je fais mes vidéos.\n\n#motiondesign #ia #creationdecontenu #video #nocode",
-      "networks": [
-        "instagram",
-        "tiktok"
-      ]
-    },
-    {
-      "at": "2026-10-08T16:45:00+02:00",
-      "type": "carousel",
-      "media": "c/23",
-      "text": "Ton premier agent IA, en 4 étapes et sans coder. 🤖\n\nUn objectif clair, les bons outils, des consignes précises… et surtout un point de validation.\n\n💬 Commente « AGENT » et je le monte avec toi pas à pas.\n\n#agentia #ia #automatisation #nocode #tuto",
-      "networks": [
-        "tiktok"
-      ]
-    },
-    {
       "at": "2026-10-08T18:30:00+02:00",
       "type": "video",
       "media": "gj/v/08.mp4",
@@ -316,6 +307,26 @@
       "account": "giletjaune",
       "ai_label": true,
       "cover_ms": 1500
+    },
+    {
+      "at": "2026-10-08T18:30:00+02:00",
+      "type": "carousel",
+      "media": "t/70",
+      "text": "6 sites IA gratuits que personne ne te montre 🤫\n\nGemini Notebook, Napkin, Gamma, Photoroom, Perplexity, Suno. Le n°3 m'a fait gagner 2 h cette semaine.\n\n📌 Enregistre pour ne pas perdre la liste.\n💬 Lequel tu connaissais déjà ?\n\n#ia #outilsia #intelligenceartificielle #astuce #productivite",
+      "hook": "v3",
+      "networks": [
+        "tiktok"
+      ]
+    },
+    {
+      "at": "2026-10-08T18:30:00+02:00",
+      "type": "carousel",
+      "media": "c/70",
+      "text": "6 sites IA gratuits que personne ne te montre 🤫\n\nGemini Notebook, Napkin, Gamma, Photoroom, Perplexity, Suno. Le n°3 m'a fait gagner 2 h cette semaine.\n\n📌 Enregistre pour ne pas perdre la liste.\n💬 Lequel tu connaissais déjà ?\n\n#ia #outilsia #intelligenceartificielle #astuce #productivite",
+      "hook": "v3",
+      "networks": [
+        "instagram"
+      ]
     },
     {
       "at": "2026-10-08T20:00:00+02:00",
@@ -339,13 +350,23 @@
       "cover_ms": 1500
     },
     {
+      "at": "2026-10-09T12:15:00+02:00",
+      "type": "carousel",
+      "media": "t/71",
+      "text": "Arrête d'écrire « fais-moi un résumé » à ChatGPT ✂️\n\n4 prompts à copier-coller pour des résumés vraiment utiles : décider, expliquer, réviser.\n\n📌 Enregistre, tu vas t'en resservir.\n💬 Tu utilises ChatGPT, Claude ou Gemini ?\n\n#chatgpt #prompt #ia #astuceia #productivite",
+      "hook": "v3",
+      "networks": [
+        "tiktok"
+      ]
+    },
+    {
       "at": "2026-10-09T12:30:00+02:00",
       "type": "video",
       "media": "v/03-pulse.mp4",
       "text": "Les motion designers vont détester cette vidéo.\n\nAnneaux d'activité, électrocardiogramme calé sur la musique, compteur à rouleaux. Du code, et rien d'autre.\n\nMarque fictive. Pub 100 % codée par Claude, sans logiciel de montage.\n👉 Note-la sur 10 en commentaire.\n\n#claude #ia #motiondesign #fitness #design",
       "cover_ms": 3800,
       "networks": [
-        "tiktok"
+        "instagram"
       ],
       "ai_label": false
     },
@@ -359,37 +380,6 @@
       "cover_ms": 1500
     },
     {
-      "at": "2026-10-09T16:00:00+02:00",
-      "type": "carousel",
-      "media": "c/24",
-      "text": "Le réglage que 90 % des gens n'ont jamais touché. ⚙️\n\nLe prompt système, ce sont les consignes que l'IA relit avant chacun de tes messages. Bien réglé, il t'évite de répéter les mêmes choses à chaque fois.\n\n👉 Swipe pour écrire le tien en 3 lignes.\n\n📌 Enregistre ce post.\n\n#ia #prompt #chatgpt #claude #astuceia",
-      "networks": [
-        "instagram",
-        "tiktok"
-      ],
-      "hook": "v2"
-    },
-    {
-      "at": "2026-10-09T16:45:00+02:00",
-      "type": "carousel",
-      "media": "c/25",
-      "text": "Tu expliques pendant 10 lignes ce que tu veux… alors qu'un seul exemple suffirait. 🎯\n\nDonne 2 ou 3 exemples à l'IA : elle copie le format, le ton et la longueur.\n\n👉 Swipe pour la méthode et le piège à éviter.\n\n📌 Enregistre ce post.\n\n#prompt #ia #chatgpt #astuceia #productivite",
-      "networks": [
-        "tiktok"
-      ],
-      "hook": "v2"
-    },
-    {
-      "at": "2026-10-09T17:30:00+02:00",
-      "type": "carousel",
-      "media": "c/26",
-      "text": "Une seule phrase à ajouter à tes prompts. 🙋\n\n« Pose-moi d'abord tes questions. » L'IA arrête de deviner et te demande ce qu'il lui manque.\n\n👉 Swipe pour savoir quand l'utiliser.\n\n🔁 Partage ce post à quelqu'un qui trouve l'IA trop vague.\n\n#ia #prompt #chatgpt #claude #astuceia",
-      "networks": [
-        "tiktok"
-      ],
-      "hook": "v2"
-    },
-    {
       "at": "2026-10-09T18:30:00+02:00",
       "type": "video",
       "media": "gj/v/11.mp4",
@@ -397,6 +387,26 @@
       "account": "giletjaune",
       "ai_label": true,
       "cover_ms": 1500
+    },
+    {
+      "at": "2026-10-09T18:30:00+02:00",
+      "type": "carousel",
+      "media": "t/72",
+      "text": "6 IA gratuites pour faire des vidéos sans savoir monter 🎬\n\nCapCut, OpusClip, Descript, Clipchamp, ElevenLabs, Kling. Partie 2 de la série des sites IA gratuits.\n\n📌 Enregistre pour ton prochain montage.\n💬 Tu montes sur quoi aujourd'hui ?\n\n#montagevideo #ia #capcut #outilsia #createurdecontenu",
+      "hook": "v3",
+      "networks": [
+        "tiktok"
+      ]
+    },
+    {
+      "at": "2026-10-09T18:30:00+02:00",
+      "type": "carousel",
+      "media": "c/72",
+      "text": "6 IA gratuites pour faire des vidéos sans savoir monter 🎬\n\nCapCut, OpusClip, Descript, Clipchamp, ElevenLabs, Kling. Partie 2 de la série des sites IA gratuits.\n\n📌 Enregistre pour ton prochain montage.\n💬 Tu montes sur quoi aujourd'hui ?\n\n#montagevideo #ia #capcut #outilsia #createurdecontenu",
+      "hook": "v3",
+      "networks": [
+        "instagram"
+      ]
     },
     {
       "at": "2026-10-09T20:00:00+02:00",
@@ -420,13 +430,23 @@
       "cover_ms": 1500
     },
     {
+      "at": "2026-10-10T12:15:00+02:00",
+      "type": "carousel",
+      "media": "t/82",
+      "text": "Le prompt qui écrit tes mails à ta place 📧\n\nLa version de base + 3 variantes : dire non, relancer, répondre en 30 secondes.\n\n📌 Enregistre, tu vas l'utiliser demain.\n💬 C'est quoi le mail que tu repousses depuis des jours ?\n\n#productivite #chatgpt #prompt #mail #ia",
+      "hook": "v3",
+      "networks": [
+        "tiktok"
+      ]
+    },
+    {
       "at": "2026-10-10T12:30:00+02:00",
       "type": "video",
       "media": "v/04-terra.mp4",
       "text": "J'ai demandé à Claude une pub de voyage. Il a fait ça.\n\nGlobe de 5 000 points, trajets de vols, carte d'embarquement, destinations. Tout est dessiné par du code.\n\nMarque fictive. Pub 100 % codée par Claude, sans logiciel de montage.\n👉 Note-la sur 10 en commentaire.\n\n#claude #ia #voyage #motiondesign #pub",
       "cover_ms": 3900,
       "networks": [
-        "tiktok"
+        "instagram"
       ],
       "ai_label": true
     },
@@ -440,37 +460,6 @@
       "cover_ms": 1500
     },
     {
-      "at": "2026-10-10T16:00:00+02:00",
-      "type": "carousel",
-      "media": "c/27",
-      "text": "Même question, deux réponses différentes. Bug ? Non. 🎲\n\nL'IA choisit ses mots avec une part de hasard, réglée par la température.\n\n👉 Swipe pour savoir quand la baisser et quand la monter.\n\n➕ Abonne-toi pour comprendre l'IA en 5 slides.\n\n#ia #llm #intelligenceartificielle #chatgpt #apprendrelia",
-      "networks": [
-        "instagram",
-        "tiktok"
-      ],
-      "hook": "v2"
-    },
-    {
-      "at": "2026-10-10T16:45:00+02:00",
-      "type": "carousel",
-      "media": "c/28",
-      "text": "Tu tapes encore tout à la main ? 📸\n\nChatGPT, Claude et Gemini lisent tes photos : tickets, captures d'écran, croquis, graphiques.\n\n👉 Swipe pour 5 usages qui font gagner du temps.\n\n📌 Enregistre ce post.\n\n#ia #productivite #chatgpt #claude #astuceia",
-      "networks": [
-        "tiktok"
-      ],
-      "hook": "v2"
-    },
-    {
-      "at": "2026-10-10T17:30:00+02:00",
-      "type": "carousel",
-      "media": "c/29",
-      "text": "Comment l'IA sait que « voiture » et « auto » veulent dire la même chose ? 🗺️\n\nGrâce aux embeddings : chaque texte devient une adresse sur une carte du sens.\n\n👉 Swipe, zéro équation promis.\n\n➕ Abonne-toi : la suite arrive.\n\n#ia #embeddings #rag #llm #apprendrelia",
-      "networks": [
-        "tiktok"
-      ],
-      "hook": "v2"
-    },
-    {
       "at": "2026-10-10T18:30:00+02:00",
       "type": "video",
       "media": "gj/v/14.mp4",
@@ -478,6 +467,26 @@
       "account": "giletjaune",
       "ai_label": true,
       "cover_ms": 1500
+    },
+    {
+      "at": "2026-10-10T18:30:00+02:00",
+      "type": "carousel",
+      "media": "t/73",
+      "text": "6 IA gratuites pour étudier 2× plus vite 🎓\n\nTurboScribe, Gemini Notebook, DeepL, Consensus, QuillBot, Excalidraw. Partie 3 de la série.\n\n📤 Envoie-le à quelqu'un qui révise en ce moment.\n💬 Tu es en quelle année ?\n\n#etudiant #revision #ia #outilsia #astuceetudiant",
+      "hook": "v3",
+      "networks": [
+        "tiktok"
+      ]
+    },
+    {
+      "at": "2026-10-10T18:30:00+02:00",
+      "type": "carousel",
+      "media": "c/73",
+      "text": "6 IA gratuites pour étudier 2× plus vite 🎓\n\nTurboScribe, Gemini Notebook, DeepL, Consensus, QuillBot, Excalidraw. Partie 3 de la série.\n\n📤 Envoie-le à quelqu'un qui révise en ce moment.\n💬 Tu es en quelle année ?\n\n#etudiant #revision #ia #outilsia #astuceetudiant",
+      "hook": "v3",
+      "networks": [
+        "instagram"
+      ]
     },
     {
       "at": "2026-10-10T20:00:00+02:00",
@@ -501,13 +510,23 @@
       "cover_ms": 1500
     },
     {
+      "at": "2026-10-11T12:15:00+02:00",
+      "type": "carousel",
+      "media": "t/78",
+      "text": "Les « codes secrets » ChatGPT sont faux. Voici les 4 techniques qui marchent vraiment 🚫\n\nQuestions d'abord, exemple, contexte, autocorrection. Ça marche aussi sur Claude et Gemini.\n\n📌 Enregistre pour ton prochain prompt.\n💬 Tu connaissais lequel ?\n\n#chatgpt #prompt #astuceia #ia #claude",
+      "hook": "v3",
+      "networks": [
+        "tiktok"
+      ]
+    },
+    {
       "at": "2026-10-11T12:30:00+02:00",
       "type": "video",
       "media": "v/12-synth.mp4",
       "text": "Claude vient de rendre les monteurs jaloux.\n\nVinyle, spectre audio calé sur le tempo, lecteur, karaoké. Une pub d'app musicale écrite en code.\n\nMarque fictive. Pub 100 % codée par Claude, sans logiciel de montage.\n👉 Note-la sur 10 en commentaire.\n\n#claude #ia #musique #motiondesign #design",
       "cover_ms": 3900,
       "networks": [
-        "tiktok"
+        "instagram"
       ],
       "ai_label": false
     },
@@ -521,37 +540,6 @@
       "cover_ms": 1500
     },
     {
-      "at": "2026-10-11T16:00:00+02:00",
-      "type": "carousel",
-      "media": "c/30",
-      "text": "Une base de données qui comprend ce que tu veux dire. 🧲\n\nLa base vectorielle ne cherche pas des mots, elle cherche des idées. C'est la mémoire des chatbots qui répondent sur tes documents.\n\n👉 Swipe pour comprendre la différence.\n\n📌 Enregistre ce post.\n\n#ia #rag #basevectorielle #nocode #automatisation",
-      "networks": [
-        "instagram",
-        "tiktok"
-      ],
-      "hook": "v2"
-    },
-    {
-      "at": "2026-10-11T16:45:00+02:00",
-      "type": "carousel",
-      "media": "c/31",
-      "text": "Prompt, RAG ou fine-tuning ? On te vend souvent le plus cher. 💸\n\nLa règle : commence par le prompt, ajoute le RAG s'il manque des infos, et garde le fine-tuning pour les cas très précis.\n\n👉 Swipe pour savoir lequel il te faut.\n\n📌 Enregistre ce post.\n\n#ia #rag #finetuning #llm #intelligenceartificielle",
-      "networks": [
-        "tiktok"
-      ],
-      "hook": "v2"
-    },
-    {
-      "at": "2026-10-11T17:30:00+02:00",
-      "type": "carousel",
-      "media": "c/32",
-      "text": "Open source ou fermée : quelle IA choisir ? 🔓\n\nLes fermées (GPT, Claude, Gemini) sont les plus fortes. Les ouvertes (Llama, Mistral) te laissent garder tes données chez toi.\n\n👉 Swipe pour comparer.\n\n➕ Abonne-toi : demain, on l'installe sur ton PC.\n\n#ia #opensource #mistral #llm #intelligenceartificielle",
-      "networks": [
-        "tiktok"
-      ],
-      "hook": "v2"
-    },
-    {
       "at": "2026-10-11T18:30:00+02:00",
       "type": "video",
       "media": "gj/v/17.mp4",
@@ -559,6 +547,26 @@
       "account": "giletjaune",
       "ai_label": true,
       "cover_ms": 1500
+    },
+    {
+      "at": "2026-10-11T18:30:00+02:00",
+      "type": "carousel",
+      "media": "t/74",
+      "text": "6 IA pour créer des images sans être graphiste 🎨\n\nIdeogram, Canva, Firefly, Krea, Photoroom, Leonardo. Partie 4 de la série des IA gratuites.\n\n📌 Enregistre pour ton prochain visuel.\n💬 Tu en utilises déjà une ?\n\n#ia #imageia #design #canva #outilsia",
+      "hook": "v3",
+      "networks": [
+        "tiktok"
+      ]
+    },
+    {
+      "at": "2026-10-11T18:30:00+02:00",
+      "type": "carousel",
+      "media": "c/74",
+      "text": "6 IA pour créer des images sans être graphiste 🎨\n\nIdeogram, Canva, Firefly, Krea, Photoroom, Leonardo. Partie 4 de la série des IA gratuites.\n\n📌 Enregistre pour ton prochain visuel.\n💬 Tu en utilises déjà une ?\n\n#ia #imageia #design #canva #outilsia",
+      "hook": "v3",
+      "networks": [
+        "instagram"
+      ]
     },
     {
       "at": "2026-10-11T20:00:00+02:00",
@@ -582,13 +590,23 @@
       "cover_ms": 1500
     },
     {
+      "at": "2026-10-12T12:15:00+02:00",
+      "type": "carousel",
+      "media": "t/81",
+      "text": "Arrête de payer ChatGPT Plus : 6 alternatives gratuites 💸\n\nClaude, Gemini, Le Chat (Mistral), Perplexity, Copilot, DeepSeek. Pour un usage normal, la version gratuite suffit souvent.\n\n📌 Enregistre avant ton prochain prélèvement.\n💬 Tu paies un abonnement IA ?\n\n#chatgpt #iagratuite #claude #gemini #mistral",
+      "hook": "v3",
+      "networks": [
+        "tiktok"
+      ]
+    },
+    {
       "at": "2026-10-12T12:30:00+02:00",
       "type": "video",
       "media": "v/09-flux.mp4",
       "text": "L'IA vient de passer un cap.\n\nGraphique en chandeliers en direct, donut animé, champ de barres en 3D. Une pub d'app financière entièrement codée. Marque fictive, ce n'est pas un conseil d'investissement.\n\nMarque fictive. Pub 100 % codée par Claude, sans logiciel de montage.\n👉 Note-la sur 10 en commentaire.\n\n#claude #ia #dataviz #motiondesign #tech",
       "cover_ms": 9000,
       "networks": [
-        "tiktok"
+        "instagram"
       ],
       "ai_label": true
     },
@@ -602,37 +620,6 @@
       "cover_ms": 1500
     },
     {
-      "at": "2026-10-12T16:00:00+02:00",
-      "type": "carousel",
-      "media": "c/33",
-      "text": "Une IA qui tourne sur ton PC, même sans Internet. 💻\n\nAvec Ollama ou LM Studio, tu lances un modèle gratuit en local. Tes documents ne quittent jamais ta machine.\n\n👉 Swipe pour les 3 étapes.\n\n📌 Enregistre ce post.\n\n#ia #ollama #opensource #confidentialite #tuto",
-      "networks": [
-        "instagram",
-        "tiktok"
-      ],
-      "hook": "v2"
-    },
-    {
-      "at": "2026-10-12T16:45:00+02:00",
-      "type": "carousel",
-      "media": "c/34",
-      "text": "Zapier, Make ou n8n ? La question que tout le monde se pose. ⚔️\n\nZapier pour la simplicité, Make pour le visuel, n8n pour la liberté. Les trois font le job.\n\n👉 Swipe pour choisir le tien.\n\n💬 Dis-moi en commentaire lequel tu utilises.\n\n#automatisation #n8n #zapier #make #nocode",
-      "networks": [
-        "tiktok"
-      ],
-      "hook": "v2"
-    },
-    {
-      "at": "2026-10-12T17:30:00+02:00",
-      "type": "carousel",
-      "media": "c/35",
-      "text": "Ce post a été publié par un réveil. ⏰\n\nLe déclencheur « cron » lance tes automatisations à heure fixe : tous les matins, chaque lundi, toutes les heures.\n\n👉 Swipe pour des idées et le réflexe à ne pas oublier.\n\n📌 Enregistre ce post.\n\n#automatisation #n8n #nocode #productivite #ia",
-      "networks": [
-        "tiktok"
-      ],
-      "hook": "v2"
-    },
-    {
       "at": "2026-10-12T18:30:00+02:00",
       "type": "video",
       "media": "gj/v/20.mp4",
@@ -640,6 +627,26 @@
       "account": "giletjaune",
       "ai_label": true,
       "cover_ms": 1500
+    },
+    {
+      "at": "2026-10-12T18:30:00+02:00",
+      "type": "carousel",
+      "media": "t/75",
+      "text": "Ton site ou ton appli avec une seule phrase, sans coder 🌐\n\nLovable, Bolt, Google AI Studio, Claude, Framer, v0. Partie 5 de la série.\n\n📌 Enregistre pour ton projet.\n💬 Tu créerais quoi en premier ?\n\n#nocode #ia #creersite #entrepreneur #outilsia",
+      "hook": "v3",
+      "networks": [
+        "tiktok"
+      ]
+    },
+    {
+      "at": "2026-10-12T18:30:00+02:00",
+      "type": "carousel",
+      "media": "c/75",
+      "text": "Ton site ou ton appli avec une seule phrase, sans coder 🌐\n\nLovable, Bolt, Google AI Studio, Claude, Framer, v0. Partie 5 de la série.\n\n📌 Enregistre pour ton projet.\n💬 Tu créerais quoi en premier ?\n\n#nocode #ia #creersite #entrepreneur #outilsia",
+      "hook": "v3",
+      "networks": [
+        "instagram"
+      ]
     },
     {
       "at": "2026-10-12T20:00:00+02:00",
@@ -663,13 +670,23 @@
       "cover_ms": 1500
     },
     {
+      "at": "2026-10-13T12:15:00+02:00",
+      "type": "carousel",
+      "media": "t/83",
+      "text": "SMS bizarre ? Demande à l'IA si c'est une arnaque 🛡️\n\nLe prompt détecteur, la vérification des liens, les 3 signaux universels et quoi faire si c'est trop tard (33700, opposition bancaire).\n\n📤 Envoie-le à tes parents.\n📌 Enregistre au cas où.\n\n#arnaque #securite #ia #chatgpt #astuce",
+      "hook": "v3",
+      "networks": [
+        "tiktok"
+      ]
+    },
+    {
       "at": "2026-10-13T12:30:00+02:00",
       "type": "video",
       "media": "v/05-lento.mp4",
       "text": "Une agence t'aurait facturé ça combien ?\n\nLe café qui se verse, la vapeur, les grains, la typo éditoriale… Une pub entière écrite par Claude. Dis-moi ton estimation en commentaire.\n\nMarque fictive. Pub 100 % codée par Claude, sans logiciel de montage.\n👉 Note-la sur 10 en commentaire.\n\n#claude #ia #cafe #motiondesign #branding",
       "cover_ms": 3500,
       "networks": [
-        "tiktok"
+        "instagram"
       ],
       "ai_label": false
     },
@@ -683,37 +700,6 @@
       "cover_ms": 1500
     },
     {
-      "at": "2026-10-13T16:00:00+02:00",
-      "type": "carousel",
-      "media": "c/36",
-      "text": "Tu en vois partout sans savoir le lire ? 🧩\n\nLe JSON, c'est une fiche bien rangée que toutes les applis comprennent. Et l'IA peut te répondre directement dans ce format.\n\n👉 Swipe pour le comprendre en 1 minute.\n\n📌 Enregistre ce post.\n\n#json #automatisation #nocode #api #apprendre",
-      "networks": [
-        "instagram",
-        "tiktok"
-      ],
-      "hook": "v2"
-    },
-    {
-      "at": "2026-10-13T16:45:00+02:00",
-      "type": "carousel",
-      "media": "c/37",
-      "text": "Et si ta boîte mail se triait toute seule ? 📬\n\nUn mail arrive, l'IA le classe et le résume, il part dans le bon dossier. Tu ne lis plus que l'essentiel.\n\n👉 Swipe pour les 3 étapes.\n\n🔁 Partage ce post à quelqu'un qui croule sous les mails.\n\n#automatisation #email #ia #productivite #nocode",
-      "networks": [
-        "tiktok"
-      ],
-      "hook": "v2"
-    },
-    {
-      "at": "2026-10-13T17:30:00+02:00",
-      "type": "carousel",
-      "media": "c/38",
-      "text": "Le compte rendu de réunion qui s'écrit tout seul. 🎙️\n\nEnregistrer, transcrire, faire résumer : décisions, actions, qui fait quoi. Prêt à envoyer en 5 minutes.\n\n👉 Swipe pour la méthode.\n\n📌 Enregistre ce post.\n\n#ia #productivite #reunion #automatisation #travail",
-      "networks": [
-        "tiktok"
-      ],
-      "hook": "v2"
-    },
-    {
       "at": "2026-10-13T18:30:00+02:00",
       "type": "video",
       "media": "gj/v/23.mp4",
@@ -721,6 +707,26 @@
       "account": "giletjaune",
       "ai_label": true,
       "cover_ms": 1500
+    },
+    {
+      "at": "2026-10-13T18:30:00+02:00",
+      "type": "carousel",
+      "media": "t/76",
+      "text": "6 outils pour automatiser ton boulot pendant que tu dors ⚙️\n\nn8n, Make, Zapier, Tally, Fathom, Buffer. Dernière partie de la série des IA gratuites.\n\n📌 Enregistre pour plus tard.\n💬 Tu automatiserais quoi en premier ?\n\n#automatisation #nocode #ia #productivite #n8n",
+      "hook": "v3",
+      "networks": [
+        "tiktok"
+      ]
+    },
+    {
+      "at": "2026-10-13T18:30:00+02:00",
+      "type": "carousel",
+      "media": "c/76",
+      "text": "6 outils pour automatiser ton boulot pendant que tu dors ⚙️\n\nn8n, Make, Zapier, Tally, Fathom, Buffer. Dernière partie de la série des IA gratuites.\n\n📌 Enregistre pour plus tard.\n💬 Tu automatiserais quoi en premier ?\n\n#automatisation #nocode #ia #productivite #n8n",
+      "hook": "v3",
+      "networks": [
+        "instagram"
+      ]
     },
     {
       "at": "2026-10-13T20:00:00+02:00",
@@ -744,13 +750,23 @@
       "cover_ms": 1500
     },
     {
+      "at": "2026-10-14T12:15:00+02:00",
+      "type": "carousel",
+      "media": "t/86",
+      "text": "Ne colle jamais ces 5 choses dans une IA ⛔\n\nMots de passe, papiers d'identité, santé, fichiers du boulot, et tout ce que tu ne dirais pas en public.\n\n📤 Envoie-le à un collègue qui colle tout dans ChatGPT.\n💬 Tu faisais lequel ?\n\n#securite #ia #chatgpt #travail #vieprivee",
+      "hook": "v3",
+      "networks": [
+        "tiktok"
+      ]
+    },
+    {
       "at": "2026-10-14T12:30:00+02:00",
       "type": "video",
       "media": "v/18-pixel.mp4",
       "text": "Claude a codé une pub rétro. Pixel par pixel.\n\nVaisseau, envahisseurs, boss qui explose, écran cathodique. Une pub de jeu vidéo 8 bits entièrement générée en code.\n\nMarque fictive. Pub 100 % codée par Claude, sans logiciel de montage.\n👉 Note-la sur 10 en commentaire.\n\n#claude #ia #retrogaming #pixelart #motiondesign",
       "cover_ms": 8050,
       "networks": [
-        "tiktok"
+        "instagram"
       ],
       "ai_label": true
     },
@@ -764,37 +780,6 @@
       "cover_ms": 1500
     },
     {
-      "at": "2026-10-14T16:00:00+02:00",
-      "type": "carousel",
-      "media": "c/39",
-      "text": "Ta veille, résumée et livrée chaque matin à 8h. ☕\n\nTes sources préférées, l'IA qui trie et résume, un seul message à lire. 3 minutes au lieu d'une heure.\n\n👉 Swipe pour la mettre en place.\n\n📌 Enregistre ce post.\n\n#veille #automatisation #ia #productivite #nocode",
-      "networks": [
-        "instagram",
-        "tiktok"
-      ],
-      "hook": "v2"
-    },
-    {
-      "at": "2026-10-14T16:45:00+02:00",
-      "type": "carousel",
-      "media": "c/40",
-      "text": "Un simple mail peut détourner ton assistant IA. 🕵️\n\nC'est le prompt injection : des ordres cachés dans un texte que l'IA lit. Dangereux dès qu'elle peut agir à ta place.\n\n👉 Swipe pour t'en protéger.\n\n🔁 Partage ce post à quelqu'un qui monte des agents IA.\n\n#cybersecurite #ia #agentia #securite #automatisation",
-      "networks": [
-        "tiktok"
-      ],
-      "hook": "v2"
-    },
-    {
-      "at": "2026-10-14T17:30:00+02:00",
-      "type": "carousel",
-      "media": "c/41",
-      "text": "Tu as déjà collé ça dans ChatGPT ? 🚫\n\nMots de passe, clés API, données bancaires ou de santé, secrets de clients : à garder hors de l'IA, ou à anonymiser avant.\n\n👉 Swipe pour la liste complète.\n\n🔁 Partage ce post, ça peut éviter une grosse erreur.\n\n#cybersecurite #ia #rgpd #chatgpt #confidentialite",
-      "networks": [
-        "tiktok"
-      ],
-      "hook": "v2"
-    },
-    {
       "at": "2026-10-14T18:30:00+02:00",
       "type": "video",
       "media": "gj/v/26.mp4",
@@ -802,6 +787,26 @@
       "account": "giletjaune",
       "ai_label": true,
       "cover_ms": 1500
+    },
+    {
+      "at": "2026-10-14T18:30:00+02:00",
+      "type": "carousel",
+      "media": "t/87",
+      "text": "ChatGPT, Claude ou Gemini : lequel pour quoi ? 🥊\n\nLe couteau suisse, l'écrivain, l'intégré. Les 3 ont une version gratuite : teste-les avec la même question.\n\n📌 Enregistre ce comparatif.\n🗳️ Team ChatGPT, Claude ou Gemini ?\n\n#chatgpt #claude #gemini #ia #comparatif",
+      "hook": "v3",
+      "networks": [
+        "tiktok"
+      ]
+    },
+    {
+      "at": "2026-10-14T18:30:00+02:00",
+      "type": "carousel",
+      "media": "c/87",
+      "text": "ChatGPT, Claude ou Gemini : lequel pour quoi ? 🥊\n\nLe couteau suisse, l'écrivain, l'intégré. Les 3 ont une version gratuite : teste-les avec la même question.\n\n📌 Enregistre ce comparatif.\n🗳️ Team ChatGPT, Claude ou Gemini ?\n\n#chatgpt #claude #gemini #ia #comparatif",
+      "hook": "v3",
+      "networks": [
+        "instagram"
+      ]
     },
     {
       "at": "2026-10-14T20:00:00+02:00",
@@ -825,13 +830,23 @@
       "cover_ms": 1500
     },
     {
+      "at": "2026-10-15T12:15:00+02:00",
+      "type": "carousel",
+      "media": "t/85",
+      "text": "Ce que ChatGPT retient de toi, et comment l'effacer 👁️\n\nMémoire, entraînement des modèles, chat temporaire : 3 réglages à vérifier aujourd'hui. Et un prompt test qui fait un peu peur.\n\n📌 Enregistre et vérifie ce soir.\n💬 Il savait quoi sur toi ?\n\n#chatgpt #vieprivee #ia #securite #astuce",
+      "hook": "v3",
+      "networks": [
+        "tiktok"
+      ]
+    },
+    {
       "at": "2026-10-15T12:30:00+02:00",
       "type": "video",
       "media": "v/10-habitat.mp4",
       "text": "Claude fait maintenant des pubs immo. Regarde ça.\n\nL'immeuble se construit étage par étage, la carte des prix, le plan qui se dessine. Imagine ça pour tes annonces.\n\nMarque fictive. Pub 100 % codée par Claude, sans logiciel de montage.\n👉 Note-la sur 10 en commentaire.\n\n#claude #ia #immobilier #motiondesign #marketingimmobilier",
       "cover_ms": 3500,
       "networks": [
-        "tiktok"
+        "instagram"
       ],
       "ai_label": false
     },
@@ -845,37 +860,6 @@
       "cover_ms": 1500
     },
     {
-      "at": "2026-10-15T16:00:00+02:00",
-      "type": "carousel",
-      "media": "c/42",
-      "text": "L'IA t'a donné un chiffre très précis ? Vérifie-le. 🔎\n\nDemande la source, méfie-toi des dates et des statistiques, recoupe ailleurs. 30 secondes qui évitent une belle erreur.\n\n👉 Swipe pour les 3 réflexes.\n\n📌 Enregistre ce post.\n\n#ia #espritcritique #hallucination #methode #chatgpt",
-      "networks": [
-        "instagram",
-        "tiktok"
-      ],
-      "hook": "v2"
-    },
-    {
-      "at": "2026-10-15T16:45:00+02:00",
-      "type": "carousel",
-      "media": "c/43",
-      "text": "Arrête de tout réexpliquer à l'IA à chaque conversation. 🤖\n\nAvec les Projets Claude, les GPTs ou les Gems, tu crées un assistant qui connaît déjà tes consignes et tes documents.\n\n👉 Swipe pour créer le tien.\n\n📌 Enregistre ce post.\n\n#ia #claude #chatgpt #productivite #tuto",
-      "networks": [
-        "tiktok"
-      ],
-      "hook": "v2"
-    },
-    {
-      "at": "2026-10-15T17:30:00+02:00",
-      "type": "carousel",
-      "media": "c/44",
-      "text": "Ton long prompt donne une réponse brouillon ? 🗂️\n\nDécoupe-le en sections avec des titres et encadre tes documents entre balises. L'IA suit enfin ton plan.\n\n👉 Swipe pour la structure.\n\n📌 Enregistre ce post.\n\n#prompt #ia #claude #chatgpt #astuceia",
-      "networks": [
-        "tiktok"
-      ],
-      "hook": "v2"
-    },
-    {
       "at": "2026-10-15T18:30:00+02:00",
       "type": "video",
       "media": "gj/v/29.mp4",
@@ -883,6 +867,26 @@
       "account": "giletjaune",
       "ai_label": true,
       "cover_ms": 1500
+    },
+    {
+      "at": "2026-10-15T18:30:00+02:00",
+      "type": "carousel",
+      "media": "t/88",
+      "text": "3 erreurs qui rendent tes réponses ChatGPT nulles 😬\n\nUn prompt d'une ligne, accepter la première réponse, tout mélanger dans le même chat.\n\n📌 Enregistre et relis avant ton prochain prompt.\n💬 Tu faisais laquelle ?\n\n#chatgpt #prompt #astuceia #ia #productivite",
+      "hook": "v3",
+      "networks": [
+        "tiktok"
+      ]
+    },
+    {
+      "at": "2026-10-15T18:30:00+02:00",
+      "type": "carousel",
+      "media": "c/88",
+      "text": "3 erreurs qui rendent tes réponses ChatGPT nulles 😬\n\nUn prompt d'une ligne, accepter la première réponse, tout mélanger dans le même chat.\n\n📌 Enregistre et relis avant ton prochain prompt.\n💬 Tu faisais laquelle ?\n\n#chatgpt #prompt #astuceia #ia #productivite",
+      "hook": "v3",
+      "networks": [
+        "instagram"
+      ]
     },
     {
       "at": "2026-10-15T20:00:00+02:00",
@@ -906,13 +910,23 @@
       "cover_ms": 1500
     },
     {
+      "at": "2026-10-16T12:15:00+02:00",
+      "type": "carousel",
+      "media": "t/80",
+      "text": "4 prompts à enregistrer avant ton prochain entretien d'embauche 💼\n\nDécoder l'offre, simuler l'entretien, structurer tes réponses, poser les bonnes questions.\n\n📤 Envoie-le à quelqu'un qui cherche un job.\n📌 Enregistre pour le jour J.\n\n#entretien #emploi #recherchedemploi #chatgpt #ia",
+      "hook": "v3",
+      "networks": [
+        "tiktok"
+      ]
+    },
+    {
       "at": "2026-10-16T12:30:00+02:00",
       "type": "video",
       "media": "v/25-solaris.mp4",
       "text": "Aucun tournage. Aucun studio. Juste du code.\n\nLes panneaux se posent un par un, l'énergie file vers la batterie, le compteur d'économies grimpe. Une pub d'énergie solaire 100 % code. Marque fictive.\n\nMarque fictive. Pub 100 % codée par Claude, sans logiciel de montage.\n👉 Note-la sur 10 en commentaire.\n\n#claude #ia #solaire #energie #motiondesign",
       "cover_ms": 4300,
       "networks": [
-        "tiktok"
+        "instagram"
       ],
       "ai_label": true
     },
@@ -926,37 +940,6 @@
       "cover_ms": 1500
     },
     {
-      "at": "2026-10-16T16:00:00+02:00",
-      "type": "carousel",
-      "media": "c/45",
-      "text": "Tu passes 20 minutes à chercher une formule Excel ? 📊\n\nDécris ce que tu veux en français, l'IA t'écrit la formule. Elle t'explique aussi celles que tu ne comprends pas.\n\n👉 Swipe pour 3 usages.\n\n📌 Enregistre ce post.\n\n#excel #ia #productivite #googlesheets #astuceia",
-      "networks": [
-        "instagram",
-        "tiktok"
-      ],
-      "hook": "v2"
-    },
-    {
-      "at": "2026-10-16T16:45:00+02:00",
-      "type": "carousel",
-      "media": "c/46",
-      "text": "5 prompts à copier-coller pour gagner une heure par jour. ⏱️\n\nMails, résumés, priorités, réunions, et un prompt pour te débloquer quand tu tournes en rond.\n\n👉 Swipe pour les récupérer.\n\n📌 Enregistre ce post pour les avoir sous la main.\n\n#prompt #productivite #ia #chatgpt #organisation",
-      "networks": [
-        "tiktok"
-      ],
-      "hook": "v2"
-    },
-    {
-      "at": "2026-10-16T17:30:00+02:00",
-      "type": "carousel",
-      "media": "c/47",
-      "text": "Tout le monde parle d'agents IA. Mais la plupart sont des workflows. 🔀\n\nWorkflow : un chemin fixe et fiable. Agent : un but, des outils, et il choisit sa route.\n\n👉 Swipe pour savoir lequel il te faut.\n\n🔁 Partage ce post à quelqu'un qui veut « un agent IA ».\n\n#agentia #automatisation #ia #n8n #nocode",
-      "networks": [
-        "tiktok"
-      ],
-      "hook": "v2"
-    },
-    {
       "at": "2026-10-16T18:30:00+02:00",
       "type": "video",
       "media": "gj/v/32.mp4",
@@ -964,6 +947,26 @@
       "account": "giletjaune",
       "ai_label": true,
       "cover_ms": 1500
+    },
+    {
+      "at": "2026-10-16T18:30:00+02:00",
+      "type": "carousel",
+      "media": "t/79",
+      "text": "Ton propriétaire refuse de réparer ? Laisse l'IA écrire la lettre 🏠\n\n3 prompts : la lettre ferme mais polie, les bons arguments, le plan B. Vérifie toujours les textes sur service-public.fr.\n\n📤 Envoie-le à un locataire qui galère.\n📌 Enregistre au cas où.\n\n#locataire #logement #ia #chatgpt #astuce",
+      "hook": "v3",
+      "networks": [
+        "tiktok"
+      ]
+    },
+    {
+      "at": "2026-10-16T18:30:00+02:00",
+      "type": "carousel",
+      "media": "c/79",
+      "text": "Ton propriétaire refuse de réparer ? Laisse l'IA écrire la lettre 🏠\n\n3 prompts : la lettre ferme mais polie, les bons arguments, le plan B. Vérifie toujours les textes sur service-public.fr.\n\n📤 Envoie-le à un locataire qui galère.\n📌 Enregistre au cas où.\n\n#locataire #logement #ia #chatgpt #astuce",
+      "hook": "v3",
+      "networks": [
+        "instagram"
+      ]
     },
     {
       "at": "2026-10-16T20:00:00+02:00",
@@ -996,13 +999,23 @@
       "cover_ms": 1500
     },
     {
+      "at": "2026-10-17T12:15:00+02:00",
+      "type": "carousel",
+      "media": "t/89",
+      "text": "Ton CV relu par l'IA comme un recruteur 📄\n\nLe test des 6 secondes, les mots-clés manquants, des résultats au lieu des tâches. Sans rien inventer.\n\n📤 Envoie-le à quelqu'un qui postule.\n📌 Enregistre pour ta prochaine offre.\n\n#cv #emploi #recherchedemploi #chatgpt #ia",
+      "hook": "v3",
+      "networks": [
+        "tiktok"
+      ]
+    },
+    {
       "at": "2026-10-17T12:30:00+02:00",
       "type": "video",
       "media": "v/13b-nexa.mp4",
       "text": "Ce téléphone n'existe pas.\n\nUn téléphone en 3D, le zoom sur l'appareil photo, l'écran qui s'allume, trois coloris. Style keynote, zéro caméra. Marque fictive.\n\nMarque fictive. Pub 100 % codée par Claude, sans logiciel de montage.\n👉 Note-la sur 10 en commentaire.\n\n#claude #ia #smartphone #motiondesign #tech",
       "cover_ms": 7950,
       "networks": [
-        "tiktok"
+        "instagram"
       ],
       "ai_label": false
     },
@@ -1016,37 +1029,6 @@
       "cover_ms": 1500
     },
     {
-      "at": "2026-10-17T16:00:00+02:00",
-      "type": "carousel",
-      "media": "c/48",
-      "text": "Ton automatisation IA a envoyé n'importe quoi à un client ? 😬\n\nAjoute une validation humaine avant chaque action irréversible : envoyer, payer, publier, supprimer.\n\n👉 Swipe pour savoir où et comment.\n\n📌 Enregistre ce post.\n\n#automatisation #ia #agentia #methode #nocode",
-      "networks": [
-        "instagram",
-        "tiktok"
-      ],
-      "hook": "v2"
-    },
-    {
-      "at": "2026-10-17T16:45:00+02:00",
-      "type": "carousel",
-      "media": "c/49",
-      "text": "Une automatisation IA, ça coûte combien en vrai ? 💶\n\nL'outil, l'IA payée à l'usage… et ton temps, le poste que tout le monde oublie.\n\n👉 Swipe pour faire le calcul.\n\n📌 Enregistre ce post.\n\n#automatisation #ia #entrepreneur #rentabilite #nocode",
-      "networks": [
-        "tiktok"
-      ],
-      "hook": "v2"
-    },
-    {
-      "at": "2026-10-17T17:30:00+02:00",
-      "type": "carousel",
-      "media": "c/50",
-      "text": "« Ça me fait gagner du temps. » Combien, exactement ? ⏳\n\nChronomètre la tâche, compte les exécutions, multiplie. Tu sauras enfin ce que vaut ton automatisation.\n\n👉 Swipe pour la méthode.\n\n📌 Enregistre ce post.\n\n#automatisation #productivite #entrepreneur #ia #methode",
-      "networks": [
-        "tiktok"
-      ],
-      "hook": "v2"
-    },
-    {
       "at": "2026-10-17T18:30:00+02:00",
       "type": "video",
       "media": "gj/v/36.mp4",
@@ -1054,6 +1036,26 @@
       "account": "giletjaune",
       "ai_label": true,
       "cover_ms": 1500
+    },
+    {
+      "at": "2026-10-17T18:30:00+02:00",
+      "type": "carousel",
+      "media": "t/90",
+      "text": "Un courrier des impôts ou de la CAF incompréhensible ? Prends-le en photo 📮\n\nL'IA te l'explique en 5 lignes et t'aide à répondre. Cache tes infos perso et vérifie toujours dans ton espace officiel.\n\n📤 Envoie-le à tes parents.\n📌 Enregistre au cas où.\n\n#administratif #impots #caf #ia #astuce",
+      "hook": "v3",
+      "networks": [
+        "tiktok"
+      ]
+    },
+    {
+      "at": "2026-10-17T18:30:00+02:00",
+      "type": "carousel",
+      "media": "c/90",
+      "text": "Un courrier des impôts ou de la CAF incompréhensible ? Prends-le en photo 📮\n\nL'IA te l'explique en 5 lignes et t'aide à répondre. Cache tes infos perso et vérifie toujours dans ton espace officiel.\n\n📤 Envoie-le à tes parents.\n📌 Enregistre au cas où.\n\n#administratif #impots #caf #ia #astuce",
+      "hook": "v3",
+      "networks": [
+        "instagram"
+      ]
     },
     {
       "at": "2026-10-17T20:00:00+02:00",
@@ -1068,46 +1070,45 @@
       "ai_label": false
     },
     {
+      "at": "2026-10-18T12:15:00+02:00",
+      "type": "carousel",
+      "media": "t/84",
+      "text": "Prends ton frigo en photo : l'IA te propose 3 recettes 🥕\n\nMarche avec ChatGPT, Claude ou Gemini sur ton téléphone. + le menu de la semaine avec liste de courses + l'anti-gaspi.\n\n📌 Enregistre pour ce soir.\n💬 Il te reste quoi dans le frigo ?\n\n#recette #antigaspi #ia #chatgpt #astuce",
+      "hook": "v3",
+      "networks": [
+        "tiktok"
+      ]
+    },
+    {
       "at": "2026-10-18T12:30:00+02:00",
       "type": "video",
       "media": "v/08b-spark.mp4",
       "text": "4 000 particules. Toutes codées par une IA.\n\n4 000 particules qui deviennent un mot, une ampoule, une fusée, une planète. Chaque particule est calculée par le code de Claude.\n\nMarque fictive. Pub 100 % codée par Claude, sans logiciel de montage.\n👉 Note-la sur 10 en commentaire.\n\n#claude #ia #creativecoding #motiondesign #startup",
       "cover_ms": 4100,
       "networks": [
-        "tiktok"
+        "instagram"
       ],
       "ai_label": true
     },
     {
-      "at": "2026-10-18T16:00:00+02:00",
+      "at": "2026-10-18T18:30:00+02:00",
       "type": "carousel",
-      "media": "c/51",
-      "text": "Créer une appli sans savoir coder ? C'est le vibe coding. ✨\n\nTu décris ton idée, l'IA écrit le code, tu testes et tu corriges en discutant. Idéal pour un prototype.\n\n👉 Swipe pour les outils et les limites.\n\n➕ Abonne-toi pour plus d'outils IA.\n\n#vibecoding #ia #nocode #claudecode #developpement",
+      "media": "t/94",
+      "text": "Une vidéo YouTube d'1 h résumée en 30 secondes ▶️\n\nGemini et Gemini Notebook (ex-NotebookLM) lisent la vidéo à partir du lien. + le prompt qui donne les minutages.\n\n📌 Enregistre, ça va te servir.\n💬 Tu résumerais quelle vidéo ?\n\n#youtube #ia #gemini #productivite #astuce",
+      "hook": "v3",
       "networks": [
-        "instagram",
         "tiktok"
-      ],
-      "hook": "v2"
+      ]
     },
     {
-      "at": "2026-10-18T16:45:00+02:00",
+      "at": "2026-10-18T18:30:00+02:00",
       "type": "carousel",
-      "media": "c/52",
-      "text": "L'IA a cassé ton projet ? Pas de panique si tu utilises Git. 💾\n\nGit prend une photo de ton projet à chaque étape. Tu peux toujours revenir en arrière.\n\n👉 Swipe pour comprendre en 1 minute.\n\n📌 Enregistre ce post.\n\n#git #github #vibecoding #developpement #apprendre",
+      "media": "c/94",
+      "text": "Une vidéo YouTube d'1 h résumée en 30 secondes ▶️\n\nGemini et Gemini Notebook (ex-NotebookLM) lisent la vidéo à partir du lien. + le prompt qui donne les minutages.\n\n📌 Enregistre, ça va te servir.\n💬 Tu résumerais quelle vidéo ?\n\n#youtube #ia #gemini #productivite #astuce",
+      "hook": "v3",
       "networks": [
-        "tiktok"
-      ],
-      "hook": "v2"
-    },
-    {
-      "at": "2026-10-18T17:30:00+02:00",
-      "type": "carousel",
-      "media": "c/53",
-      "text": "Ton site est prêt mais pas en ligne ? 🚀\n\nGitHub + Netlify, Vercel ou Cloudflare Pages : en quelques minutes ton site est public, et chaque modification se met en ligne toute seule.\n\n👉 Swipe pour les 3 étapes.\n\n📌 Enregistre ce post.\n\n#siteweb #netlify #nocode #vibecoding #tuto",
-      "networks": [
-        "tiktok"
-      ],
-      "hook": "v2"
+        "instagram"
+      ]
     },
     {
       "at": "2026-10-18T20:00:00+02:00",
@@ -1122,46 +1123,45 @@
       "ai_label": true
     },
     {
+      "at": "2026-10-19T12:15:00+02:00",
+      "type": "carousel",
+      "media": "t/92",
+      "text": "Le prompt pour faire baisser tes factures 🧾\n\nDiagnostic de tes abonnements, script d'appel avec les objections, mail de négociation. L'IA prépare, toi tu appelles.\n\n📌 Enregistre avant ton prochain appel.\n💬 Tu paies combien ta box ?\n\n#argent #budget #economie #chatgpt #astuce",
+      "hook": "v3",
+      "networks": [
+        "tiktok"
+      ]
+    },
+    {
       "at": "2026-10-19T12:30:00+02:00",
       "type": "video",
       "media": "v/15b-orbital.mp4",
       "text": "Aucune fusée n'a été filmée.\n\nDécollage, fumée, compteur d'altitude, courbure de la Terre, séparation d'étage. Un vol spatial entièrement calculé par le code de Claude.\n\nMarque fictive. Pub 100 % codée par Claude, sans logiciel de montage.\n👉 Note-la sur 10 en commentaire.\n\n#claude #ia #espace #motiondesign #creativecoding",
       "cover_ms": 3300,
       "networks": [
-        "tiktok"
+        "instagram"
       ],
       "ai_label": false
     },
     {
-      "at": "2026-10-19T16:00:00+02:00",
+      "at": "2026-10-19T18:30:00+02:00",
       "type": "carousel",
-      "media": "c/54",
-      "text": "Ta clé API traîne dans ton code ? Danger. 🔑\n\nUne clé volée, c'est quelqu'un qui utilise l'IA à tes frais. Range-la dans les secrets et mets un plafond de dépense.\n\n👉 Swipe pour les bons réflexes.\n\n🔁 Partage ce post à quelqu'un qui débute avec les API.\n\n#api #cybersecurite #developpement #ia #automatisation",
+      "media": "t/96",
+      "text": "Ton voyage complet organisé en 1 prompt ✈️\n\nItinéraire jour par jour, budget économique ou confort, liste de valise. Vérifie toujours les prix réels avant de réserver.\n\n📌 Enregistre pour tes prochaines vacances.\n💬 Tu pars où ?\n\n#voyage #vacances #ia #chatgpt #astuce",
+      "hook": "v3",
       "networks": [
-        "instagram",
         "tiktok"
-      ],
-      "hook": "v2"
+      ]
     },
     {
-      "at": "2026-10-19T16:45:00+02:00",
+      "at": "2026-10-19T18:30:00+02:00",
       "type": "carousel",
-      "media": "c/55",
-      "text": "« Rate limit exceeded » : ton automatisation s'arrête net ? 🚦\n\nChaque service limite le nombre de demandes. La parade : des pauses et des nouvelles tentatives automatiques.\n\n👉 Swipe pour comprendre et contourner.\n\n📌 Enregistre ce post.\n\n#api #automatisation #n8n #ia #developpement",
+      "media": "c/96",
+      "text": "Ton voyage complet organisé en 1 prompt ✈️\n\nItinéraire jour par jour, budget économique ou confort, liste de valise. Vérifie toujours les prix réels avant de réserver.\n\n📌 Enregistre pour tes prochaines vacances.\n💬 Tu pars où ?\n\n#voyage #vacances #ia #chatgpt #astuce",
+      "hook": "v3",
       "networks": [
-        "tiktok"
-      ],
-      "hook": "v2"
-    },
-    {
-      "at": "2026-10-19T17:30:00+02:00",
-      "type": "carousel",
-      "media": "c/56",
-      "text": "Ton IA « réfléchit » pendant 30 secondes. Elle fait quoi ? 🧠\n\nElle écrit un brouillon : elle décompose, teste, se corrige. Génial pour les problèmes complexes, inutile pour un mail.\n\n👉 Swipe pour savoir quand l'activer.\n\n➕ Abonne-toi pour comprendre l'IA en 5 slides.\n\n#ia #llm #raisonnement #claude #chatgpt",
-      "networks": [
-        "tiktok"
-      ],
-      "hook": "v2"
+        "instagram"
+      ]
     },
     {
       "at": "2026-10-19T20:00:00+02:00",
@@ -1176,46 +1176,45 @@
       "ai_label": false
     },
     {
+      "at": "2026-10-20T12:15:00+02:00",
+      "type": "carousel",
+      "media": "t/95",
+      "text": "Planifie ta semaine en 2 minutes avec ce prompt 🗓️\n\nTu vides ta tête en vrac, l'IA classe, répartit et garde de la marge. + le point du vendredi.\n\n📌 Enregistre pour dimanche soir.\n💬 C'est quoi ta tâche que tu repousses ?\n\n#organisation #productivite #chatgpt #ia #planning",
+      "hook": "v3",
+      "networks": [
+        "tiktok"
+      ]
+    },
+    {
       "at": "2026-10-20T12:30:00+02:00",
       "type": "video",
       "media": "v/28-folio.mp4",
       "text": "Ce livre n'a jamais été imprimé.\n\nUn livre ouvert, des pages qui tournent en 3D, une citation surlignée, le mode nuit. Le livre, l'autrice et l'histoire sont inventés, l'animation est écrite en code.\n\nMarque fictive. Pub 100 % codée par Claude, sans logiciel de montage.\n👉 Note-la sur 10 en commentaire.\n\n#claude #ia #lecture #livres #motiondesign",
       "cover_ms": 3450,
       "networks": [
-        "tiktok"
+        "instagram"
       ],
       "ai_label": true
     },
     {
-      "at": "2026-10-20T16:00:00+02:00",
+      "at": "2026-10-20T18:30:00+02:00",
       "type": "carousel",
-      "media": "c/57",
-      "text": "Une journée de recherche faite en 10 minutes. 🔬\n\nLa recherche approfondie lit des dizaines de sources et te rend un rapport avec les liens. Parfait pour étudier un marché ou des concurrents.\n\n👉 Swipe pour bien la lancer.\n\n📌 Enregistre ce post.\n\n#ia #recherche #veille #chatgpt #productivite",
+      "media": "t/97",
+      "text": "5 prompts pour lancer un projet qui rapporte 💡\n\nTrouver l'idée, la tester, fixer le prix, trouver les premiers clients. Du « j'ai une idée » au premier client.\n\n📌 Enregistre si tu as un projet.\n💬 C'est quoi ton idée ?\n\n#entrepreneur #sidehustle #business #chatgpt #ia",
+      "hook": "v3",
       "networks": [
-        "instagram",
         "tiktok"
-      ],
-      "hook": "v2"
+      ]
     },
     {
-      "at": "2026-10-20T16:45:00+02:00",
+      "at": "2026-10-20T18:30:00+02:00",
       "type": "carousel",
-      "media": "c/58",
-      "text": "Tu parles 3 fois plus vite que tu n'écris. Profites-en. 🎧\n\nL'IA transcrit tes audios en texte, puis les transforme en article, mail ou liste de tâches.\n\n👉 Swipe pour les usages.\n\n📌 Enregistre ce post.\n\n#ia #transcription #productivite #podcast #creationdecontenu",
+      "media": "c/97",
+      "text": "5 prompts pour lancer un projet qui rapporte 💡\n\nTrouver l'idée, la tester, fixer le prix, trouver les premiers clients. Du « j'ai une idée » au premier client.\n\n📌 Enregistre si tu as un projet.\n💬 C'est quoi ton idée ?\n\n#entrepreneur #sidehustle #business #chatgpt #ia",
+      "hook": "v3",
       "networks": [
-        "tiktok"
-      ],
-      "hook": "v2"
-    },
-    {
-      "at": "2026-10-20T17:30:00+02:00",
-      "type": "carousel",
-      "media": "c/59",
-      "text": "Une voix off pro, sans micro ni studio. 🎙️\n\nL'IA lit ton texte avec une voix naturelle, dans la langue de ton choix. Parfait pour tes vidéos et formations.\n\n👉 Swipe pour les usages et la limite à respecter.\n\n➕ Abonne-toi pour plus d'outils IA.\n\n#ia #voixoff #creationdecontenu #video #tts",
-      "networks": [
-        "tiktok"
-      ],
-      "hook": "v2"
+        "instagram"
+      ]
     },
     {
       "at": "2026-10-20T20:00:00+02:00",
@@ -1230,46 +1229,45 @@
       "ai_label": true
     },
     {
+      "at": "2026-10-21T12:15:00+02:00",
+      "type": "carousel",
+      "media": "t/93",
+      "text": "Demande ça à l'IA avant tout achat de plus de 100 € 🛒\n\nLe besoin réel, le comparatif avec sources, l'avocat du diable. Tu vas éviter au moins un mauvais achat.\n\n📌 Enregistre pour ton prochain achat.\n💬 Ton pire achat regretté ?\n\n#consommation #argent #ia #chatgpt #astuce",
+      "hook": "v3",
+      "networks": [
+        "tiktok"
+      ]
+    },
+    {
       "at": "2026-10-21T12:30:00+02:00",
       "type": "video",
       "media": "v/30-verde.mp4",
       "text": "Cette plante pousse en code.\n\nPas une image de banque : chaque branche, chaque feuille et chaque fleur sont générées par un algorithme écrit par Claude. 90 jours de croissance en 6 secondes.\n\nMarque fictive. Pub 100 % codée par Claude, sans logiciel de montage.\n👉 Note-la sur 10 en commentaire.\n\n#claude #ia #plantes #creativecoding #motiondesign",
       "cover_ms": 6100,
       "networks": [
-        "tiktok"
+        "instagram"
       ],
       "ai_label": false
     },
     {
-      "at": "2026-10-21T16:00:00+02:00",
+      "at": "2026-10-21T18:30:00+02:00",
       "type": "carousel",
-      "media": "c/60",
-      "text": "Tes images IA ont toutes le même look plastique ? 🖼️\n\nLe secret : un sujet précis, un lieu, une lumière et un style photo. Et oublie « ultra réaliste 8K ».\n\n👉 Swipe pour le prompt en 4 blocs.\n\n📌 Enregistre ce post.\n\n#ia #imageia #prompt #midjourney #creationdecontenu",
+      "media": "t/98",
+      "text": "Ton budget du mois fait par l'IA en 5 minutes 📊\n\nTri des dépenses, repérage des fuites d'argent, plan mensuel avec épargne. Sans tes relevés bancaires bruts.\n\n📌 Enregistre pour la fin du mois.\n💬 Tu épargnes combien par mois ?\n\n#budget #argent #epargne #chatgpt #astuce",
+      "hook": "v3",
       "networks": [
-        "instagram",
         "tiktok"
-      ],
-      "hook": "v2"
+      ]
     },
     {
-      "at": "2026-10-21T16:45:00+02:00",
+      "at": "2026-10-21T18:30:00+02:00",
       "type": "carousel",
-      "media": "c/61",
-      "text": "Ta présentation de demain n'est pas prête ? Pas de panique. 📽️\n\nLe plan avec l'IA, puis le contenu slide par slide, puis la mise en forme automatique. 10 minutes.\n\n👉 Swipe pour la méthode.\n\n📌 Enregistre ce post.\n\n#ia #presentation #powerpoint #canva #productivite",
+      "media": "c/98",
+      "text": "Ton budget du mois fait par l'IA en 5 minutes 📊\n\nTri des dépenses, repérage des fuites d'argent, plan mensuel avec épargne. Sans tes relevés bancaires bruts.\n\n📌 Enregistre pour la fin du mois.\n💬 Tu épargnes combien par mois ?\n\n#budget #argent #epargne #chatgpt #astuce",
+      "hook": "v3",
       "networks": [
-        "tiktok"
-      ],
-      "hook": "v2"
-    },
-    {
-      "at": "2026-10-21T17:30:00+02:00",
-      "type": "carousel",
-      "media": "c/62",
-      "text": "Tes clients posent les mêmes questions à 23h ? 💬\n\nUn chatbot branché sur ta FAQ répond à ta place, et passe la main à un humain quand il ne sait pas.\n\n👉 Swipe pour le mettre en place.\n\n🔁 Partage ce post à un commerçant ou un artisan.\n\n#chatbot #ia #automatisation #entrepreneur #siteweb",
-      "networks": [
-        "tiktok"
-      ],
-      "hook": "v2"
+        "instagram"
+      ]
     },
     {
       "at": "2026-10-21T20:00:00+02:00",
@@ -1284,35 +1282,44 @@
       "ai_label": false
     },
     {
-      "at": "2026-10-22T16:00:00+02:00",
+      "at": "2026-10-22T12:15:00+02:00",
       "type": "carousel",
-      "media": "c/63",
-      "text": "Ce post, je ne l'ai pas publié. Un robot l'a fait. 🤖\n\nUn planning, un script qui programme dans Buffer toutes les heures, et un filet de sécurité qui relance ce qui échoue.\n\n👉 Swipe pour voir les coulisses.\n\n💬 Dis-moi en commentaire si tu veux le même système.\n\n#automatisation #reseauxsociaux #instagram #buffer #nocode",
+      "media": "t/91",
+      "text": "Apprends n'importe quelle langue avec ce prompt 🗣️\n\nUn prof particulier gratuit : conversation corrigée, jeux de rôle, bilan de tes erreurs. Encore mieux en mode vocal.\n\n📌 Enregistre et commence ce soir.\n💬 Tu apprends quelle langue ?\n\n#anglais #apprendreunelangue #chatgpt #ia #astuce",
+      "hook": "v3",
       "networks": [
-        "instagram",
         "tiktok"
-      ],
-      "hook": "v2"
+      ]
     },
     {
-      "at": "2026-10-22T16:45:00+02:00",
+      "at": "2026-10-22T18:30:00+02:00",
       "type": "carousel",
-      "media": "c/64",
-      "text": "Les 3 erreurs que font tous les débutants en automatisation. 🚧\n\nAutomatiser un processus flou, oublier les alertes, vouloir tout faire d'un coup.\n\n👉 Swipe pour les éviter.\n\n📌 Enregistre ce post.\n\n#automatisation #nocode #n8n #ia #entrepreneur",
+      "media": "t/99",
+      "text": "Un exposé à rendre demain ? Prêt en 30 minutes 🎤\n\nLe plan avec l'IA, les slides avec Gamma, l'entraînement à l'oral avec les questions du prof. Tu écris le contenu, l'IA t'aide.\n\n📤 Envoie-le à ton groupe d'exposé.\n📌 Enregistre pour le prochain.\n\n#etudiant #expose #ia #chatgpt #astuceetudiant",
+      "hook": "v3",
       "networks": [
         "tiktok"
-      ],
-      "hook": "v2"
+      ]
     },
     {
-      "at": "2026-10-22T17:30:00+02:00",
+      "at": "2026-10-22T18:30:00+02:00",
       "type": "carousel",
-      "media": "c/65",
-      "text": "Il y a un mois, ces 10 mots étaient du charabia. 📚\n\nLLM, token, prompt système, embeddings, base vectorielle, RAG, API, webhook, agent, MCP. Le récap de la série en 5 slides.\n\n👉 Swipe pour réviser.\n\n💬 Dis-moi en commentaire celui qui t'a le plus servi.\n\n#ia #apprendrelia #intelligenceartificielle #llm #automatisation",
+      "media": "c/99",
+      "text": "Un exposé à rendre demain ? Prêt en 30 minutes 🎤\n\nLe plan avec l'IA, les slides avec Gamma, l'entraînement à l'oral avec les questions du prof. Tu écris le contenu, l'IA t'aide.\n\n📤 Envoie-le à ton groupe d'exposé.\n📌 Enregistre pour le prochain.\n\n#etudiant #expose #ia #chatgpt #astuceetudiant",
+      "hook": "v3",
+      "networks": [
+        "instagram"
+      ]
+    },
+    {
+      "at": "2026-10-23T12:15:00+02:00",
+      "type": "carousel",
+      "media": "t/100",
+      "text": "3 usages de l'IA à montrer à tes parents ce week-end 📱\n\nLe mode vocal, la photo qui explique, le détecteur d'arnaques. Ils vont enfin trouver ça utile.\n\n📤 Envoie-le dans le groupe famille.\n💬 Tes parents utilisent l'IA ?\n\n#parents #ia #chatgpt #astuce #famille",
+      "hook": "v3",
       "networks": [
         "tiktok"
-      ],
-      "hook": "v2"
+      ]
     }
   ],
   "accounts": {

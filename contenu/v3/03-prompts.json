@@ -1,0 +1,182 @@
+[
+  {
+    "id": "77",
+    "emoji": "🪞",
+    "hook": "Colle ce prompt dans ChatGPT. Il va te dire *qui tu es vraiment*.",
+    "sub": "Le 3e pique un peu.",
+    "badge": "📌 Enregistre et teste ce soir",
+    "slides": [
+      {"type": "prompt", "title": "1. Ton *portrait*", "prompt": "D'après toutes nos conversations, décris-moi en 5 traits de personnalité. Pour chacun, donne un exemple précis de ce que je t'ai demandé qui le montre.", "tip": "Marche mieux si la mémoire est activée et que tu l'utilises depuis longtemps."},
+      {"type": "prompt", "title": "2. Tes *forces cachées*", "prompt": "Quelles sont 3 compétences que j'ai sans m'en rendre compte, d'après la façon dont je te pose mes questions ? Sois précis, pas flatteur.", "tip": "« Pas flatteur » change tout : sinon il te cire les pompes."},
+      {"type": "prompt", "title": "3. Ton *angle mort*", "prompt": "Sois honnête : quel comportement ou quelle habitude me freine le plus, d'après nos échanges ? Explique pourquoi, puis donne-moi un premier pas concret pour changer.", "tip": "C'est celui que tout le monde partage en story."},
+      {"type": "prompt", "title": "4. Ton *plan*", "prompt": "Avec tout ça, propose-moi un objectif réaliste pour les 30 prochains jours et 3 actions par semaine pour l'atteindre.", "tip": "Copie le plan dans ton agenda tout de suite."}
+    ],
+    "end": {"emoji": "💬", "title": "Il t'a dit quoi au n°3 ?", "body": "Raconte en commentaire. Et abonne-toi : un prompt utile chaque jour."},
+    "caption": "Colle ce prompt dans ChatGPT : il va te dire qui tu es vraiment 🪞\n\n4 prompts : ton portrait, tes forces cachées, ton angle mort, ton plan sur 30 jours. Le 3e pique un peu.\n\n📌 Enregistre et teste ce soir.\n💬 Il t'a dit quoi ?\n\n#chatgpt #prompt #developpementpersonnel #ia #claude"
+  },
+  {
+    "id": "78",
+    "emoji": "🚫",
+    "hook": "Les « codes secrets » ChatGPT sont *faux*. Voici les 4 qui marchent.",
+    "sub": "Pas de magie. Juste comment l'IA fonctionne.",
+    "badge": "📌 Enregistre, ça change tout",
+    "slides": [
+      {"type": "text", "title": "1. Fais-le te *poser des questions*", "body": "Termine ton message par : « Avant de répondre, pose-moi 3 questions pour bien comprendre ma situation. »\n\nTu passes d'une réponse générique à une réponse faite pour toi."},
+      {"type": "text", "title": "2. Montre un *exemple*", "body": "Au lieu de « écris un post sympa », colle un post que tu aimes et écris : « dans ce style-là ».\n\nUn exemple vaut 10 lignes d'explication."},
+      {"type": "text", "title": "3. Donne le *contexte*, pas un rôle", "body": "« Tu es un expert » ne sert presque à rien.\n\nCe qui compte : pour qui, pourquoi, quel format, quelle longueur, ce que tu as déjà essayé."},
+      {"type": "text", "title": "4. Fais-le *se corriger*", "body": "Après sa réponse : « Relis ta réponse comme un critique exigeant. Liste 3 faiblesses, puis réécris une version meilleure. »\n\nLa 2e version est presque toujours meilleure."}
+    ],
+    "end": {"emoji": "🧠", "title": "Tu connaissais lequel ?", "body": "Dis-moi le numéro en commentaire. Abonne-toi pour la suite : les prompts concrets du quotidien."},
+    "caption": "Les « codes secrets » ChatGPT sont faux. Voici les 4 techniques qui marchent vraiment 🚫\n\nQuestions d'abord, exemple, contexte, autocorrection. Ça marche aussi sur Claude et Gemini.\n\n📌 Enregistre pour ton prochain prompt.\n💬 Tu connaissais lequel ?\n\n#chatgpt #prompt #astuceia #ia #claude"
+  },
+  {
+    "id": "79",
+    "emoji": "🏠",
+    "hook": "Ton proprio refuse de réparer ? *Laisse l'IA écrire la lettre.*",
+    "sub": "Ferme, polie, avec les bons arguments.",
+    "badge": "📤 Envoie-le à un locataire",
+    "slides": [
+      {"type": "prompt", "title": "1. La lettre *ferme mais polie*", "prompt": "Je suis locataire. Depuis [date], [le problème : chauffage en panne, fuite…]. J'ai prévenu mon propriétaire le [date], sans réponse. Écris une lettre courtoise mais ferme qui demande une réparation sous 15 jours. Ton calme, phrases courtes.", "tip": "Plus tu donnes de dates, plus la lettre a de poids."},
+      {"type": "prompt", "title": "2. Les *bons arguments*", "prompt": "Quelles obligations du propriétaire s'appliquent à ma situation en France ? Cite les textes, puis indique-moi où vérifier chaque point sur un site officiel.", "tip": "Vérifie toujours sur service-public.fr avant d'envoyer : l'IA peut se tromper."},
+      {"type": "prompt", "title": "3. Le *plan B*", "prompt": "Si je n'ai pas de réponse dans 15 jours, quelles sont les étapes suivantes possibles, de la plus simple à la plus sérieuse ?", "tip": "Tu sais où tu vas avant même d'envoyer."}
+    ],
+    "end": {"emoji": "✉️", "title": "Envoie en recommandé", "body": "Garde une trace de tout. Et abonne-toi pour d'autres usages de l'IA qui règlent de vrais problèmes."},
+    "caption": "Ton propriétaire refuse de réparer ? Laisse l'IA écrire la lettre 🏠\n\n3 prompts : la lettre ferme mais polie, les bons arguments, le plan B. Vérifie toujours les textes sur service-public.fr.\n\n📤 Envoie-le à un locataire qui galère.\n📌 Enregistre au cas où.\n\n#locataire #logement #ia #chatgpt #astuce"
+  },
+  {
+    "id": "80",
+    "emoji": "💼",
+    "hook": "4 prompts à enregistrer *avant ton prochain entretien*",
+    "sub": "Le n°2 te fait passer l'entretien avant l'entretien.",
+    "badge": "📌 Enregistre pour le jour J",
+    "slides": [
+      {"type": "prompt", "title": "1. Décoder *l'offre*", "prompt": "Voici l'offre d'emploi : [colle l'offre]. Dis-moi les 5 qualités qu'ils cherchent vraiment, même celles qui ne sont pas écrites, et les questions qu'ils vont sûrement me poser.", "tip": "Tu arrives en sachant ce qu'ils veulent entendre."},
+      {"type": "prompt", "title": "2. L'entretien *simulé*", "prompt": "Joue le recruteur pour ce poste. Pose-moi une question à la fois, attends ma réponse, puis note-la sur 10 et dis-moi comment l'améliorer.", "tip": "Utilise le mode vocal : tu t'entraînes à l'oral."},
+      {"type": "prompt", "title": "3. Tes *réponses STAR*", "prompt": "Aide-moi à raconter cette expérience au format Situation, Tâche, Action, Résultat, en 45 secondes à l'oral : [ton expérience].", "tip": "Prépare 3 histoires : elles répondent à la plupart des questions."},
+      {"type": "prompt", "title": "4. Les questions *à leur poser*", "prompt": "Donne-moi 5 questions intelligentes à poser au recruteur à la fin de l'entretien pour ce poste, qui montrent que je me projette.", "tip": "Ne jamais répondre « non, pas de question »."}
+    ],
+    "end": {"emoji": "🍀", "title": "Bonne chance !", "body": "Envoie ce post à quelqu'un qui cherche un job. Abonne-toi : bientôt, ton CV relu comme par un recruteur."},
+    "caption": "4 prompts à enregistrer avant ton prochain entretien d'embauche 💼\n\nDécoder l'offre, simuler l'entretien, structurer tes réponses, poser les bonnes questions.\n\n📤 Envoie-le à quelqu'un qui cherche un job.\n📌 Enregistre pour le jour J.\n\n#entretien #emploi #recherchedemploi #chatgpt #ia"
+  },
+  {
+    "id": "81",
+    "emoji": "💸",
+    "hook": "Arrête de payer ChatGPT Plus. *6 alternatives gratuites.*",
+    "sub": "Pour un usage normal, le gratuit suffit souvent.",
+    "badge": "📌 Enregistre avant ton prochain prélèvement",
+    "slides": [
+      {"type": "tool", "name": "Claude", "domain": "claude.ai", "what": "Le meilleur pour *écrire* et analyser des documents", "how": "Textes naturels, longs PDF, petites applis créées dans la conversation.", "free": "Version gratuite"},
+      {"type": "tool", "name": "Gemini", "domain": "gemini.google.com", "what": "Branché sur *Gmail, Drive et YouTube*", "how": "Il résume une vidéo YouTube à partir du lien, ou retrouve un mail.", "free": "Version gratuite"},
+      {"type": "tool", "name": "Le Chat", "domain": "chat.mistral.ai", "what": "L'IA *française* de Mistral", "how": "Rapide, à l'aise en français, avec recherche web et création d'images.", "free": "Version gratuite"},
+      {"type": "tool", "name": "Perplexity", "domain": "perplexity.ai", "what": "Pour les *recherches* avec sources", "how": "Chaque réponse cite ses liens : tu vérifies en un clic.", "free": "Version gratuite"},
+      {"type": "tool", "name": "Copilot", "domain": "copilot.microsoft.com", "what": "Déjà *dans Windows et Edge*", "how": "Images, résumés de pages web, aide sur tes fichiers.", "free": "Version gratuite"},
+      {"type": "tool", "name": "DeepSeek", "domain": "chat.deepseek.com", "what": "Le chinois qui *raisonne* étape par étape", "how": "Fort en maths et en logique. Évite d'y mettre des données sensibles.", "free": "Gratuit"}
+    ],
+    "end": {"emoji": "🧮", "title": "Astuce : combine-les", "body": "Pose la même question à 2 IA gratuites et compare. Abonne-toi pour plus d'astuces comme ça."},
+    "caption": "Arrête de payer ChatGPT Plus : 6 alternatives gratuites 💸\n\nClaude, Gemini, Le Chat (Mistral), Perplexity, Copilot, DeepSeek. Pour un usage normal, la version gratuite suffit souvent.\n\n📌 Enregistre avant ton prochain prélèvement.\n💬 Tu paies un abonnement IA ?\n\n#chatgpt #iagratuite #claude #gemini #mistral"
+  },
+  {
+    "id": "82",
+    "emoji": "📧",
+    "hook": "Le prompt qui *écrit tes mails* à ta place",
+    "sub": "Et les 3 variantes que j'utilise tous les jours.",
+    "badge": "📌 Enregistre, tu vas l'utiliser demain",
+    "slides": [
+      {"type": "prompt", "title": "Le prompt *de base*", "prompt": "Écris un mail à [qui] pour [objectif]. Contexte : [2 lignes]. Ton : [poli / direct / chaleureux]. 6 lignes maximum, une seule demande claire, un objet de mail percutant.", "tip": "« Une seule demande claire » = plus de réponses."},
+      {"type": "prompt", "title": "Variante : *dire non*", "prompt": "Aide-moi à refuser cette demande poliment, sans me justifier pendant 3 paragraphes, en proposant une alternative : [colle la demande].", "tip": "Le mail que tout le monde repousse depuis 3 jours."},
+      {"type": "prompt", "title": "Variante : *la relance*", "prompt": "Écris une relance courte et sympa pour ce mail resté sans réponse depuis [X] jours, sans avoir l'air agacé : [colle le mail].", "tip": "Relance à J+3, puis J+7."},
+      {"type": "prompt", "title": "Variante : *répondre vite*", "prompt": "Voici le mail reçu : [colle]. Propose 3 réponses de 3 lignes : une qui accepte, une qui refuse, une qui demande plus d'infos.", "tip": "Tu choisis, tu ajustes, tu envoies. 30 secondes."}
+    ],
+    "end": {"emoji": "⏱️", "title": "1 h gagnée par semaine", "body": "Au minimum. Abonne-toi : un prompt utile chaque jour."},
+    "caption": "Le prompt qui écrit tes mails à ta place 📧\n\nLa version de base + 3 variantes : dire non, relancer, répondre en 30 secondes.\n\n📌 Enregistre, tu vas l'utiliser demain.\n💬 C'est quoi le mail que tu repousses depuis des jours ?\n\n#productivite #chatgpt #prompt #mail #ia"
+  },
+  {
+    "id": "83",
+    "emoji": "🛡️",
+    "hook": "SMS bizarre ? *Demande à l'IA si c'est une arnaque.*",
+    "sub": "Colis, Ameli, CPF, banque : elle repère les pièges.",
+    "badge": "📤 Envoie-le à tes parents",
+    "slides": [
+      {"type": "prompt", "title": "1. Le *détecteur*", "prompt": "J'ai reçu ce message : [colle le SMS ou le mail, sans tes infos perso]. Est-ce une arnaque ? Liste les signaux suspects un par un et dis-moi quoi faire.", "tip": "Ne colle jamais tes codes ou ton numéro de carte."},
+      {"type": "prompt", "title": "2. Le *lien* douteux", "prompt": "Ce lien est-il le vrai site officiel de [l'organisme] ? [colle le lien]. Explique-moi comment repérer une fausse adresse.", "tip": "Ne clique pas sur le lien pour vérifier : colle-le."},
+      {"type": "text", "title": "Les 3 signaux *universels*", "body": "1. L'urgence : « sous 24 h », « dernier rappel ».\n2. Un petit paiement : 1,99 € de frais de livraison.\n3. Un lien au lieu de « connectez-vous à votre espace »."},
+      {"type": "text", "title": "Et si c'est *trop tard* ?", "body": "Appelle ta banque tout de suite pour faire opposition. Signale le SMS au 33700. Signale le site sur internet-signalement.gouv.fr."}
+    ],
+    "end": {"emoji": "👵", "title": "Montre-le à tes parents", "body": "Ce sont eux les plus visés. Abonne-toi pour d'autres usages utiles de l'IA."},
+    "caption": "SMS bizarre ? Demande à l'IA si c'est une arnaque 🛡️\n\nLe prompt détecteur, la vérification des liens, les 3 signaux universels et quoi faire si c'est trop tard (33700, opposition bancaire).\n\n📤 Envoie-le à tes parents.\n📌 Enregistre au cas où.\n\n#arnaque #securite #ia #chatgpt #astuce"
+  },
+  {
+    "id": "84",
+    "emoji": "🥕",
+    "hook": "Prends ton frigo en photo. *L'IA te donne 3 recettes.*",
+    "sub": "Fini le « on mange quoi ce soir ».",
+    "badge": "📌 Enregistre pour ce soir",
+    "slides": [
+      {"type": "prompt", "title": "1. Le *frigo vide*", "prompt": "Voici une photo de mon frigo. Propose 3 recettes de moins de 25 minutes avec ce que tu vois, en considérant que j'ai sel, poivre, huile et pâtes. Liste ce qui me manque éventuellement.", "tip": "Ouvre bien le frigo et la porte : plus il voit, mieux c'est."},
+      {"type": "prompt", "title": "2. Le *menu de la semaine*", "prompt": "Prépare-moi 5 dîners pour la semaine, pour [X] personnes, budget [X] €, avec la liste de courses classée par rayon.", "tip": "Ajoute « sans four » ou « végétarien » selon tes contraintes."},
+      {"type": "prompt", "title": "3. L'*anti-gaspi*", "prompt": "Il me reste [ingrédients qui vont périmer]. Que puis-je cuisiner aujourd'hui pour tout utiliser ?", "tip": "Marche aussi avec les restes de la veille."}
+    ],
+    "end": {"emoji": "🍝", "title": "Tu as fait quoi avec ?", "body": "Montre ta recette en commentaire. Abonne-toi pour une astuce IA du quotidien chaque jour."},
+    "caption": "Prends ton frigo en photo : l'IA te propose 3 recettes 🥕\n\nMarche avec ChatGPT, Claude ou Gemini sur ton téléphone. + le menu de la semaine avec liste de courses + l'anti-gaspi.\n\n📌 Enregistre pour ce soir.\n💬 Il te reste quoi dans le frigo ?\n\n#recette #antigaspi #ia #chatgpt #astuce"
+  },
+  {
+    "id": "85",
+    "emoji": "👁️",
+    "hook": "Ce que ChatGPT *retient de toi* (et comment l'effacer)",
+    "sub": "3 réglages à vérifier aujourd'hui.",
+    "badge": "📌 Enregistre et vérifie ce soir",
+    "slides": [
+      {"type": "text", "title": "1. La *mémoire*", "body": "ChatGPT peut retenir des infos sur toi d'une conversation à l'autre.\n\nDans Paramètres › Personnalisation, tu vois ce qu'il a retenu et tu peux le supprimer."},
+      {"type": "text", "title": "2. L'*entraînement*", "body": "Tes conversations peuvent servir à améliorer les modèles.\n\nDans Paramètres › Contrôle des données, désactive « Améliorer le modèle pour tout le monde »."},
+      {"type": "text", "title": "3. Le *chat temporaire*", "body": "Pour une question sensible, ouvre un chat temporaire : il n'apparaît pas dans l'historique et ne nourrit pas la mémoire.\n\nClaude et Gemini ont des réglages équivalents."},
+      {"type": "prompt", "title": "Le test *qui fait peur*", "prompt": "Liste tout ce que tu sais sur moi, sous forme de puces.", "tip": "Les menus peuvent changer de nom avec les mises à jour."}
+    ],
+    "end": {"emoji": "🔒", "title": "Et toi, il savait quoi ?", "body": "Dis-moi en commentaire ce qui t'a surpris. Abonne-toi pour utiliser l'IA sans te mettre en danger."},
+    "caption": "Ce que ChatGPT retient de toi, et comment l'effacer 👁️\n\nMémoire, entraînement des modèles, chat temporaire : 3 réglages à vérifier aujourd'hui. Et un prompt test qui fait un peu peur.\n\n📌 Enregistre et vérifie ce soir.\n💬 Il savait quoi sur toi ?\n\n#chatgpt #vieprivee #ia #securite #astuce"
+  },
+  {
+    "id": "86",
+    "emoji": "⛔",
+    "hook": "Ne colle *jamais* ces 5 choses dans une IA",
+    "sub": "Le n°4, tout le monde le fait au boulot.",
+    "badge": "📤 Envoie-le à un collègue",
+    "slides": [
+      {"type": "text", "title": "1. Tes *mots de passe* et codes", "body": "Même pour « vérifier s'il est solide ». Aucune IA n'en a besoin."},
+      {"type": "text", "title": "2. Tes *papiers d'identité*", "body": "Carte d'identité, passeport, numéro de sécu, RIB complet. Floute ou retire-les avant d'envoyer un document."},
+      {"type": "text", "title": "3. Les *données de santé*", "body": "Les tiennes ou celles de tes proches, avec les noms. Pose ta question sans dire qui c'est."},
+      {"type": "text", "title": "4. Les *fichiers du boulot*", "body": "Fichier clients, contrats, chiffres internes. Demande d'abord ce que ton entreprise autorise : beaucoup ont des règles là-dessus."},
+      {"type": "text", "title": "5. Ce que tu ne dirais pas *en public*", "body": "Règle simple : si ça te gênerait de le voir affiché, ne le colle pas. Remplace les noms par « personne A »."}
+    ],
+    "end": {"emoji": "🔐", "title": "Tu faisais lequel ?", "body": "Pas de jugement, dis-le en commentaire. Abonne-toi pour utiliser l'IA sans te mettre en danger."},
+    "caption": "Ne colle jamais ces 5 choses dans une IA ⛔\n\nMots de passe, papiers d'identité, santé, fichiers du boulot, et tout ce que tu ne dirais pas en public.\n\n📤 Envoie-le à un collègue qui colle tout dans ChatGPT.\n💬 Tu faisais lequel ?\n\n#securite #ia #chatgpt #travail #vieprivee"
+  },
+  {
+    "id": "87",
+    "emoji": "🥊",
+    "hook": "ChatGPT, Claude ou Gemini : *lequel pour quoi ?*",
+    "sub": "Le comparatif simple, sans jargon.",
+    "badge": "📌 Enregistre ce comparatif",
+    "slides": [
+      {"type": "text", "title": "*ChatGPT* : le couteau suisse", "body": "Le plus complet pour le quotidien : mode vocal, images, recherche, mémoire.\n\nÀ prendre si tu ne veux en utiliser qu'un."},
+      {"type": "text", "title": "*Claude* : l'écrivain", "body": "Des textes très naturels, très bon sur les longs documents et le code.\n\nÀ prendre pour écrire, analyser, créer des petites applis."},
+      {"type": "text", "title": "*Gemini* : l'intégré", "body": "Branché sur Gmail, Drive, YouTube et Android.\n\nÀ prendre si tu vis dans l'écosystème Google."},
+      {"type": "text", "title": "Le vrai *conseil*", "body": "Les 3 ont une version gratuite. Pose-leur la même question cette semaine et garde celui dont tu préfères les réponses.\n\nLe meilleur, c'est celui que tu utilises vraiment."}
+    ],
+    "end": {"emoji": "🗳️", "title": "Team ChatGPT, Claude ou Gemini ?", "body": "Vote en commentaire. Abonne-toi pour les comparatifs à venir."},
+    "caption": "ChatGPT, Claude ou Gemini : lequel pour quoi ? 🥊\n\nLe couteau suisse, l'écrivain, l'intégré. Les 3 ont une version gratuite : teste-les avec la même question.\n\n📌 Enregistre ce comparatif.\n🗳️ Team ChatGPT, Claude ou Gemini ?\n\n#chatgpt #claude #gemini #ia #comparatif"
+  },
+  {
+    "id": "88",
+    "emoji": "😬",
+    "hook": "3 erreurs qui rendent tes réponses ChatGPT *nulles*",
+    "sub": "La 2e, presque tout le monde la fait.",
+    "badge": "📌 Enregistre, relis avant ton prochain prompt",
+    "slides": [
+      {"type": "text", "title": "Erreur 1 : *une ligne*", "body": "« Fais-moi un plan marketing. »\n\nSans contexte, tu reçois une réponse moyenne pour tout le monde. Ajoute : pour qui, quel budget, quel objectif."},
+      {"type": "text", "title": "Erreur 2 : *accepter la 1re réponse*", "body": "La première réponse est un brouillon.\n\nRéponds : « Plus court », « Plus concret », « Donne un exemple », « Ton plus direct ». C'est une conversation, pas une recherche Google."},
+      {"type": "text", "title": "Erreur 3 : *tout dans le même chat*", "body": "Après 50 messages, l'IA mélange tout.\n\nNouveau sujet = nouvelle conversation. Résume l'essentiel en 3 lignes au début."}
+    ],
+    "end": {"emoji": "✅", "title": "Corrige juste la n°2", "body": "Tes réponses seront bien meilleures dès aujourd'hui. Abonne-toi pour la suite."},
+    "caption": "3 erreurs qui rendent tes réponses ChatGPT nulles 😬\n\nUn prompt d'une ligne, accepter la première réponse, tout mélanger dans le même chat.\n\n📌 Enregistre et relis avant ton prochain prompt.\n💬 Tu faisais laquelle ?\n\n#chatgpt #prompt #astuceia #ia #productivite"
+  }
+]

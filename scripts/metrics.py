@@ -2,7 +2,7 @@
 """Relève les statistiques des posts publiés via Buffer et écrit le tableau de bord des tests.
 
 Chaque post publié est relié à son élément de planning.json par l'URL de son média, ce qui donne
-ses caractéristiques de test : format, créneau, réseau, version d'accroche (v1 / v2), label IA.
+ses caractéristiques de test : format, créneau, réseau, version d'accroche (v1 / v2 / v3), label IA.
 
 Sorties (dans stats/) :
     posts.csv     une ligne par post publié, avec ses statistiques
@@ -24,7 +24,7 @@ from datetime import datetime, timedelta, timezone
 from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
-from schedule import BufferError, gql, iso, parse_utc  # noqa: E402
+from schedule import BufferError, gql, iso, norm, on_network, parse_utc  # noqa: E402
 
 ROOT = Path(__file__).resolve().parent.parent
 OUT = ROOT / "stats"
@@ -45,7 +45,7 @@ def media_key(url):
     if "/media/" not in url:
         return None
     rel = url.split("/media/", 1)[1]
-    return rel.rsplit("/", 1)[0] if rel.startswith("c/") else rel
+    return rel.rsplit("/", 1)[0] if rel.startswith(("c/", "t/")) else rel
 
 
 def fetch(api_key, org_id, start):
@@ -68,11 +68,14 @@ def paris(dt):
 
 def rows_from(posts, planning, now):
     by_media = {it["media"]: it for it in planning["items"]}
+    # TikTok ne renvoie pas l'URL des médias : on relie alors le post par réseau + début du texte.
+    by_text = {(net, norm(it.get("text"))): it for it in planning["items"] if it.get("text")
+               for net in ("tiktok", "instagram") if on_network(net, it)}
     rows = []
     for p in posts:
         assets = p.get("assets") or [{}]
         src = assets[0].get("source", "")
-        it = by_media.get(media_key(src) or "", {})
+        it = by_media.get(media_key(src) or "", {}) or by_text.get((p["channelService"], norm(p["text"])), {})
         if not it:  # post fait à la main dans Buffer : format déduit des médias
             kind = "video" if assets[0].get("type") == "video" else "carousel" if len(assets) > 1 else "image"
             it = {"type": kind}
@@ -135,8 +138,8 @@ def report(rows, now):
                 f"{r['date']} {r['heure']} | {r['titre']} |" for r in sel[:5]]
         out += ["", f"Moyenne : {avg(sel, 'views'):.0f} vues par post, {avg(sel, 'reactions'):.1f} réactions.", ""]
     out += ["## Tests A/B", ""]
-    out.append(compare(rows, "accroche", "Accroche v1 (définition) vs v2 (problème) — carrousels TikTok", "tiktok"))
-    out.append(compare(rows, "accroche", "Accroche v1 vs v2 — carrousels Instagram", "instagram"))
+    out.append(compare(rows, "accroche", "Accroche v1 (définition) vs v2 (problème) vs v3 (valeur à enregistrer) — carrousels TikTok", "tiktok"))
+    out.append(compare(rows, "accroche", "Accroche v1 vs v2 vs v3 — carrousels Instagram", "instagram"))
     out.append(compare(rows, "label_ia", "Label « contenu IA » oui / non — vidéos TikTok", "tiktok"))
     out.append(compare(rows, "label_ia", "Label « contenu IA » oui / non — Reels Instagram", "instagram"))
     out.append(compare([r for r in rows if r["reseau"] == "tiktok"], "creneau", "Créneaux horaires — TikTok"))

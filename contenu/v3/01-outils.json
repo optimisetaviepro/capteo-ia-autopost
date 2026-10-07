@@ -1,0 +1,110 @@
+[
+  {
+    "id": "70",
+    "emoji": "🤫",
+    "hook": "6 sites IA *gratuits* que personne ne te montre",
+    "sub": "Le n°3 remplace 2 h de travail.",
+    "badge": "📌 Enregistre avant de perdre la liste",
+    "slides": [
+      {
+        "type": "tool",
+        "name": "Gemini Notebook",
+        "domain": "notebooklm.google.com",
+        "what": "Ton PDF devient un *podcast* de 10 min",
+        "how": "Ex-NotebookLM. Dépose un cours, un rapport ou un contrat : deux voix te l'expliquent comme à la radio.",
+        "free": "Gratuit",
+        "shot": true
+      },
+      {
+        "type": "tool",
+        "name": "Napkin",
+        "domain": "napkin.ai",
+        "what": "Ton texte devient un *schéma* propre",
+        "how": "Colle un paragraphe, il te propose des diagrammes prêts pour une présentation.",
+        "free": "Version gratuite",
+        "shot": true
+      },
+      {
+        "type": "tool",
+        "name": "Gamma",
+        "domain": "gamma.app",
+        "what": "Une *présentation entière* en 1 minute",
+        "how": "Tu écris le sujet, il génère les slides, la mise en page et les images.",
+        "free": "Version gratuite",
+        "shot": true
+      },
+      {
+        "type": "tool",
+        "name": "Photoroom",
+        "domain": "photoroom.com",
+        "what": "Le *détourage* d'une photo en 5 secondes",
+        "how": "Le fond disparaît tout seul, puis tu en génères un nouveau. Parfait pour vendre sur Vinted.",
+        "free": "Version gratuite",
+        "shot": true
+      },
+      {
+        "type": "tool",
+        "name": "Perplexity",
+        "domain": "perplexity.ai",
+        "what": "Un Google qui te *répond* avec ses sources",
+        "how": "Pose ta question en français, il lit le web et cite chaque lien.",
+        "free": "Version gratuite",
+        "shot": true
+      },
+      {
+        "type": "tool",
+        "name": "Suno",
+        "domain": "suno.com",
+        "what": "Une *chanson complète* à partir d'une phrase",
+        "how": "Paroles, voix et musique. Idéal pour un anniversaire ou une vidéo.",
+        "free": "Crédits gratuits / jour",
+        "shot": true
+      }
+    ],
+    "end": {
+      "emoji": "👀",
+      "title": "Partie 2 demain : 6 autres sites",
+      "body": "Celui pour faire tes montages vidéo va te choquer. Enregistre ce post pour retrouver la liste."
+    },
+    "caption": "6 sites IA gratuits que personne ne te montre 🤫\n\nGemini Notebook, Napkin, Gamma, Photoroom, Perplexity, Suno. Le n°3 m'a fait gagner 2 h cette semaine.\n\n📌 Enregistre pour ne pas perdre la liste.\n💬 Lequel tu connaissais déjà ?\n\n#ia #outilsia #intelligenceartificielle #astuce #productivite"
+  },
+  {
+    "id": "71",
+    "emoji": "✂️",
+    "hook": "Arrête d'écrire « fais-moi un résumé » à ChatGPT",
+    "sub": "Ces 4 prompts donnent 10× mieux.",
+    "badge": "📌 Enregistre, tu vas t'en resservir",
+    "slides": [
+      {
+        "type": "prompt",
+        "title": "1. Le résumé *utile*",
+        "prompt": "Résume ce texte en 5 points. Pour chaque point : l'idée en une phrase, puis ce que ça change concrètement pour moi. Termine par la seule chose à retenir.",
+        "tip": "« Ce que ça change pour moi » évite le résumé scolaire."
+      },
+      {
+        "type": "prompt",
+        "title": "2. Le résumé *pour décider*",
+        "prompt": "Je dois décider si [ma décision]. Lis ce document et donne-moi : les 3 arguments pour, les 3 contre, ce qui manque pour trancher.",
+        "tip": "Parfait pour un devis, un contrat ou un rapport."
+      },
+      {
+        "type": "prompt",
+        "title": "3. Le résumé *pour expliquer*",
+        "prompt": "Explique ce document à quelqu'un de 12 ans en 6 phrases, avec un exemple de la vie de tous les jours.",
+        "tip": "Si l'IA y arrive, tu as compris. Sinon, relance."
+      },
+      {
+        "type": "prompt",
+        "title": "4. Le résumé *anti-oubli*",
+        "prompt": "Transforme ce texte en 8 questions-réponses courtes pour réviser. Mets les questions les plus probables à un examen en premier.",
+        "tip": "Colle les questions dans tes notes : révision en 5 min."
+      }
+    ],
+    "end": {
+      "emoji": "📌",
+      "title": "Demain : le prompt qui écrit tes mails à ta place",
+      "body": "Enregistre ce post et abonne-toi pour ne pas le rater."
+    },
+    "caption": "Arrête d'écrire « fais-moi un résumé » à ChatGPT ✂️\n\n4 prompts à copier-coller pour des résumés vraiment utiles : décider, expliquer, réviser.\n\n📌 Enregistre, tu vas t'en resservir.\n💬 Tu utilises ChatGPT, Claude ou Gemini ?\n\n#chatgpt #prompt #ia #astuceia #productivite"
+  }
+]
