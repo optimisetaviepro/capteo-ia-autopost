@@ -1,6 +1,6 @@
-# Tableau de bord des tests — 07/10/2026 15:40
+# Tableau de bord des tests — 07/10/2026 16:33
 
-50 posts publiés relevés, 42 assez anciens (> 36 h) pour être comparés.
+52 posts publiés relevés, 42 assez anciens (> 36 h) pour être comparés.
 
 ## Tiktok — top 5
 
@@ -28,17 +28,22 @@ Moyenne : 30 vues par post, 0.5 réactions.
 
 ## Tests A/B
 
-### Accroche v1 (définition) vs v2 (problème) — carrousels TikTok
+### Accroche v1 (définition) vs v2 (problème) vs v3 (valeur à enregistrer) — carrousels TikTok
 
 Pas encore assez de données (il faut 2 variantes avec des posts de plus de 36 h).
 
-### Accroche v1 vs v2 — carrousels Instagram
+### Accroche v1 vs v2 vs v3 — carrousels Instagram
 
 Pas encore assez de données (il faut 2 variantes avec des posts de plus de 36 h).
 
 ### Label « contenu IA » oui / non — vidéos TikTok
 
-Pas encore assez de données (il faut 2 variantes avec des posts de plus de 36 h).
+| Variante | Posts | Vues moy. | Réactions moy. | Partages moy. | Visionnage moy. (s) |
+|---|---|---|---|---|---|
+| non | 1 | 328 | 3.0 | 0.0 | 4.6 |
+| oui | 3 | 274 | 5.0 | 0.0 | 3.2 |
+
+Tendance : non devant, mais moins de 5 posts par variante — attendre avant de conclure.
 
 ### Label « contenu IA » oui / non — Reels Instagram
 
@@ -63,7 +68,7 @@ Tendance : oui devant, mais moins de 5 posts par variante — attendre avant de 
 
 Tendance : 15h devant, mais moins de 5 posts par variante — attendre avant de conclure.
 
-### Carrousel vs vidéo — TikTok
+### Carrousel photo vs diaporama vidéo avec musique vs vidéo — TikTok
 
 | Variante | Posts | Vues moy. | Réactions moy. | Partages moy. | Visionnage moy. (s) |
 |---|---|---|---|---|---|
