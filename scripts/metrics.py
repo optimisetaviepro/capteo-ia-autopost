@@ -86,7 +86,7 @@ def rows_from(posts, planning, now):
             "heure": paris(sent).strftime("%H:%M"),
             "creneau": f"{paris(sent).hour}h",
             "reseau": p["channelService"],
-            "format": it.get("type", "inconnu"),
+            "format": it.get("format", it.get("type", "inconnu")),
             "media": it.get("media", ""),
             "accroche": it.get("hook", "v1") if it.get("type") == "carousel" else "",
             "label_ia": "" if it.get("type") != "video" else ("oui" if it.get("ai_label", True) else "non"),
@@ -143,7 +143,7 @@ def report(rows, now):
     out.append(compare(rows, "label_ia", "Label « contenu IA » oui / non — vidéos TikTok", "tiktok"))
     out.append(compare(rows, "label_ia", "Label « contenu IA » oui / non — Reels Instagram", "instagram"))
     out.append(compare([r for r in rows if r["reseau"] == "tiktok"], "creneau", "Créneaux horaires — TikTok"))
-    out.append(compare(rows, "format", "Carrousel vs vidéo — TikTok", "tiktok"))
+    out.append(compare(rows, "format", "Carrousel photo vs diaporama vidéo avec musique vs vidéo — TikTok", "tiktok"))
     return "\n".join(out)
 
 

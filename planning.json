@@ -351,13 +351,16 @@
     },
     {
       "at": "2026-10-09T12:15:00+02:00",
-      "type": "carousel",
-      "media": "t/71",
+      "type": "video",
+      "media": "v/v3-71.mp4",
       "text": "Arrête d'écrire « fais-moi un résumé » à ChatGPT ✂️\n\n4 prompts à copier-coller pour des résumés vraiment utiles : décider, expliquer, réviser.\n\n📌 Enregistre, tu vas t'en resservir.\n💬 Tu utilises ChatGPT, Claude ou Gemini ?\n\n#chatgpt #prompt #ia #astuceia #productivite",
       "hook": "v3",
       "networks": [
         "tiktok"
-      ]
+      ],
+      "cover_ms": 0,
+      "ai_label": false,
+      "format": "diaporama"
     },
     {
       "at": "2026-10-09T12:30:00+02:00",
@@ -511,13 +514,16 @@
     },
     {
       "at": "2026-10-11T12:15:00+02:00",
-      "type": "carousel",
-      "media": "t/78",
+      "type": "video",
+      "media": "v/v3-78.mp4",
       "text": "Les « codes secrets » ChatGPT sont faux. Voici les 4 techniques qui marchent vraiment 🚫\n\nQuestions d'abord, exemple, contexte, autocorrection. Ça marche aussi sur Claude et Gemini.\n\n📌 Enregistre pour ton prochain prompt.\n💬 Tu connaissais lequel ?\n\n#chatgpt #prompt #astuceia #ia #claude",
       "hook": "v3",
       "networks": [
         "tiktok"
-      ]
+      ],
+      "cover_ms": 0,
+      "ai_label": false,
+      "format": "diaporama"
     },
     {
       "at": "2026-10-11T12:30:00+02:00",
@@ -671,13 +677,16 @@
     },
     {
       "at": "2026-10-13T12:15:00+02:00",
-      "type": "carousel",
-      "media": "t/83",
+      "type": "video",
+      "media": "v/v3-83.mp4",
       "text": "SMS bizarre ? Demande à l'IA si c'est une arnaque 🛡️\n\nLe prompt détecteur, la vérification des liens, les 3 signaux universels et quoi faire si c'est trop tard (33700, opposition bancaire).\n\n📤 Envoie-le à tes parents.\n📌 Enregistre au cas où.\n\n#arnaque #securite #ia #chatgpt #astuce",
       "hook": "v3",
       "networks": [
         "tiktok"
-      ]
+      ],
+      "cover_ms": 0,
+      "ai_label": false,
+      "format": "diaporama"
     },
     {
       "at": "2026-10-13T12:30:00+02:00",
@@ -831,13 +840,16 @@
     },
     {
       "at": "2026-10-15T12:15:00+02:00",
-      "type": "carousel",
-      "media": "t/85",
+      "type": "video",
+      "media": "v/v3-85.mp4",
       "text": "Ce que ChatGPT retient de toi, et comment l'effacer 👁️\n\nMémoire, entraînement des modèles, chat temporaire : 3 réglages à vérifier aujourd'hui. Et un prompt test qui fait un peu peur.\n\n📌 Enregistre et vérifie ce soir.\n💬 Il savait quoi sur toi ?\n\n#chatgpt #vieprivee #ia #securite #astuce",
       "hook": "v3",
       "networks": [
         "tiktok"
-      ]
+      ],
+      "cover_ms": 0,
+      "ai_label": false,
+      "format": "diaporama"
     },
     {
       "at": "2026-10-15T12:30:00+02:00",
@@ -1000,13 +1012,16 @@
     },
     {
       "at": "2026-10-17T12:15:00+02:00",
-      "type": "carousel",
-      "media": "t/89",
+      "type": "video",
+      "media": "v/v3-89.mp4",
       "text": "Ton CV relu par l'IA comme un recruteur 📄\n\nLe test des 6 secondes, les mots-clés manquants, des résultats au lieu des tâches. Sans rien inventer.\n\n📤 Envoie-le à quelqu'un qui postule.\n📌 Enregistre pour ta prochaine offre.\n\n#cv #emploi #recherchedemploi #chatgpt #ia",
       "hook": "v3",
       "networks": [
         "tiktok"
-      ]
+      ],
+      "cover_ms": 0,
+      "ai_label": false,
+      "format": "diaporama"
     },
     {
       "at": "2026-10-17T12:30:00+02:00",
@@ -1124,13 +1139,16 @@
     },
     {
       "at": "2026-10-19T12:15:00+02:00",
-      "type": "carousel",
-      "media": "t/92",
+      "type": "video",
+      "media": "v/v3-92.mp4",
       "text": "Le prompt pour faire baisser tes factures 🧾\n\nDiagnostic de tes abonnements, script d'appel avec les objections, mail de négociation. L'IA prépare, toi tu appelles.\n\n📌 Enregistre avant ton prochain appel.\n💬 Tu paies combien ta box ?\n\n#argent #budget #economie #chatgpt #astuce",
       "hook": "v3",
       "networks": [
         "tiktok"
-      ]
+      ],
+      "cover_ms": 0,
+      "ai_label": false,
+      "format": "diaporama"
     },
     {
       "at": "2026-10-19T12:30:00+02:00",
@@ -1230,13 +1248,16 @@
     },
     {
       "at": "2026-10-21T12:15:00+02:00",
-      "type": "carousel",
-      "media": "t/93",
+      "type": "video",
+      "media": "v/v3-93.mp4",
       "text": "Demande ça à l'IA avant tout achat de plus de 100 € 🛒\n\nLe besoin réel, le comparatif avec sources, l'avocat du diable. Tu vas éviter au moins un mauvais achat.\n\n📌 Enregistre pour ton prochain achat.\n💬 Ton pire achat regretté ?\n\n#consommation #argent #ia #chatgpt #astuce",
       "hook": "v3",
       "networks": [
         "tiktok"
-      ]
+      ],
+      "cover_ms": 0,
+      "ai_label": false,
+      "format": "diaporama"
     },
     {
       "at": "2026-10-21T12:30:00+02:00",
@@ -1313,13 +1334,16 @@
     },
     {
       "at": "2026-10-23T12:15:00+02:00",
-      "type": "carousel",
-      "media": "t/100",
+      "type": "video",
+      "media": "v/v3-100.mp4",
       "text": "3 usages de l'IA à montrer à tes parents ce week-end 📱\n\nLe mode vocal, la photo qui explique, le détecteur d'arnaques. Ils vont enfin trouver ça utile.\n\n📤 Envoie-le dans le groupe famille.\n💬 Tes parents utilisent l'IA ?\n\n#parents #ia #chatgpt #astuce #famille",
       "hook": "v3",
       "networks": [
         "tiktok"
-      ]
+      ],
+      "cover_ms": 0,
+      "ai_label": false,
+      "format": "diaporama"
     }
   ],
   "accounts": {
