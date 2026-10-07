@@ -48,7 +48,7 @@ et remove.bg arrête son site autonome le 01/12/2026 (remplacé par Photoroom).
 ## 🔴 À faire par Enzo : ce qui ne s'automatise pas (et qui compte le plus)
 
 1. ✅ **TikTok renommé @capteo_ia (07/10)** : pseudo remis sur les slides TikTok et diaporamas re-rendus.
-2. **Instagram** : nom affiché `Capteo | IA & astuces gratuites`, même bio. Épingle le carrousel « 6 sites IA gratuits »
+2. **Profils TikTok et Instagram** : nom affiché `Capteo | IA gratuite & astuces`, bio `1 astuce IA gratuite par jour 🤖 / Prompts à copier, outils, sans coder / 👇`. Épingle le carrousel « 6 sites IA gratuits »
    dès qu'il est publié (08/10, 18:30).
 3. **L'heure qui suit 18:30, chaque jour (15 min)** : réponds à **chaque** commentaire, avec une question pour relancer.
    C'est le signal qui fait passer le lot test.
