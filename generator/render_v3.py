@@ -38,7 +38,7 @@ SHOTS_DIR = ROOT / "generator" / "cache" / "shots"
 HANDLE = "@capteo_ia"
 # Le TikTok s'appelle encore @cindy_mlm : pas de pseudo sur les slides TikTok tant qu'il n'est pas renommé
 # (mettre TIKTOK_HANDLE = "@capteo_ia" puis re-rendre avec --only).
-TIKTOK_HANDLE = ""
+TIKTOK_HANDLE = "@capteo_ia"
 
 
 def handle(fmt):

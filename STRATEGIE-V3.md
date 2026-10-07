@@ -47,7 +47,7 @@ et remove.bg arrête son site autonome le 01/12/2026 (remplacé par Photoroom).
 
 ## 🔴 À faire par Enzo : ce qui ne s'automatise pas (et qui compte le plus)
 
-1. **Renommer le TikTok @cindy_mlm en @capteo.ia** (ou @capteo_ia s'il est libre), 2 min dans l'appli :
+1. ✅ **TikTok renommé @capteo_ia (07/10)** : pseudo remis sur les slides TikTok et diaporamas re-rendus.
    Profil › Modifier › Nom d'utilisateur. Nom affiché : `Capteo | IA gratuite & astuces`. Bio :
    `1 astuce IA gratuite par jour 🤖 / Prompts à copier, outils, sans coder / 👇`.
    Puis dis-moi « TikTok renommé » : je remets le pseudo sur les slides (`TIKTOK_HANDLE`) et je re-rends.
