@@ -1,23 +1,30 @@
 date,heure,creneau,reseau,format,media,accroche,label_ia,mur,titre,views,reach,reactions,comments,shares,saves,follows,averageTimeWatched
-2026-10-06,12:31,12h,tiktok,video,,,oui,trop récent,Regarde ce site se construire tout seul.,0,0,0,0,0,0,0,0
-2026-10-05,20:02,20h,tiktok,video,,,oui,trop récent,Claude vient d'écraser la concurrence.,289,0,3,0,0,0,0,4.56
-2026-10-05,20:00,20h,instagram,video,v/01-nova.mp4,,non,trop récent,Claude vient d'écraser la concurrence.,8,5,0,0,0,0,0,0
-2026-10-05,18:25,18h,tiktok,carousel,,v1,,trop récent,"Créer un site sans savoir coder ? Oui, en 4 étapes avec l'IA. 🌐",166,0,1,0,0,0,0,2.54
-2026-10-05,16:46,16h,tiktok,carousel,,v1,,trop récent,Claude Code en 3 points : l'agent qui code à ta place. 💻,244,0,0,0,0,0,0,4.14
-2026-10-05,16:04,16h,tiktok,carousel,,v1,,trop récent,Les Skills de Claude : la fonction qui rend l'IA vraiment spécialisée.,238,0,1,0,0,0,0,6.07
-2026-10-05,16:02,16h,instagram,carousel,c/13,v1,,trop récent,Les Skills de Claude : la fonction qui rend l'IA vraiment spécialisée.,9,4,1,0,0,0,0,0
-2026-10-05,12:32,12h,tiktok,video,,,oui,trop récent,0 logiciel de montage. Que du code.,269,0,6,0,0,0,0,3.44
-2026-10-05,12:31,12h,instagram,video,v/08-spark.mp4,,oui,trop récent,0 logiciel de montage. Que du code.,15,10,0,0,0,0,0,0
-2026-10-04,19:23,19h,tiktok,video,,,oui,,"Claude a fait un lancement de smartphone. En code. Un téléphone en 3D,",269,233,1,1,0,0,0,2.9
-2026-10-04,19:22,19h,instagram,video,v/13-nexa.mp4,,oui,,Claude a fait un lancement de smartphone. En code.,12,11,0,0,0,0,0,0
+2026-10-07,12:32,12h,tiktok,video,,,oui,trop récent,Personne ne croit que c'est une IA.,0,0,0,0,0,0,0,0
+2026-10-06,20:03,20h,tiktok,video,,,oui,trop récent,Cette vidéo a coûté 0 € de tournage.,270,0,2,0,0,0,0,3.79
+2026-10-06,20:01,20h,instagram,video,v/15-orbital.mp4,,oui,trop récent,Cette vidéo a coûté 0 € de tournage.,8,8,0,0,0,0,0,0
+2026-10-06,17:31,17h,tiktok,carousel,,v1,,trop récent,"Avant ton prochain copier-coller dans une IA, lis ça. 🔒",252,0,0,0,0,0,0,4.88
+2026-10-06,16:46,16h,tiktok,carousel,,v1,,trop récent,Comment une IA peut répondre avec TES documents ? 📚,263,0,0,0,0,0,0,6.1
+2026-10-06,16:01,16h,tiktok,carousel,,v1,,trop récent,"Installer Docker, c'est 3 étapes. Et c'est la base de tout l'auto-hébe",265,0,2,0,0,0,0,2.9
+2026-10-06,16:01,16h,instagram,carousel,c/16,v1,,trop récent,"Installer Docker, c'est 3 étapes. Et c'est la base de tout l'auto-hébe",6,3,0,0,0,0,0,0
+2026-10-06,12:31,12h,tiktok,video,,,oui,trop récent,Regarde ce site se construire tout seul.,252,0,2,0,0,0,0,2.15
+2026-10-05,20:02,20h,tiktok,video,,,oui,,Claude vient d'écraser la concurrence.,328,238,3,0,0,0,0,4.63
+2026-10-05,20:00,20h,instagram,video,v/01-nova.mp4,,non,,Claude vient d'écraser la concurrence.,28,25,0,0,0,0,0,0
+2026-10-05,18:25,18h,tiktok,carousel,,v1,,,"Créer un site sans savoir coder ? Oui, en 4 étapes avec l'IA. 🌐",240,95,1,0,0,0,0,2.4
+2026-10-05,16:46,16h,tiktok,carousel,,v1,,,Claude Code en 3 points : l'agent qui code à ta place. 💻,246,222,0,0,0,0,0,4.16
+2026-10-05,16:04,16h,tiktok,carousel,,v1,,,Les Skills de Claude : la fonction qui rend l'IA vraiment spécialisée.,239,197,1,0,0,0,0,6.49
+2026-10-05,16:02,16h,instagram,carousel,c/13,v1,,,Les Skills de Claude : la fonction qui rend l'IA vraiment spécialisée.,10,4,1,0,0,0,0,0
+2026-10-05,12:32,12h,tiktok,video,,,oui,,0 logiciel de montage. Que du code.,271,236,6,0,0,0,0,3.51
+2026-10-05,12:31,12h,instagram,video,v/08-spark.mp4,,oui,,0 logiciel de montage. Que du code.,138,124,0,0,0,0,0,0
+2026-10-04,19:23,19h,tiktok,video,,,oui,,"Claude a fait un lancement de smartphone. En code. Un téléphone en 3D,",269,246,1,1,0,0,0,2.9
+2026-10-04,19:22,19h,instagram,video,v/13-nexa.mp4,,oui,,Claude a fait un lancement de smartphone. En code.,14,13,0,0,0,0,0,0
 2026-10-04,18:01,18h,instagram,story,s/story_jour04.png,,,,,8,7,0,0,0,0,0,0
-2026-10-04,17:32,17h,tiktok,carousel,,v1,,,MCP : le standard qui branche l'IA à tes outils. 🔌 Lancé par Anthropic,3,1,0,0,0,0,0,4.27
-2026-10-04,17:30,17h,instagram,carousel,c/12,v1,,,MCP : le standard qui branche l'IA à tes outils. 🔌,11,4,1,0,0,0,0,0
-2026-10-04,16:46,16h,tiktok,carousel,,v1,,,"API : tu demandes. Webhook : on te prévient. 🔔 Le webhook, c'est la so",292,214,3,0,0,0,0,9.04
+2026-10-04,17:32,17h,tiktok,carousel,,v1,,,MCP : le standard qui branche l'IA à tes outils. 🔌 Lancé par Anthropic,3,3,0,0,0,0,0,4.27
+2026-10-04,17:30,17h,instagram,carousel,c/12,v1,,,MCP : le standard qui branche l'IA à tes outils. 🔌,13,5,1,0,0,0,0,0
+2026-10-04,16:46,16h,tiktok,carousel,,v1,,,"API : tu demandes. Webhook : on te prévient. 🔔 Le webhook, c'est la so",293,254,3,0,0,0,0,9.01
 2026-10-04,16:45,16h,instagram,carousel,c/11,v1,,,API : tu demandes. Webhook : on te prévient. 🔔,14,4,0,0,0,0,0,0
-2026-10-04,16:02,16h,tiktok,carousel,,v1,,,"n8n, l'outil que j'utilise pour automatiser sans coder. ⚙️ Des blocs r",271,160,5,0,0,0,0,2.45
-2026-10-04,16:01,16h,instagram,carousel,c/10,v1,,,"n8n, l'outil que j'utilise pour automatiser sans coder. ⚙️",16,5,0,0,0,0,0,0
-2026-10-04,12:32,12h,tiktok,video,,,oui,,"After Effects ? Plus besoin. Typographie cinétique suisse, coupes calé",283,247,8,0,0,0,0,3.29
+2026-10-04,16:02,16h,tiktok,carousel,,v1,,,"n8n, l'outil que j'utilise pour automatiser sans coder. ⚙️ Des blocs r",272,239,5,0,0,0,0,2.45
+2026-10-04,16:01,16h,instagram,carousel,c/10,v1,,,"n8n, l'outil que j'utilise pour automatiser sans coder. ⚙️",17,5,0,0,0,0,0,0
+2026-10-04,12:32,12h,tiktok,video,,,oui,,"After Effects ? Plus besoin. Typographie cinétique suisse, coupes calé",283,262,8,0,0,0,0,3.32
 2026-10-04,12:30,12h,instagram,video,v/06-forma.mp4,,oui,,After Effects ? Plus besoin.,126,105,1,0,0,1,0,0
 2026-10-03,17:40,17h,tiktok,carousel,,v1,,,API : le mot magique derrière toutes les automatisations. 🔌 Imagine un,542,471,10,0,0,0,0,5.43
 2026-10-03,17:40,17h,tiktok,carousel,,v1,,,Pourquoi l'IA invente parfois des trucs avec un aplomb total ? 🤥 On ap,306,279,0,0,0,0,0,5.52
@@ -28,13 +35,13 @@ date,heure,creneau,reseau,format,media,accroche,label_ia,mur,titre,views,reach,r
 2026-10-03,17:26,17h,instagram,carousel,c/07,v1,,,« Token » : le mot que tu vois partout dans les prix de l'IA. 🪙,27,8,0,0,0,0,0,0
 2026-10-02,19:32,19h,tiktok,image,,,,,,277,254,0,0,0,0,0,1.01
 2026-10-02,19:31,19h,instagram,image,,,,,,13,5,0,0,0,0,0,0
-2026-10-02,18:33,18h,tiktok,carousel,,v1,,,"5 erreurs qui ruinent tes prompts. La 4e, tout le monde la fait. 😬 Tro",427,403,4,0,0,0,0,5.32
+2026-10-02,18:33,18h,tiktok,carousel,,v1,,,"5 erreurs qui ruinent tes prompts. La 4e, tout le monde la fait. 😬 Tro",427,403,4,0,0,0,0,5.31
 2026-10-02,18:31,18h,instagram,carousel,,v1,,,"5 erreurs qui ruinent tes prompts. La 4e, tout le monde la fait. 😬",18,9,1,0,1,0,0,0
 2026-10-02,17:31,17h,tiktok,carousel,,v1,,,"ChatGPT, Claude, Gemini : ce sont tous des LLM. Mais c'est quoi, exact",391,356,6,0,0,0,0,4.47
 2026-10-02,17:31,17h,instagram,carousel,,v1,,,"ChatGPT, Claude, Gemini : ce sont tous des LLM. Mais c'est quoi, exact",32,9,1,0,0,0,0,0
-2026-10-02,16:03,16h,tiktok,carousel,,v1,,,"Si l'IA te répond n'importe quoi, le problème vient souvent… du prompt",1138,1137,2,0,1,0,0,4.05
+2026-10-02,16:03,16h,tiktok,carousel,,v1,,,"Si l'IA te répond n'importe quoi, le problème vient souvent… du prompt",1138,1138,2,0,1,0,0,4.05
 2026-10-02,16:03,16h,instagram,carousel,,v1,,,"Si l'IA te répond n'importe quoi, le problème vient souvent… du prompt",14,5,1,0,0,0,0,0
-2026-10-01,15:32,15h,tiktok,carousel,,v1,,,Ton automatisation ne marche que quand ton PC est allumé ? 😅 Normal : ,1827,1663,26,0,2,0,0,7.43
+2026-10-01,15:32,15h,tiktok,carousel,,v1,,,Ton automatisation ne marche que quand ton PC est allumé ? 😅 Normal : ,1834,1678,26,0,2,0,0,7.43
 2026-10-01,15:31,15h,tiktok,carousel,,v1,,,"Haiku, Sonnet, Opus, Mythos… tu t'y retrouves ? 🤯 Claude n'est pas un ",472,432,2,0,0,0,0,6.32
 2026-10-01,15:30,15h,tiktok,carousel,,v1,,,"Chatbot, automatisation, agent IA : tout le monde mélange. 🤔 Pourtant ",905,809,7,0,0,0,0,7.35
 2026-10-01,15:29,15h,tiktok,carousel,,v1,,,Nouveaux posts,269,260,4,0,0,0,0,3.3
