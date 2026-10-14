@@ -1,43 +1,49 @@
 date,heure,creneau,reseau,format,media,accroche,label_ia,mur,titre,views,reach,reactions,comments,shares,saves,follows,averageTimeWatched
-2026-10-13,13:49,13h,tiktok,diaporama,v/v3-83.mp4,,non,trop récent,SMS bizarre ? Demande à l'IA si c'est une arnaque 🛡️,0,0,0,0,0,0,0,0
-2026-10-13,13:48,13h,instagram,video,v/05-lento.mp4,,non,trop récent,Une agence t'aurait facturé ça combien ?,0,0,0,0,0,0,0,0
-2026-10-12,20:02,20h,tiktok,video,v/23-nomad.mp4,,oui,trop récent,"24 heures en 10 secondes. Sans caméra. Lever, plein jour, coucher, nui",261,0,0,0,0,0,0,2.21
-2026-10-12,20:02,20h,instagram,video,v/23-nomad.mp4,,oui,trop récent,24 heures en 10 secondes. Sans caméra.,10,9,0,0,0,0,0,0
-2026-10-12,18:32,18h,tiktok,carousel,t/75,v3,,trop récent,"Ton site ou ton appli avec une seule phrase, sans coder 🌐 Lovable, Bol",481,0,7,0,1,0,0,8.87
-2026-10-12,18:31,18h,instagram,carousel,c/75,v3,,trop récent,"Ton site ou ton appli avec une seule phrase, sans coder 🌐",7,3,0,0,0,0,0,0
-2026-10-12,12:31,12h,instagram,video,v/09-flux.mp4,,oui,trop récent,L'IA vient de passer un cap.,7,7,0,0,0,0,0,0
-2026-10-12,12:16,12h,tiktok,carousel,t/81,v3,,trop récent,"Arrête de payer ChatGPT Plus : 6 alternatives gratuites 💸 Claude, Gemi",507,0,5,0,0,0,0,7.9
-2026-10-11,20:01,20h,tiktok,video,v/19-vandal.mp4,,non,,"Pas After Effects. Pas Premiere. Juste Claude. Glitch, séparation RVB,",290,223,3,0,0,0,0,2.94
+2026-10-14,12:31,12h,instagram,video,v/18-pixel.mp4,,oui,trop récent,Claude a codé une pub rétro. Pixel par pixel.,0,0,0,0,0,0,0,0
+2026-10-14,12:16,12h,tiktok,carousel,t/86,v3,,trop récent,Ne colle jamais ces 5 choses dans une IA ⛔,0,0,0,0,0,0,0,0
+2026-10-13,20:02,20h,tiktok,video,v/17-vault.mp4,,non,trop récent,Les agences de pub ne vont pas aimer.,241,0,0,0,0,0,0,8.62
+2026-10-13,20:02,20h,instagram,video,v/17-vault.mp4,,non,trop récent,Les agences de pub ne vont pas aimer.,5,5,0,0,0,0,0,0
+2026-10-13,18:32,18h,tiktok,carousel,t/76,v3,,trop récent,6 outils pour automatiser ton boulot pendant que tu dors ⚙️,539,0,10,0,2,0,0,10.71
+2026-10-13,18:31,18h,instagram,carousel,c/76,v3,,trop récent,6 outils pour automatiser ton boulot pendant que tu dors ⚙️,6,2,0,0,0,0,0,0
+2026-10-13,13:49,13h,tiktok,diaporama,v/v3-83.mp4,,non,trop récent,SMS bizarre ? Demande à l'IA si c'est une arnaque 🛡️,291,0,0,0,0,0,0,1.75
+2026-10-13,13:48,13h,instagram,video,v/05-lento.mp4,,non,trop récent,Une agence t'aurait facturé ça combien ?,10,5,0,0,0,0,0,0
+2026-10-12,20:02,20h,tiktok,video,v/23-nomad.mp4,,oui,,"24 heures en 10 secondes. Sans caméra. Lever, plein jour, coucher, nui",269,240,1,0,0,0,0,2.37
+2026-10-12,20:02,20h,instagram,video,v/23-nomad.mp4,,oui,,24 heures en 10 secondes. Sans caméra.,10,9,0,0,0,0,0,0
+2026-10-12,18:32,18h,tiktok,carousel,t/75,v3,,,"Ton site ou ton appli avec une seule phrase, sans coder 🌐 Lovable, Bol",542,0,7,1,1,0,0,8.72
+2026-10-12,18:31,18h,instagram,carousel,c/75,v3,,,"Ton site ou ton appli avec une seule phrase, sans coder 🌐",7,3,0,0,0,0,0,0
+2026-10-12,12:31,12h,instagram,video,v/09-flux.mp4,,oui,,L'IA vient de passer un cap.,7,7,0,0,0,0,0,0
+2026-10-12,12:16,12h,tiktok,carousel,t/81,v3,,,"Arrête de payer ChatGPT Plus : 6 alternatives gratuites 💸 Claude, Gemi",551,440,5,0,0,0,0,7.89
+2026-10-11,20:01,20h,tiktok,video,v/19-vandal.mp4,,non,,"Pas After Effects. Pas Premiere. Juste Claude. Glitch, séparation RVB,",290,264,4,0,0,0,0,2.94
 2026-10-11,20:00,20h,instagram,video,v/19-vandal.mp4,,non,,Pas After Effects. Pas Premiere. Juste Claude.,9,8,1,0,0,0,0,0
 2026-10-11,18:32,18h,tiktok,carousel,t/74,v3,,,"6 IA pour créer des images sans être graphiste 🎨 Ideogram, Canva, Fire",429,292,4,0,2,0,0,6.75
 2026-10-11,18:31,18h,instagram,carousel,c/74,v3,,,6 IA pour créer des images sans être graphiste 🎨,2,2,0,0,0,0,0,0
 2026-10-11,12:30,12h,instagram,video,v/12-synth.mp4,,non,,Claude vient de rendre les monteurs jaloux.,22,23,1,0,0,0,0,0
-2026-10-11,12:18,12h,tiktok,diaporama,v/v3-78.mp4,,non,,Les « codes secrets » ChatGPT sont faux. Voici les 4 techniques qui ma,341,274,2,0,0,0,0,3.8
-2026-10-10,20:01,20h,tiktok,video,v/14-stack.mp4,,oui,,Rien filmé. Rien dessiné. Claude a tout codé. Chaque ingrédient tombe ,294,268,0,0,0,0,0,3.06
-2026-10-10,20:00,20h,instagram,video,v/14-stack.mp4,,oui,,Rien filmé. Rien dessiné. Claude a tout codé.,14,8,0,0,0,0,0,0
-2026-10-10,18:31,18h,tiktok,carousel,t/73,v3,,,"6 IA gratuites pour étudier 2× plus vite 🎓 TurboScribe, Gemini Noteboo",493,418,11,0,1,0,0,3.67
+2026-10-11,12:18,12h,tiktok,diaporama,v/v3-78.mp4,,non,,Les « codes secrets » ChatGPT sont faux. Voici les 4 techniques qui ma,347,301,3,0,1,0,0,3.93
+2026-10-10,20:01,20h,tiktok,video,v/14-stack.mp4,,oui,,Rien filmé. Rien dessiné. Claude a tout codé. Chaque ingrédient tombe ,294,268,0,0,0,0,0,3.07
+2026-10-10,20:00,20h,instagram,video,v/14-stack.mp4,,oui,,Rien filmé. Rien dessiné. Claude a tout codé.,16,9,0,0,0,0,0,0
+2026-10-10,18:31,18h,tiktok,carousel,t/73,v3,,,"6 IA gratuites pour étudier 2× plus vite 🎓 TurboScribe, Gemini Noteboo",495,423,11,0,1,0,0,3.65
 2026-10-10,18:30,18h,instagram,carousel,c/73,v3,,,6 IA gratuites pour étudier 2× plus vite 🎓,5,2,0,0,0,0,0,0
 2026-10-10,12:30,12h,instagram,video,v/04-terra.mp4,,oui,,J'ai demandé à Claude une pub de voyage. Il a fait ça.,27,25,0,0,0,0,0,0
-2026-10-10,12:16,12h,tiktok,carousel,t/82,v3,,,Le prompt qui écrit tes mails à ta place 📧 La version de base + 3 vari,367,315,7,0,0,0,0,7.03
+2026-10-10,12:16,12h,tiktok,carousel,t/82,v3,,,Le prompt qui écrit tes mails à ta place 📧 La version de base + 3 vari,368,315,7,0,0,0,0,7.01
 2026-10-09,20:02,20h,tiktok,video,v/24-prism.mp4,,non,,"Une IA a codé la lumière. Un faisceau, un prisme, un arc-en-ciel qui d",318,290,3,0,0,0,0,3.94
 2026-10-09,20:00,20h,instagram,video,v/24-prism.mp4,,non,,Une IA a codé la lumière.,94,90,0,0,0,0,0,0
 2026-10-09,18:32,18h,tiktok,carousel,t/72,v3,,,"6 IA gratuites pour faire des vidéos sans savoir monter 🎬 CapCut, Opus",379,330,6,0,0,0,0,8.17
 2026-10-09,18:31,18h,instagram,carousel,c/72,v3,,,6 IA gratuites pour faire des vidéos sans savoir monter 🎬,3,1,0,0,0,0,0,0
 2026-10-09,12:30,12h,instagram,video,v/03-pulse.mp4,,non,,Les motion designers vont détester cette vidéo.,34,26,0,0,0,0,0,0
 2026-10-09,12:16,12h,tiktok,diaporama,v/v3-71.mp4,,non,,Arrête d'écrire « fais-moi un résumé » à ChatGPT ✂️ 4 prompts à copier,279,252,6,0,0,0,0,3.5
-2026-10-08,20:03,20h,tiktok,video,v/21-chrono.mp4,,oui,,"Chaque engrenage de cette montre est du code. Le cadran, les aiguilles",265,252,1,0,0,0,0,2.43
+2026-10-08,20:03,20h,tiktok,video,v/21-chrono.mp4,,oui,,"Chaque engrenage de cette montre est du code. Le cadran, les aiguilles",265,254,1,0,0,0,0,2.43
 2026-10-08,20:01,20h,instagram,video,v/21-chrono.mp4,,oui,,Chaque engrenage de cette montre est du code.,10,10,0,0,0,0,0,0
 2026-10-08,18:32,18h,instagram,carousel,c/70,v3,,,6 sites IA gratuits que personne ne te montre 🤫,3,2,1,0,0,0,0,0
-2026-10-08,18:31,18h,tiktok,carousel,t/70,v3,,,"6 sites IA gratuits que personne ne te montre 🤫 Gemini Notebook, Napki",453,402,21,0,0,0,0,6.88
+2026-10-08,18:31,18h,tiktok,carousel,t/70,v3,,,"6 sites IA gratuits que personne ne te montre 🤫 Gemini Notebook, Napki",455,402,21,0,0,0,0,6.86
 2026-10-08,12:30,12h,instagram,video,v/02-orbit.mp4,,oui,,Cette pub n'a pas été montée. Elle a été codée.,7,6,0,0,0,0,0,0
-2026-10-08,12:16,12h,tiktok,carousel,t/77,v3,,,Colle ce prompt dans ChatGPT : il va te dire qui tu es vraiment 🪞 4 pr,286,253,8,0,0,0,0,5.54
-2026-10-07,20:01,20h,tiktok,video,v/07-aura.mp4,,non,,"Claude a fait une pub de parfum. Regarde bien. Flacon, poussière d'or,",348,296,2,0,0,0,0,4.78
+2026-10-08,12:16,12h,tiktok,carousel,t/77,v3,,,Colle ce prompt dans ChatGPT : il va te dire qui tu es vraiment 🪞 4 pr,288,253,8,0,0,0,0,5.51
+2026-10-07,20:01,20h,tiktok,video,v/07-aura.mp4,,non,,"Claude a fait une pub de parfum. Regarde bien. Flacon, poussière d'or,",359,296,2,0,0,0,0,4.78
 2026-10-07,20:01,20h,instagram,video,v/07-aura.mp4,,non,,Claude a fait une pub de parfum. Regarde bien.,0,4,0,0,0,0,0,0
 2026-10-07,17:31,17h,tiktok,carousel,c/21,v1,,,Pourquoi l'IA « oublie » ce que tu lui as dit au début ? 🧠 La faute à ,263,232,1,0,0,0,0,3.8
 2026-10-07,16:46,16h,tiktok,carousel,c/20,v1,,,Quoi déléguer à l'IA… et quoi garder pour toi ? 🤝 La règle est simple ,268,240,2,0,0,0,0,4.31
 2026-10-07,16:04,16h,tiktok,carousel,c/19,v1,,,"3 automatisations pour gagner 1h par jour. ⏱️ Tri des mails, résumé du",253,221,2,0,0,0,0,6.06
-2026-10-07,16:01,16h,instagram,carousel,c/19,v1,,,3 automatisations pour gagner 1h par jour. ⏱️,14,7,0,0,0,0,0,0
-2026-10-07,12:32,12h,tiktok,video,v/11-volta.mp4,,non,,"Personne ne croit que c'est une IA. Route en perspective, 0 à 100 km/h",256,241,2,5,0,0,0,3.42
+2026-10-07,16:01,16h,instagram,carousel,c/19,v1,,,3 automatisations pour gagner 1h par jour. ⏱️,17,7,0,0,0,0,0,0
+2026-10-07,12:32,12h,tiktok,video,v/11-volta.mp4,,non,,"Personne ne croit que c'est une IA. Route en perspective, 0 à 100 km/h",257,241,2,5,0,0,0,3.41
 2026-10-06,20:03,20h,tiktok,video,v/15-orbital.mp4,,oui,,"Cette vidéo a coûté 0 € de tournage. Décollage, fumée, compteur d'alti",290,261,2,0,0,0,0,4.1
 2026-10-06,20:01,20h,instagram,video,v/15-orbital.mp4,,oui,,Cette vidéo a coûté 0 € de tournage.,11,11,1,0,0,0,0,0
 2026-10-06,17:31,17h,tiktok,carousel,c/18,v1,,,"Avant ton prochain copier-coller dans une IA, lis ça. 🔒 4 règles simpl",905,870,3,0,0,0,0,4.7
@@ -53,16 +59,16 @@ date,heure,creneau,reseau,format,media,accroche,label_ia,mur,titre,views,reach,r
 2026-10-05,16:02,16h,instagram,carousel,c/13,v1,,,Les Skills de Claude : la fonction qui rend l'IA vraiment spécialisée.,11,5,1,0,0,0,0,0
 2026-10-05,12:32,12h,tiktok,video,v/08-spark.mp4,,oui,,0 logiciel de montage. Que du code. 4 000 particules qui deviennent un,272,248,6,0,0,0,0,3.5
 2026-10-05,12:31,12h,instagram,video,v/08-spark.mp4,,oui,,0 logiciel de montage. Que du code.,139,125,0,0,0,0,0,0
-2026-10-04,19:23,19h,tiktok,video,v/13-nexa.mp4,,oui,,"Claude a fait un lancement de smartphone. En code. Un téléphone en 3D,",271,246,1,1,0,0,0,2.91
+2026-10-04,19:23,19h,tiktok,video,v/13-nexa.mp4,,oui,,"Claude a fait un lancement de smartphone. En code. Un téléphone en 3D,",272,246,1,1,0,0,0,2.7
 2026-10-04,19:22,19h,instagram,video,v/13-nexa.mp4,,oui,,Claude a fait un lancement de smartphone. En code.,16,14,0,0,0,0,0,0
 2026-10-04,18:01,18h,instagram,story,s/story_jour04.png,,,,,8,7,0,0,0,0,0,0
-2026-10-04,17:32,17h,tiktok,carousel,c/12,v1,,,MCP : le standard qui branche l'IA à tes outils. 🔌 Lancé par Anthropic,3,3,0,0,0,0,0,4.27
+2026-10-04,17:32,17h,tiktok,carousel,c/12,v1,,,MCP : le standard qui branche l'IA à tes outils. 🔌 Lancé par Anthropic,3,3,0,0,0,0,0,4
 2026-10-04,17:30,17h,instagram,carousel,c/12,v1,,,MCP : le standard qui branche l'IA à tes outils. 🔌,14,5,1,0,0,0,0,0
-2026-10-04,16:46,16h,tiktok,carousel,c/11,v1,,,"API : tu demandes. Webhook : on te prévient. 🔔 Le webhook, c'est la so",293,254,3,0,0,0,0,9.01
+2026-10-04,16:46,16h,tiktok,carousel,c/11,v1,,,"API : tu demandes. Webhook : on te prévient. 🔔 Le webhook, c'est la so",293,254,3,0,0,0,0,8.81
 2026-10-04,16:45,16h,instagram,carousel,c/11,v1,,,API : tu demandes. Webhook : on te prévient. 🔔,14,4,0,0,0,0,0,0
-2026-10-04,16:02,16h,tiktok,carousel,c/10,v1,,,"n8n, l'outil que j'utilise pour automatiser sans coder. ⚙️ Des blocs r",272,239,5,0,0,0,0,2.45
+2026-10-04,16:02,16h,tiktok,carousel,c/10,v1,,,"n8n, l'outil que j'utilise pour automatiser sans coder. ⚙️ Des blocs r",272,239,5,0,0,0,0,2.37
 2026-10-04,16:01,16h,instagram,carousel,c/10,v1,,,"n8n, l'outil que j'utilise pour automatiser sans coder. ⚙️",17,5,0,0,0,0,0,0
-2026-10-04,12:32,12h,tiktok,video,v/06-forma.mp4,,oui,,"After Effects ? Plus besoin. Typographie cinétique suisse, coupes calé",286,262,8,0,0,0,0,3.3
+2026-10-04,12:32,12h,tiktok,video,v/06-forma.mp4,,oui,,"After Effects ? Plus besoin. Typographie cinétique suisse, coupes calé",289,262,8,0,0,0,0,3.01
 2026-10-04,12:30,12h,instagram,video,v/06-forma.mp4,,oui,,After Effects ? Plus besoin.,128,106,1,0,0,1,0,0
 2026-10-03,17:40,17h,tiktok,carousel,c/09,v1,,,API : le mot magique derrière toutes les automatisations. 🔌 Imagine un,543,471,10,0,0,0,0,5.27
 2026-10-03,17:40,17h,tiktok,carousel,c/08,v1,,,Pourquoi l'IA invente parfois des trucs avec un aplomb total ? 🤥 On ap,306,279,0,0,0,0,0,5.26
@@ -73,15 +79,15 @@ date,heure,creneau,reseau,format,media,accroche,label_ia,mur,titre,views,reach,r
 2026-10-03,17:26,17h,instagram,carousel,c/07,v1,,,« Token » : le mot que tu vois partout dans les prix de l'IA. 🪙,31,9,0,0,0,0,0,0
 2026-10-02,19:32,19h,tiktok,image,,,,,,277,254,0,0,0,0,0,0.87
 2026-10-02,19:31,19h,instagram,image,,,,,,13,5,0,0,0,0,0,0
-2026-10-02,18:33,18h,tiktok,carousel,,v1,,,"5 erreurs qui ruinent tes prompts. La 4e, tout le monde la fait. 😬 Tro",428,403,4,0,0,0,0,4.94
+2026-10-02,18:33,18h,tiktok,carousel,,v1,,,"5 erreurs qui ruinent tes prompts. La 4e, tout le monde la fait. 😬 Tro",428,403,4,0,0,0,0,4.93
 2026-10-02,18:31,18h,instagram,carousel,,v1,,,"5 erreurs qui ruinent tes prompts. La 4e, tout le monde la fait. 😬",20,10,1,0,1,0,0,0
 2026-10-02,17:31,17h,tiktok,carousel,,v1,,,"ChatGPT, Claude, Gemini : ce sont tous des LLM. Mais c'est quoi, exact",393,356,6,0,0,0,0,4.29
-2026-10-02,17:31,17h,instagram,carousel,,v1,,,"ChatGPT, Claude, Gemini : ce sont tous des LLM. Mais c'est quoi, exact",32,9,1,0,0,0,0,0
-2026-10-02,16:03,16h,tiktok,carousel,,v1,,,"Si l'IA te répond n'importe quoi, le problème vient souvent… du prompt",1140,1138,2,0,1,0,0,3.6
+2026-10-02,17:31,17h,instagram,carousel,,v1,,,"ChatGPT, Claude, Gemini : ce sont tous des LLM. Mais c'est quoi, exact",37,11,1,0,0,0,0,0
+2026-10-02,16:03,16h,tiktok,carousel,,v1,,,"Si l'IA te répond n'importe quoi, le problème vient souvent… du prompt",1140,1140,2,0,1,0,0,3.6
 2026-10-02,16:03,16h,instagram,carousel,,v1,,,"Si l'IA te répond n'importe quoi, le problème vient souvent… du prompt",14,5,1,0,0,0,0,0
-2026-10-01,15:32,15h,tiktok,carousel,,v1,,,Ton automatisation ne marche que quand ton PC est allumé ? 😅 Normal : ,1897,1723,27,1,2,0,0,7.11
-2026-10-01,15:31,15h,tiktok,carousel,,v1,,,"Haiku, Sonnet, Opus, Mythos… tu t'y retrouves ? 🤯 Claude n'est pas un ",474,432,2,0,0,0,0,6.06
-2026-10-01,15:30,15h,tiktok,carousel,,v1,,,"Chatbot, automatisation, agent IA : tout le monde mélange. 🤔 Pourtant ",907,809,7,0,0,0,0,7.24
+2026-10-01,15:32,15h,tiktok,carousel,,v1,,,Ton automatisation ne marche que quand ton PC est allumé ? 😅 Normal : ,1937,1723,28,1,2,0,0,7.11
+2026-10-01,15:31,15h,tiktok,carousel,,v1,,,"Haiku, Sonnet, Opus, Mythos… tu t'y retrouves ? 🤯 Claude n'est pas un ",474,432,2,0,0,0,0,6.1
+2026-10-01,15:30,15h,tiktok,carousel,,v1,,,"Chatbot, automatisation, agent IA : tout le monde mélange. 🤔 Pourtant ",907,810,7,0,0,0,0,7.26
 2026-10-01,15:29,15h,tiktok,carousel,,v1,,,Nouveaux posts,271,260,4,0,0,0,0,3.17
 2026-10-01,15:28,15h,instagram,carousel,,v1,,,"Chatbot, automatisation, agent IA : tout le monde mélange. 🤔",32,9,0,0,0,0,0,0
 2026-10-01,15:28,15h,instagram,carousel,,v1,,,Ton automatisation ne marche que quand ton PC est allumé ? 😅,24,8,1,0,0,0,0,0
