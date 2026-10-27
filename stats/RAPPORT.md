@@ -1,4 +1,4 @@
-# Tableau de bord des tests — 26/10/2026 14:22
+# Tableau de bord des tests — 27/10/2026 13:30
 
 144 posts publiés relevés, 144 assez anciens (> 36 h) pour être comparés.
 
@@ -6,7 +6,7 @@
 
 | Vues | Réac. | Partages | Format | Date | Titre |
 |---|---|---|---|---|---|
-| 2113 | 28 | 2 | carousel | 2026-10-01 15:32 | Ton automatisation ne marche que quand ton PC est allumé ? 😅 Normal :  |
+| 2120 | 28 | 2 | carousel | 2026-10-01 15:32 | Ton automatisation ne marche que quand ton PC est allumé ? 😅 Normal :  |
 | 1140 | 2 | 1 | carousel | 2026-10-02 16:03 | Si l'IA te répond n'importe quoi, le problème vient souvent… du prompt |
 | 907 | 7 | 0 | carousel | 2026-10-01 15:30 | Chatbot, automatisation, agent IA : tout le monde mélange. 🤔 Pourtant  |
 | 905 | 3 | 0 | carousel | 2026-10-06 17:31 | Avant ton prochain copier-coller dans une IA, lis ça. 🔒 4 règles simpl |
@@ -33,7 +33,7 @@ Moyenne : 25 vues par post, 0.2 réactions.
 | Variante | Posts | Vues moy. | Réactions moy. | Partages moy. | Visionnage moy. (s) |
 |---|---|---|---|---|---|
 | v1 | 22 | 500 | 4.3 | 0.1 | 4.9 |
-| v3 | 23 | 442 | 6.3 | 0.5 | 5.7 |
+| v3 | 23 | 443 | 6.3 | 0.5 | 5.7 |
 
 **Gagnant provisoire : v1**
 
@@ -50,7 +50,7 @@ Moyenne : 25 vues par post, 0.2 réactions.
 
 | Variante | Posts | Vues moy. | Réactions moy. | Partages moy. | Visionnage moy. (s) |
 |---|---|---|---|---|---|
-| non | 18 | 328 | 2.4 | 0.2 | 3.2 |
+| non | 18 | 329 | 2.5 | 0.2 | 3.2 |
 | oui | 12 | 280 | 1.9 | 0.0 | 2.6 |
 
 **Gagnant provisoire : non**
@@ -59,7 +59,7 @@ Moyenne : 25 vues par post, 0.2 réactions.
 
 | Variante | Posts | Vues moy. | Réactions moy. | Partages moy. | Visionnage moy. (s) |
 |---|---|---|---|---|---|
-| non | 16 | 37 | 0.1 | 0.0 | 2.1 |
+| non | 16 | 38 | 0.1 | 0.0 | 2.1 |
 | oui | 18 | 34 | 0.2 | 0.1 | 1.9 |
 
 **Gagnant provisoire : non**
@@ -68,13 +68,13 @@ Moyenne : 25 vues par post, 0.2 réactions.
 
 | Variante | Posts | Vues moy. | Réactions moy. | Partages moy. | Visionnage moy. (s) |
 |---|---|---|---|---|---|
-| 15h | 4 | 941 | 10.2 | 0.5 | 5.9 |
+| 15h | 4 | 943 | 10.2 | 0.5 | 5.9 |
 | 16h | 9 | 425 | 2.6 | 0.1 | 5.1 |
 | 18h | 17 | 424 | 5.9 | 0.4 | 5.3 |
 | 17h | 7 | 392 | 3.7 | 0.0 | 4.4 |
-| 12h | 19 | 383 | 4.5 | 0.4 | 4.1 |
+| 12h | 19 | 384 | 4.6 | 0.4 | 4.1 |
 | 13h | 1 | 298 | 0.0 | 0.0 | 1.6 |
-| 20h | 17 | 296 | 1.8 | 0.1 | 3.3 |
+| 20h | 17 | 297 | 1.8 | 0.1 | 3.3 |
 | 19h | 2 | 276 | 0.5 | 0.0 | 1.8 |
 
 Tendance : 15h devant, mais moins de 5 posts par variante — attendre avant de conclure.
@@ -83,8 +83,8 @@ Tendance : 15h devant, mais moins de 5 posts par variante — attendre avant de 
 
 | Variante | Posts | Vues moy. | Réactions moy. | Partages moy. | Visionnage moy. (s) |
 |---|---|---|---|---|---|
-| carousel | 45 | 470 | 5.4 | 0.3 | 5.3 |
-| diaporama | 8 | 358 | 2.2 | 0.2 | 2.3 |
+| carousel | 45 | 471 | 5.4 | 0.3 | 5.3 |
+| diaporama | 8 | 359 | 2.4 | 0.2 | 2.3 |
 | video | 22 | 291 | 2.2 | 0.0 | 3.2 |
 | image | 1 | 277 | 0.0 | 0.0 | 0.9 |
 
