@@ -31,9 +31,10 @@ jobs:
           BUFFER_API_KEY: ${{ secrets.BUFFER_API_KEY }}
           MEDIA_BRANCH: ${{ github.ref_name }}
           # Buffer gratuit : 10 posts programmés max pour toute l'organisation (Instagram + TikTok).
-          # Avec 3 carrousels + 2 vidéos par jour sur 2 réseaux, une fenêtre de 6 h reste sous la limite ;
-          # le passage horaire et le rattrapage de 6 h garantissent qu'aucun post n'est manqué.
-          WINDOW_HOURS: "6"
+          # Depuis le 13/11, 3 comptes TikTok (giletjaune, ordre, chopper) jusqu'à 6 posts/jour chacun le soir :
+          # une fenêtre de 4 h reste sous la limite ; les 2 passages par heure et le rattrapage de 6 h
+          # garantissent qu'aucun post n'est manqué.
+          WINDOW_HOURS: "4"
         run: python scripts/schedule.py
       # GitHub désactive les tâches planifiées d'un dépôt public après 60 jours sans activité.
       # Réactiver le workflow via l'API remet ce compteur à zéro : l'automatisation ne s'arrête jamais.
