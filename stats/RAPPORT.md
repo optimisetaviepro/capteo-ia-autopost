@@ -1,92 +1,62 @@
-# Tableau de bord des tests — 31/10/2026 13:53
+# Tableau de bord des tests — 14/11/2026 14:42
 
-147 posts publiés relevés, 144 assez anciens (> 36 h) pour être comparés.
+31 posts publiés relevés, 27 assez anciens (> 36 h) pour être comparés.
 
 ## Tiktok — top 5
 
 | Vues | Réac. | Partages | Format | Date | Titre |
 |---|---|---|---|---|---|
-| 2186 | 30 | 2 | carousel | 2026-10-01 15:32 | Ton automatisation ne marche que quand ton PC est allumé ? 😅 Normal :  |
-| 1140 | 2 | 1 | carousel | 2026-10-02 16:03 | Si l'IA te répond n'importe quoi, le problème vient souvent… du prompt |
-| 907 | 7 | 0 | carousel | 2026-10-01 15:30 | Chatbot, automatisation, agent IA : tout le monde mélange. 🤔 Pourtant  |
-| 905 | 3 | 0 | carousel | 2026-10-06 17:31 | Avant ton prochain copier-coller dans une IA, lis ça. 🔒 4 règles simpl |
-| 848 | 8 | 0 | carousel | 2026-10-06 16:01 | Installer Docker, c'est 3 étapes. Et c'est la base de tout l'auto-hébe |
+| 1889 | 111 | 3 | video | 2026-10-30 19:46 | « La mobilisation sociale est un prétexte. » 🔵 La veille du 17 octobre |
+| 1082 | 19 | 0 | video | 2026-10-31 19:02 | « On s'est fait démonter à la dernière manif. » 🔵 Un policier, 11 bles |
+| 1037 | 42 | 0 | video | 2026-10-30 22:02 | Même une figure des gilets jaunes de 2018 refuse d'y aller. 🔵 Jacline  |
+| 780 | 3 | 0 | diaporama | 2026-10-21 12:16 | Demande ça à l'IA avant tout achat de plus de 100 € 🛒 Le besoin réel,  |
+| 779 | 9 | 2 | carousel | 2026-10-22 12:17 | Apprends n'importe quelle langue avec ce prompt 🗣️ Un prof particulier |
 
-Moyenne : 407 vues par post, 4.1 réactions.
-
-## Instagram — top 5
-
-| Vues | Réac. | Partages | Format | Date | Titre |
-|---|---|---|---|---|---|
-| 139 | 0 | 0 | video | 2026-10-05 12:31 | 0 logiciel de montage. Que du code. |
-| 128 | 1 | 0 | video | 2026-10-04 12:30 | After Effects ? Plus besoin. |
-| 122 | 0 | 0 | video | 2026-10-21 12:31 | Cette plante pousse en code. |
-| 122 | 0 | 0 | video | 2026-10-19 12:31 | Aucune fusée n'a été filmée. |
-| 95 | 0 | 0 | video | 2026-10-09 20:00 | Une IA a codé la lumière. |
-
-Moyenne : 25 vues par post, 0.2 réactions.
+Moyenne : 480 vues par post, 9.3 réactions.
 
 ## Tests A/B
 
 ### Accroche v1 (définition) vs v2 (problème) vs v3 (valeur à enregistrer) — carrousels TikTok
 
-| Variante | Posts | Vues moy. | Réactions moy. | Partages moy. | Visionnage moy. (s) |
-|---|---|---|---|---|---|
-| v1 | 22 | 504 | 4.4 | 0.1 | 4.9 |
-| v3 | 23 | 443 | 6.3 | 0.5 | 5.7 |
-
-**Gagnant provisoire : v1**
+Pas encore assez de données (il faut 2 variantes avec des posts de plus de 36 h).
 
 ### Accroche v1 vs v2 vs v3 — carrousels Instagram
 
-| Variante | Posts | Vues moy. | Réactions moy. | Partages moy. | Visionnage moy. (s) |
-|---|---|---|---|---|---|
-| v1 | 15 | 23 | 0.5 | 0.1 | 0.0 |
-| v3 | 15 | 8 | 0.1 | 0.0 | 0.0 |
-
-**Gagnant provisoire : v1**
+Pas encore assez de données (il faut 2 variantes avec des posts de plus de 36 h).
 
 ### Label « contenu IA » oui / non — vidéos TikTok
 
 | Variante | Posts | Vues moy. | Réactions moy. | Partages moy. | Visionnage moy. (s) |
 |---|---|---|---|---|---|
-| non | 18 | 333 | 2.5 | 0.2 | 3.2 |
-| oui | 12 | 281 | 1.9 | 0.0 | 2.6 |
+| oui | 7 | 697 | 24.7 | 0.4 | 5.7 |
+| non | 8 | 351 | 2.2 | 0.2 | 2.4 |
 
-**Gagnant provisoire : non**
+**Gagnant provisoire : oui**
 
 ### Label « contenu IA » oui / non — Reels Instagram
 
-| Variante | Posts | Vues moy. | Réactions moy. | Partages moy. | Visionnage moy. (s) |
-|---|---|---|---|---|---|
-| non | 16 | 38 | 0.1 | 0.0 | 2.2 |
-| oui | 18 | 34 | 0.2 | 0.1 | 2.0 |
-
-**Gagnant provisoire : non**
+Pas encore assez de données (il faut 2 variantes avec des posts de plus de 36 h).
 
 ### Créneaux horaires — TikTok
 
 | Variante | Posts | Vues moy. | Réactions moy. | Partages moy. | Visionnage moy. (s) |
 |---|---|---|---|---|---|
-| 15h | 4 | 960 | 10.8 | 0.5 | 5.9 |
-| 16h | 9 | 425 | 2.6 | 0.1 | 5.1 |
-| 18h | 17 | 425 | 5.9 | 0.4 | 5.2 |
-| 17h | 7 | 392 | 3.7 | 0.0 | 4.4 |
-| 12h | 19 | 385 | 4.6 | 0.4 | 4.1 |
-| 20h | 17 | 302 | 1.8 | 0.1 | 3.2 |
-| 13h | 1 | 298 | 0.0 | 0.0 | 1.6 |
-| 19h | 2 | 276 | 0.5 | 0.0 | 1.8 |
+| 19h | 2 | 1486 | 65.0 | 1.5 | 9.7 |
+| 22h | 1 | 1037 | 42.0 | 0.0 | 14.2 |
+| 12h | 8 | 440 | 4.4 | 0.6 | 3.8 |
+| 18h | 8 | 424 | 4.1 | 0.0 | 4.2 |
+| 20h | 7 | 290 | 1.6 | 0.1 | 2.6 |
+| 13h | 1 | 0 | 0.0 | 0.0 | 0.0 |
 
-Tendance : 15h devant, mais moins de 5 posts par variante — attendre avant de conclure.
+Tendance : 19h devant, mais moins de 5 posts par variante — attendre avant de conclure.
 
 ### Carrousel photo vs diaporama vidéo avec musique vs vidéo — TikTok
 
 | Variante | Posts | Vues moy. | Réactions moy. | Partages moy. | Visionnage moy. (s) |
 |---|---|---|---|---|---|
-| carousel | 45 | 473 | 5.4 | 0.3 | 5.3 |
-| diaporama | 8 | 359 | 2.4 | 0.2 | 2.3 |
-| video | 22 | 295 | 2.2 | 0.0 | 3.1 |
-| image | 1 | 277 | 0.0 | 0.0 | 0.9 |
+| video | 11 | 549 | 16.6 | 0.4 | 4.7 |
+| carousel | 12 | 438 | 5.0 | 0.3 | 4.7 |
+| diaporama | 4 | 413 | 2.0 | 0.2 | 1.9 |
 
-**Gagnant provisoire : carousel**
+**Gagnant provisoire : video**
 
