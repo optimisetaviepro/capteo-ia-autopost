@@ -1561,21 +1561,11 @@
   },
   {
    "at": "2026-11-14T08:30:00+01:00",
-   "type": "video",
-   "media": "gta6/v03.mp4",
-   "text": "55 trophées selon une fuite 🏆 (pas encore confirmé par Rockstar)\n\n💬 Tu vas chasser le platine ?\n👉 Abonne-toi, je te dis dès que la vraie liste tombe.\n\n#gta6 #gtavi #gta #rockstargames #pourtoi",
+   "type": "carousel",
+   "media": "gta6/c15",
+   "text": "GTA 6 en 8 chiffres 📊 Enregistre-le.\n\n💬 Lequel te choque le plus ?\n👉 Abonne-toi, toutes les infos GTA 6 en français.\n\n#gta6 #gtavi #gta #rockstargames #pourtoi",
    "account": "chopper",
-   "ai_label": false,
-   "cover_ms": 1200
-  },
-  {
-   "at": "2026-11-14T11:30:00+01:00",
-   "type": "video",
-   "media": "gta6/v14.mp4",
-   "text": "POV : t'as posé ton jeudi 19 😂\n\n🏷️ Tague le pote qui pose aussi\n👉 Abonne-toi.\n\n#gta6 #gtavi #gta #rockstargames #pourtoi",
-   "account": "chopper",
-   "ai_label": false,
-   "cover_ms": 1200
+   "ai_label": false
   },
   {
    "at": "2026-11-14T12:30:00+01:00",
@@ -1587,6 +1577,15 @@
    "cover_ms": 1500
   },
   {
+   "at": "2026-11-14T12:30:00+01:00",
+   "type": "video",
+   "media": "gta6/v03.mp4",
+   "text": "55 trophées selon une fuite 🏆 (pas encore confirmé par Rockstar)\n\n💬 Tu vas chasser le platine ?\n👉 Abonne-toi, je te dis dès que la vraie liste tombe.\n\n#gta6 #gtavi #gta #rockstargames #pourtoi",
+   "account": "chopper",
+   "ai_label": false,
+   "cover_ms": 1200
+  },
+  {
    "at": "2026-11-14T13:00:00+01:00",
    "type": "video",
    "media": "gj/x/105.mp4",
@@ -1596,21 +1595,12 @@
    "cover_ms": 1500
   },
   {
-   "at": "2026-11-14T13:30:00+01:00",
+   "at": "2026-11-14T16:00:00+01:00",
    "type": "carousel",
    "media": "gta6/c02",
    "text": "Les 6 régions de Leonida, la carte de GTA 6 🗺️\n\n💬 Tu fonces où en premier ?\n👉 Abonne-toi pour la suite.\n\n#gta6 #gtavi #gta #rockstargames #pourtoi",
    "account": "chopper",
    "ai_label": false
-  },
-  {
-   "at": "2026-11-14T17:00:00+01:00",
-   "type": "video",
-   "media": "gta6/v15.mp4",
-   "text": "GTA 5 vs GTA 6 ⚔️\n\n💬 GTA 5 sera détrôné ou pas ?\n👉 Abonne-toi.\n\n#gta6 #gtavi #gta #rockstargames #pourtoi",
-   "account": "chopper",
-   "ai_label": false,
-   "cover_ms": 1200
   },
   {
    "at": "2026-11-14T18:30:00+01:00",
@@ -1632,11 +1622,12 @@
   },
   {
    "at": "2026-11-14T19:00:00+01:00",
-   "type": "carousel",
-   "media": "gta6/c08",
-   "text": "Jason Duval, l'autre moitié du duo de GTA 6 🔫\n\n❤️ Like si t'es team Jason\n👉 Abonne-toi.\n\n#gta6 #gtavi #gta #rockstargames #pourtoi",
+   "type": "video",
+   "media": "gta6/v14.mp4",
+   "text": "POV : t'as posé ton jeudi 19 😂\n\n🏷️ Tague le pote qui pose aussi\n👉 Abonne-toi.\n\n#gta6 #gtavi #gta #rockstargames #pourtoi",
    "account": "chopper",
-   "ai_label": false
+   "ai_label": false,
+   "cover_ms": 1200
   },
   {
    "at": "2026-11-14T21:00:00+01:00",
@@ -1658,30 +1649,19 @@
   },
   {
    "at": "2026-11-14T21:30:00+01:00",
-   "type": "video",
-   "media": "gta6/v04.mp4",
-   "text": "GTA 6 tourne à 30 FPS sur toutes les consoles, même la PS5 Pro 🎮\n\n💬 Ça te dérange ou pas ?\n👉 Abonne-toi pour toutes les infos.\n\n#gta6 #gtavi #gta #rockstargames #pourtoi",
+   "type": "carousel",
+   "media": "gta6/c08",
+   "text": "Jason Duval, l'autre moitié du duo de GTA 6 🔫\n\n❤️ Like si t'es team Jason\n👉 Abonne-toi.\n\n#gta6 #gtavi #gta #rockstargames #pourtoi",
    "account": "chopper",
-   "ai_label": false,
-   "cover_ms": 1200
+   "ai_label": false
   },
   {
    "at": "2026-11-15T08:30:00+01:00",
-   "type": "video",
-   "media": "gta6/v05.mp4",
-   "text": "GTA 6 a déjà battu le record des précommandes 📈\n\n💬 Tu paries sur combien de ventes le premier jour ?\n👉 Abonne-toi.\n\n#gta6 #gtavi #gta #rockstargames #pourtoi",
+   "type": "carousel",
+   "media": "gta6/c03",
+   "text": "Tous les personnages de GTA 6 révélés par Rockstar 👥\n\n💬 Ton préféré ?\n👉 Abonne-toi.\n\n#gta6 #gtavi #gta #rockstargames #pourtoi",
    "account": "chopper",
-   "ai_label": false,
-   "cover_ms": 1200
-  },
-  {
-   "at": "2026-11-15T11:30:00+01:00",
-   "type": "video",
-   "media": "gta6/v16.mp4",
-   "text": "Jason ou Lucia ? 🤔\n\n💬 Commente J ou L\n👉 Abonne-toi.\n\n#gta6 #gtavi #gta #rockstargames #pourtoi",
-   "account": "chopper",
-   "ai_label": false,
-   "cover_ms": 1200
+   "ai_label": false
   },
   {
    "at": "2026-11-15T12:30:00+01:00",
@@ -1693,6 +1673,15 @@
    "cover_ms": 1500
   },
   {
+   "at": "2026-11-15T12:30:00+01:00",
+   "type": "video",
+   "media": "gta6/v05.mp4",
+   "text": "GTA 6 a déjà battu le record des précommandes 📈\n\n💬 Tu paries sur combien de ventes le premier jour ?\n👉 Abonne-toi.\n\n#gta6 #gtavi #gta #rockstargames #pourtoi",
+   "account": "chopper",
+   "ai_label": false,
+   "cover_ms": 1200
+  },
+  {
    "at": "2026-11-15T13:00:00+01:00",
    "type": "video",
    "media": "gj/x/116.mp4",
@@ -1702,21 +1691,12 @@
    "cover_ms": 1500
   },
   {
-   "at": "2026-11-15T13:30:00+01:00",
+   "at": "2026-11-15T16:00:00+01:00",
    "type": "carousel",
-   "media": "gta6/c03",
-   "text": "Tous les personnages de GTA 6 révélés par Rockstar 👥\n\n💬 Ton préféré ?\n👉 Abonne-toi.\n\n#gta6 #gtavi #gta #rockstargames #pourtoi",
+   "media": "gta6/c14",
+   "text": "10 fonds d'écran GTA 6 pour ton téléphone 📱 Enregistre le post.\n\n💬 Tu prends lequel ? Dis le numéro\n👉 Abonne-toi.\n\n#gta6 #gtavi #gta #rockstargames #pourtoi",
    "account": "chopper",
    "ai_label": false
-  },
-  {
-   "at": "2026-11-15T17:00:00+01:00",
-   "type": "video",
-   "media": "gta6/v17.mp4",
-   "text": "Lucia, la première héroïne principale d'un GTA moderne 👑\n\n❤️ Like si t'es team Lucia\n👉 Abonne-toi.\n\n#gta6 #gtavi #gta #rockstargames #pourtoi",
-   "account": "chopper",
-   "ai_label": false,
-   "cover_ms": 1200
   },
   {
    "at": "2026-11-15T18:30:00+01:00",
@@ -1738,11 +1718,12 @@
   },
   {
    "at": "2026-11-15T19:00:00+01:00",
-   "type": "carousel",
-   "media": "gta6/c09",
-   "text": "Grassrivers, les marais de GTA 6 🐊\n\n💬 T'oses aller te balader là-dedans ?\n👉 Abonne-toi.\n\n#gta6 #gtavi #gta #rockstargames #pourtoi",
+   "type": "video",
+   "media": "gta6/v16.mp4",
+   "text": "Jason ou Lucia ? 🤔\n\n💬 Commente J ou L\n👉 Abonne-toi.\n\n#gta6 #gtavi #gta #rockstargames #pourtoi",
    "account": "chopper",
-   "ai_label": false
+   "ai_label": false,
+   "cover_ms": 1200
   },
   {
    "at": "2026-11-15T21:00:00+01:00",
@@ -1764,30 +1745,19 @@
   },
   {
    "at": "2026-11-15T21:30:00+01:00",
-   "type": "video",
-   "media": "gta6/v06.mp4",
-   "text": "Dans GTA 6, toute la carte est ouverte après le prologue 🗺️\n\n💬 Tu fonces sur l'histoire ou tu pars explorer ?\n👉 Abonne-toi.\n\n#gta6 #gtavi #gta #rockstargames #pourtoi",
+   "type": "carousel",
+   "media": "gta6/c09",
+   "text": "Grassrivers, les marais de GTA 6 🐊\n\n💬 T'oses aller te balader là-dedans ?\n👉 Abonne-toi.\n\n#gta6 #gtavi #gta #rockstargames #pourtoi",
    "account": "chopper",
-   "ai_label": false,
-   "cover_ms": 1200
+   "ai_label": false
   },
   {
    "at": "2026-11-16T08:30:00+01:00",
-   "type": "video",
-   "media": "gta6/v07.mp4",
-   "text": "GTA 6 sur Xbox One : oui, mais il y a un piège ☁️\n\n💬 Tu joues sur quelle console ?\n👉 Abonne-toi.\n\n#gta6 #gtavi #gta #rockstargames #pourtoi",
+   "type": "carousel",
+   "media": "gta6/c17",
+   "text": "13 ans entre GTA 5 et GTA 6 ⏳\n\n💬 T'avais quel âge à la sortie de GTA 5 ?\n👉 Abonne-toi.\n\n#gta6 #gtavi #gta #rockstargames #pourtoi",
    "account": "chopper",
-   "ai_label": false,
-   "cover_ms": 1200
-  },
-  {
-   "at": "2026-11-16T11:30:00+01:00",
-   "type": "video",
-   "media": "gta6/v18.mp4",
-   "text": "Note ce plan sur 10 🪂\n\n💬 Ta note en commentaire\n👉 Abonne-toi.\n\n#gta6 #gtavi #gta #rockstargames #pourtoi",
-   "account": "chopper",
-   "ai_label": false,
-   "cover_ms": 1200
+   "ai_label": false
   },
   {
    "at": "2026-11-16T12:30:00+01:00",
@@ -1799,6 +1769,15 @@
    "cover_ms": 1500
   },
   {
+   "at": "2026-11-16T12:30:00+01:00",
+   "type": "video",
+   "media": "gta6/v07.mp4",
+   "text": "GTA 6 sur Xbox One : oui, mais il y a un piège ☁️\n\n💬 Tu joues sur quelle console ?\n👉 Abonne-toi.\n\n#gta6 #gtavi #gta #rockstargames #pourtoi",
+   "account": "chopper",
+   "ai_label": false,
+   "cover_ms": 1200
+  },
+  {
    "at": "2026-11-16T13:00:00+01:00",
    "type": "video",
    "media": "gj/x/117.mp4",
@@ -1808,21 +1787,12 @@
    "cover_ms": 1500
   },
   {
-   "at": "2026-11-16T13:30:00+01:00",
+   "at": "2026-11-16T16:00:00+01:00",
    "type": "carousel",
    "media": "gta6/c04",
    "text": "Vice City en images officielles 🌴\n\n💬 Ta préférée : 1, 2, 3… ?\n👉 Abonne-toi.\n\n#gta6 #gtavi #gta #rockstargames #pourtoi",
    "account": "chopper",
    "ai_label": false
-  },
-  {
-   "at": "2026-11-16T17:00:00+01:00",
-   "type": "video",
-   "media": "gta6/v19.mp4",
-   "text": "Le meilleur GTA de tous les temps, c'est lequel ? 🏆\n\n💬 Réponds en commentaire (on verra si GTA 6 détrône tout le monde)\n👉 Abonne-toi.\n\n#gta6 #gtavi #gta #rockstargames #pourtoi",
-   "account": "chopper",
-   "ai_label": false,
-   "cover_ms": 1200
   },
   {
    "at": "2026-11-16T18:30:00+01:00",
@@ -1844,11 +1814,12 @@
   },
   {
    "at": "2026-11-16T19:00:00+01:00",
-   "type": "carousel",
-   "media": "gta6/c10",
-   "text": "Leonida Keys, les îles de GTA 6 🏝️\n\n💬 Tu t'achètes quel bateau en premier ?\n👉 Abonne-toi.\n\n#gta6 #gtavi #gta #rockstargames #pourtoi",
+   "type": "video",
+   "media": "gta6/v06.mp4",
+   "text": "Dans GTA 6, toute la carte est ouverte après le prologue 🗺️\n\n💬 Tu fonces sur l'histoire ou tu pars explorer ?\n👉 Abonne-toi.\n\n#gta6 #gtavi #gta #rockstargames #pourtoi",
    "account": "chopper",
-   "ai_label": false
+   "ai_label": false,
+   "cover_ms": 1200
   },
   {
    "at": "2026-11-16T21:00:00+01:00",
@@ -1870,27 +1841,17 @@
   },
   {
    "at": "2026-11-16T21:30:00+01:00",
-   "type": "video",
-   "media": "gta6/v08.mp4",
-   "text": "Des fonctions multijoueur trouvées dans les fichiers de GTA 6 🕵️\n\n💬 Tu attends le Online ou l'histoire d'abord ?\n👉 Abonne-toi.\n\n#gta6 #gtavi #gta #rockstargames #pourtoi",
+   "type": "carousel",
+   "media": "gta6/c10",
+   "text": "Leonida Keys, les îles de GTA 6 🏝️\n\n💬 Tu t'achètes quel bateau en premier ?\n👉 Abonne-toi.\n\n#gta6 #gtavi #gta #rockstargames #pourtoi",
    "account": "chopper",
-   "ai_label": false,
-   "cover_ms": 1200
+   "ai_label": false
   },
   {
    "at": "2026-11-17T08:30:00+01:00",
-   "type": "video",
-   "media": "gta6/v09.mp4",
-   "text": "J-2 🔥🔥\n\n❤️ Like si t'es hype\n💬 Tu prends ta journée le 19 ?\n👉 Abonne-toi.\n\n#gta6 #gtavi #gta #rockstargames #pourtoi",
-   "account": "chopper",
-   "ai_label": false,
-   "cover_ms": 1200
-  },
-  {
-   "at": "2026-11-17T11:30:00+01:00",
    "type": "carousel",
-   "media": "gta6/c11",
-   "text": "Mount Kalaga, la nature sauvage de GTA 6 🌲\n\n💬 Moto-cross ou rando ?\n👉 Abonne-toi.\n\n#gta6 #gtavi #gta #rockstargames #pourtoi",
+   "media": "gta6/c05",
+   "text": "La checklist avant le 19 ✅ Enregistre-la.\n\n👉 Abonne-toi pour les astuces dès la sortie.\n💬 T'as déjà pré-téléchargé ?\n\n#gta6 #gtavi #gta #rockstargames #pourtoi",
    "account": "chopper",
    "ai_label": false
   },
@@ -1904,6 +1865,15 @@
    "cover_ms": 1500
   },
   {
+   "at": "2026-11-17T12:30:00+01:00",
+   "type": "video",
+   "media": "gta6/v20.mp4",
+   "text": "48 h avant GTA 6 ✅\n\n💬 T'en es où de ta checklist ?\n👉 Abonne-toi.\n\n#gta6 #gtavi #gta #rockstargames #pourtoi",
+   "account": "chopper",
+   "ai_label": false,
+   "cover_ms": 1200
+  },
+  {
    "at": "2026-11-17T13:00:00+01:00",
    "type": "video",
    "media": "gj/x/106.mp4",
@@ -1913,19 +1883,10 @@
    "cover_ms": 1500
   },
   {
-   "at": "2026-11-17T13:30:00+01:00",
-   "type": "video",
-   "media": "gta6/v20.mp4",
-   "text": "48 h avant GTA 6 ✅\n\n💬 T'en es où de ta checklist ?\n👉 Abonne-toi.\n\n#gta6 #gtavi #gta #rockstargames #pourtoi",
-   "account": "chopper",
-   "ai_label": false,
-   "cover_ms": 1200
-  },
-  {
-   "at": "2026-11-17T17:00:00+01:00",
+   "at": "2026-11-17T16:00:00+01:00",
    "type": "carousel",
-   "media": "gta6/c05",
-   "text": "La checklist avant le 19 ✅ Enregistre-la.\n\n👉 Abonne-toi pour les astuces dès la sortie.\n💬 T'as déjà pré-téléchargé ?\n\n#gta6 #gtavi #gta #rockstargames #pourtoi",
+   "media": "gta6/c11",
+   "text": "Mount Kalaga, la nature sauvage de GTA 6 🌲\n\n💬 Moto-cross ou rando ?\n👉 Abonne-toi.\n\n#gta6 #gtavi #gta #rockstargames #pourtoi",
    "account": "chopper",
    "ai_label": false
   },
@@ -1949,11 +1910,12 @@
   },
   {
    "at": "2026-11-17T19:00:00+01:00",
-   "type": "carousel",
-   "media": "gta6/c12",
-   "text": "Le pack Vintage Vice City de GTA 6 en images 🌴🚗\n\n💬 Ça vaut le coup ?\n👉 Abonne-toi.\n\n#gta6 #gtavi #gta #rockstargames #pourtoi",
+   "type": "video",
+   "media": "gta6/v10.mp4",
+   "text": "Rockstar et PlayStation organisent un festival GTA VI à Miami le 21 novembre 🎤 Travis Scott, Cardi B, Metro Boomin, Justice…\n\n💬 Tu irais ?\n👉 Abonne-toi.\n\n#gta6 #gtavi #gta #rockstargames #pourtoi",
    "account": "chopper",
-   "ai_label": false
+   "ai_label": false,
+   "cover_ms": 1200
   },
   {
    "at": "2026-11-17T21:00:00+01:00",
@@ -1966,27 +1928,17 @@
   },
   {
    "at": "2026-11-17T21:30:00+01:00",
-   "type": "video",
-   "media": "gta6/v10.mp4",
-   "text": "Rockstar et PlayStation organisent un festival GTA VI à Miami le 21 novembre 🎤 Travis Scott, Cardi B, Metro Boomin, Justice…\n\n💬 Tu irais ?\n👉 Abonne-toi.\n\n#gta6 #gtavi #gta #rockstargames #pourtoi",
+   "type": "carousel",
+   "media": "gta6/c12",
+   "text": "Le pack Vintage Vice City de GTA 6 en images 🌴🚗\n\n💬 Ça vaut le coup ?\n👉 Abonne-toi.\n\n#gta6 #gtavi #gta #rockstargames #pourtoi",
    "account": "chopper",
-   "ai_label": false,
-   "cover_ms": 1200
+   "ai_label": false
   },
   {
    "at": "2026-11-18T08:30:00+01:00",
-   "type": "video",
-   "media": "gta6/v11.mp4",
-   "text": "Demain, 5 h du matin : le live officiel de 24 h pour la sortie de GTA 6 ⏰\n\n💬 Tu seras réveillé ?\n👉 Abonne-toi, les premières astuces arrivent ici.\n\n#gta6 #gtavi #gta #rockstargames #pourtoi",
-   "account": "chopper",
-   "ai_label": false,
-   "cover_ms": 1200
-  },
-  {
-   "at": "2026-11-18T11:30:00+01:00",
    "type": "carousel",
-   "media": "gta6/c13",
-   "text": "Port Gellhorn et Ambrosia, l'autre visage de Leonida 🏚️\n\n💬 Ville ou campagne ?\n👉 Abonne-toi.\n\n#gta6 #gtavi #gta #rockstargames #pourtoi",
+   "media": "gta6/c16",
+   "text": "Les plans les plus fous du trailer 2 de GTA 6 🔥 Demain, c'est nous qui jouons.\n\n💬 Ton préféré : 1, 2, 3… ?\n👉 Abonne-toi.\n\n#gta6 #gtavi #gta #rockstargames #pourtoi",
    "account": "chopper",
    "ai_label": false
   },
@@ -2000,16 +1952,16 @@
    "cover_ms": 1500
   },
   {
-   "at": "2026-11-18T13:30:00+01:00",
+   "at": "2026-11-18T12:30:00+01:00",
    "type": "video",
-   "media": "gta6/v21.mp4",
-   "text": "Dernière nuit sans GTA 6 🌙\n\n❤️ Like si tu vas pas dormir\n👉 Abonne-toi.\n\n#gta6 #gtavi #gta #rockstargames #pourtoi",
+   "media": "gta6/v11.mp4",
+   "text": "Demain, 5 h du matin : le live officiel de 24 h pour la sortie de GTA 6 ⏰\n\n💬 Tu seras réveillé ?\n👉 Abonne-toi, les premières astuces arrivent ici.\n\n#gta6 #gtavi #gta #rockstargames #pourtoi",
    "account": "chopper",
    "ai_label": false,
    "cover_ms": 1200
   },
   {
-   "at": "2026-11-18T17:00:00+01:00",
+   "at": "2026-11-18T16:00:00+01:00",
    "type": "carousel",
    "media": "gta6/c06",
    "text": "Le contenu de l'édition Ultimate de GTA 6, en images officielles 🚗\n\n💬 Standard ou Ultimate ?\n👉 Abonne-toi.\n\n#gta6 #gtavi #gta #rockstargames #pourtoi",
@@ -2042,6 +1994,14 @@
    "account": "giletjaune",
    "ai_label": false,
    "cover_ms": 1500
+  },
+  {
+   "at": "2026-11-18T21:30:00+01:00",
+   "type": "carousel",
+   "media": "gta6/c13",
+   "text": "Port Gellhorn et Ambrosia, l'autre visage de Leonida 🏚️\n\n💬 Ville ou campagne ?\n👉 Abonne-toi.\n\n#gta6 #gtavi #gta #rockstargames #pourtoi",
+   "account": "chopper",
+   "ai_label": false
   },
   {
    "at": "2026-11-19T06:00:00+01:00",
