@@ -1,4 +1,4 @@
-# Tableau de bord des tests — 16/11/2026 17:12
+# Tableau de bord des tests — 17/11/2026 17:20
 
 31 posts publiés relevés, 27 assez anciens (> 36 h) pour être comparés.
 
@@ -6,13 +6,13 @@
 
 | Vues | Réac. | Partages | Format | Date | Titre |
 |---|---|---|---|---|---|
-| 1890 | 111 | 3 | video | 2026-10-30 19:46 | « La mobilisation sociale est un prétexte. » 🔵 La veille du 17 octobre |
+| 1890 | 112 | 3 | video | 2026-10-30 19:46 | « La mobilisation sociale est un prétexte. » 🔵 La veille du 17 octobre |
 | 1085 | 19 | 0 | video | 2026-10-31 19:02 | « On s'est fait démonter à la dernière manif. » 🔵 Un policier, 11 bles |
 | 1038 | 42 | 0 | video | 2026-10-30 22:02 | Même une figure des gilets jaunes de 2018 refuse d'y aller. 🔵 Jacline  |
 | 781 | 9 | 2 | carousel | 2026-10-22 12:17 | Apprends n'importe quelle langue avec ce prompt 🗣️ Un prof particulier |
 | 780 | 3 | 0 | diaporama | 2026-10-21 12:16 | Demande ça à l'IA avant tout achat de plus de 100 € 🛒 Le besoin réel,  |
 
-Moyenne : 434 vues par post, 10.6 réactions.
+Moyenne : 457 vues par post, 13.9 réactions.
 
 ## Tests A/B
 
@@ -28,8 +28,8 @@ Pas encore assez de données (il faut 2 variantes avec des posts de plus de 36 h
 
 | Variante | Posts | Vues moy. | Réactions moy. | Partages moy. | Visionnage moy. (s) |
 |---|---|---|---|---|---|
-| oui | 12 | 479 | 19.5 | 0.2 | 6.2 |
-| non | 6 | 364 | 2.0 | 0.3 | 2.4 |
+| oui | 15 | 479 | 21.9 | 0.4 | 7.6 |
+| non | 5 | 383 | 1.4 | 0.4 | 2.3 |
 
 **Gagnant provisoire : oui**
 
@@ -42,12 +42,12 @@ Pas encore assez de données (il faut 2 variantes avec des posts de plus de 36 h
 | Variante | Posts | Vues moy. | Réactions moy. | Partages moy. | Visionnage moy. (s) |
 |---|---|---|---|---|---|
 | 22h | 1 | 1038 | 42.0 | 0.0 | 14.2 |
-| 19h | 4 | 818 | 34.5 | 0.8 | 7.9 |
-| 12h | 6 | 445 | 3.3 | 0.7 | 4.1 |
-| 18h | 6 | 412 | 4.5 | 0.0 | 4.2 |
-| 21h | 2 | 297 | 23.5 | 0.0 | 8.2 |
-| 20h | 6 | 280 | 2.0 | 0.2 | 3.5 |
-| 13h | 2 | 0 | 0.0 | 0.0 | 0.0 |
+| 19h | 5 | 784 | 39.0 | 1.2 | 9.4 |
+| 12h | 5 | 482 | 4.0 | 0.8 | 4.3 |
+| 18h | 5 | 433 | 5.4 | 0.0 | 4.5 |
+| 21h | 3 | 318 | 18.3 | 0.0 | 9.4 |
+| 20h | 5 | 283 | 1.4 | 0.2 | 3.7 |
+| 13h | 3 | 143 | 9.7 | 0.0 | 3.9 |
 
 Tendance : 22h devant, mais moins de 5 posts par variante — attendre avant de conclure.
 
@@ -55,9 +55,9 @@ Tendance : 22h devant, mais moins de 5 posts par variante — attendre avant de 
 
 | Variante | Posts | Vues moy. | Réactions moy. | Partages moy. | Visionnage moy. (s) |
 |---|---|---|---|---|---|
+| carousel | 7 | 461 | 5.7 | 0.4 | 5.4 |
+| video | 17 | 456 | 19.3 | 0.4 | 7.0 |
 | diaporama | 3 | 449 | 2.3 | 0.3 | 2.0 |
-| video | 15 | 439 | 15.9 | 0.3 | 5.5 |
-| carousel | 9 | 421 | 4.4 | 0.3 | 4.9 |
 
-Tendance : diaporama devant, mais moins de 5 posts par variante — attendre avant de conclure.
+**Gagnant provisoire : carousel**
 
