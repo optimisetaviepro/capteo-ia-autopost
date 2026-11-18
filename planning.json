@@ -2095,24 +2095,6 @@
       "cover_ms": 1500
     },
     {
-      "at": "2026-11-18T18:15:48+01:00",
-      "type": "video",
-      "media": "gta6-live/squeezie_06_18h13m30.mp4",
-      "text": "Le garage de GTA 6 est complètement fou 🚗🎨\n\nSqueezie customise son pick-up : des dizaines de teintes, brillant, mat… t'aurais pris quelle couleur ?\n🎥 twitch.tv/squeezie\n\n#gta6 #gtavi #squeezie #gta #pourtoi",
-      "account": "chopper",
-      "ai_label": false,
-      "cover_ms": 1500
-    },
-    {
-      "at": "2026-11-18T18:17:26+01:00",
-      "type": "video",
-      "media": "gta6-live/ishowspeed_07_18h15m30.mp4",
-      "text": "IShowSpeed se fait attaquer par un requin dans GTA 6 🦈😨\n\nLa plongée à Leonida, c'est pas des vacances…\n🎥 twitch.tv/ishowspeed\n\n#gta6 #gtavi #ishowspeed #speed #pourtoi",
-      "account": "chopper",
-      "ai_label": false,
-      "cover_ms": 1500
-    },
-    {
       "at": "2026-11-18T18:30:00+01:00",
       "type": "video",
       "media": "gj/x/19.mp4",
@@ -2120,15 +2102,6 @@
       "account": "giletjaune",
       "ai_label": false,
       "cover_ms": 1500
-    },
-    {
-      "at": "2026-11-18T19:00:00+01:00",
-      "type": "video",
-      "media": "gta6/v12.mp4",
-      "text": "C'est demain 😭🔥\n\n❤️ Like si t'as posé ton jour\n👉 Abonne-toi : demain, les premières astuces en français.\n\n#gta6 #gtavi #gta #rockstargames #pourtoi",
-      "account": "chopper",
-      "ai_label": false,
-      "cover_ms": 1200
     },
     {
       "at": "2026-11-18T19:00:00+01:00",
@@ -2150,29 +2123,12 @@
     },
     {
       "at": "2026-11-18T21:30:00+01:00",
-      "type": "carousel",
-      "media": "gta6/c13",
-      "text": "Port Gellhorn et Ambrosia, l'autre visage de Leonida 🏚️\n\n💬 Ville ou campagne ?\n👉 Abonne-toi.\n\n#gta6 #gtavi #gta #rockstargames #pourtoi",
-      "account": "chopper",
-      "ai_label": false
-    },
-    {
-      "at": "2026-11-18T21:30:00+01:00",
       "type": "video",
       "media": "gj/x/120.mp4",
       "text": "Édouard Philippe : « Bloquer un service public, ce n'est pas acceptable. » 🔵\n\nIl entend les revendications, mais refuse qu'on empêche ceux qui veulent étudier d'entrer.\n👉 Team Ordre : abonne-toi si tu es d'accord.\n💬 Manifester oui, bloquer non ?\n⚔️ L'autre camp : @giletjaune2.0 (même créateur, format débat : choisis ton camp)\n\nExtrait : franceinfo, 07/11/2026.\n#teamordre #teamgiletsjaunes #philippe #blocus #presidentielle2027",
       "account": "ordre",
       "ai_label": false,
       "cover_ms": 1500
-    },
-    {
-      "at": "2026-11-19T06:00:00+01:00",
-      "type": "video",
-      "media": "gta6/v13.mp4",
-      "text": "GTA 6 EST SORTI 🔥🔥🔥\n\n👉 Abonne-toi : toutes les astuces, les bugs et les meilleurs clips en français.\n💬 T'es déjà dessus ?\n\n#gta6 #gtavi #gta #rockstargames #pourtoi",
-      "account": "chopper",
-      "ai_label": false,
-      "cover_ms": 1200
     },
     {
       "at": "2026-11-19T12:30:00+01:00",
@@ -2195,6 +2151,15 @@
     {
       "at": "2026-11-19T18:30:00+01:00",
       "type": "video",
+      "media": "gta6/v13.mp4",
+      "text": "GTA 6 EST SORTI 🔥🔥🔥\n\n👉 Abonne-toi : toutes les astuces, les bugs et les meilleurs clips en français.\n💬 T'es déjà dessus ?\n\n#gta6 #gtavi #gta #rockstargames #pourtoi",
+      "account": "chopper",
+      "ai_label": false,
+      "cover_ms": 1200
+    },
+    {
+      "at": "2026-11-19T18:30:00+01:00",
+      "type": "video",
       "media": "gj/x/17.mp4",
       "text": "Lycéenne : « On est au bord du burn-out. » 🥶🥵\n\n« Une passoire thermique : on a froid en hiver, trop chaud en été. » Et une prof qui soutient ses élèves.\n💬 Ton lycée / ta fac, c'est comment ? Raconte en commentaire.\n👉 Abonne-toi, ici on donne la parole aux jeunes.\n⚔️ L'autre camp : @capteo_ia (même créateur, format débat : choisis ton camp)\n\nExtrait : franceinfo, 17/10/2026.\n#lyceens #education #jeunesse #viechere #giletsjaunes",
       "account": "giletjaune",
@@ -2211,6 +2176,24 @@
       "cover_ms": 1500
     },
     {
+      "at": "2026-11-19T19:30:00+01:00",
+      "type": "video",
+      "media": "gta6-live/squeezie_06_18h13m30.mp4",
+      "text": "Le garage de GTA 6 est complètement fou 🚗🎨\n\nSqueezie customise son pick-up : des dizaines de teintes, brillant, mat… t'aurais pris quelle couleur ?\n🎥 twitch.tv/squeezie\n\n#gta6 #gtavi #squeezie #gta #pourtoi",
+      "account": "chopper",
+      "ai_label": false,
+      "cover_ms": 1500
+    },
+    {
+      "at": "2026-11-19T20:30:00+01:00",
+      "type": "video",
+      "media": "gta6-live/ishowspeed_07_18h15m30.mp4",
+      "text": "IShowSpeed se fait attaquer par un requin dans GTA 6 🦈😨\n\nLa plongée à Leonida, c'est pas des vacances…\n🎥 twitch.tv/ishowspeed\n\n#gta6 #gtavi #ishowspeed #speed #pourtoi",
+      "account": "chopper",
+      "ai_label": false,
+      "cover_ms": 1500
+    },
+    {
       "at": "2026-11-19T21:00:00+01:00",
       "type": "video",
       "media": "gj/x/21.mp4",
@@ -2218,6 +2201,14 @@
       "account": "giletjaune",
       "ai_label": false,
       "cover_ms": 1500
+    },
+    {
+      "at": "2026-11-19T21:30:00+01:00",
+      "type": "carousel",
+      "media": "gta6/c13",
+      "text": "Port Gellhorn et Ambrosia, l'autre visage de Leonida 🏚️\n\n💬 Ville ou campagne ?\n👉 Abonne-toi.\n\n#gta6 #gtavi #gta #rockstargames #pourtoi",
+      "account": "chopper",
+      "ai_label": false
     },
     {
       "at": "2026-11-19T21:30:00+01:00",
