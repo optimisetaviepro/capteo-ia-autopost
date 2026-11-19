@@ -1,6 +1,6 @@
-# Tableau de bord des tests — 18/11/2026 16:53
+# Tableau de bord des tests — 19/11/2026 16:57
 
-30 posts publiés relevés, 27 assez anciens (> 36 h) pour être comparés.
+30 posts publiés relevés, 26 assez anciens (> 36 h) pour être comparés.
 
 ## Tiktok — top 5
 
@@ -12,7 +12,7 @@
 | 781 | 9 | 2 | carousel | 2026-10-22 12:17 | Apprends n'importe quelle langue avec ce prompt 🗣️ Un prof particulier |
 | 780 | 3 | 0 | diaporama | 2026-10-21 12:16 | Demande ça à l'IA avant tout achat de plus de 100 € 🛒 Le besoin réel,  |
 
-Moyenne : 443 vues par post, 14.0 réactions.
+Moyenne : 443 vues par post, 15.6 réactions.
 
 ## Tests A/B
 
@@ -28,10 +28,10 @@ Pas encore assez de données (il faut 2 variantes avec des posts de plus de 36 h
 
 | Variante | Posts | Vues moy. | Réactions moy. | Partages moy. | Visionnage moy. (s) |
 |---|---|---|---|---|---|
-| oui | 17 | 444 | 19.9 | 0.4 | 7.8 |
-| non | 4 | 406 | 1.0 | 0.2 | 2.3 |
+| non | 3 | 447 | 1.3 | 0.0 | 2.3 |
+| oui | 19 | 427 | 19.8 | 0.4 | 8.6 |
 
-Tendance : oui devant, mais moins de 5 posts par variante — attendre avant de conclure.
+Tendance : non devant, mais moins de 5 posts par variante — attendre avant de conclure.
 
 ### Label « contenu IA » oui / non — Reels Instagram
 
@@ -42,12 +42,13 @@ Pas encore assez de données (il faut 2 variantes avec des posts de plus de 36 h
 | Variante | Posts | Vues moy. | Réactions moy. | Partages moy. | Visionnage moy. (s) |
 |---|---|---|---|---|---|
 | 22h | 1 | 1038 | 42.0 | 0.0 | 14.2 |
-| 19h | 5 | 784 | 39.0 | 1.2 | 9.4 |
-| 12h | 4 | 529 | 4.2 | 0.8 | 4.8 |
-| 18h | 4 | 434 | 5.8 | 0.0 | 4.2 |
-| 21h | 4 | 321 | 15.2 | 0.0 | 9.5 |
-| 20h | 4 | 269 | 1.5 | 0.2 | 3.9 |
-| 13h | 4 | 199 | 8.5 | 0.0 | 5.8 |
+| 19h | 6 | 699 | 36.0 | 1.0 | 10.3 |
+| 12h | 3 | 611 | 4.3 | 0.7 | 2.6 |
+| 18h | 3 | 422 | 5.3 | 0.0 | 4.7 |
+| 21h | 4 | 322 | 15.2 | 0.0 | 9.5 |
+| 14h | 1 | 288 | 17.0 | 1.0 | 15.9 |
+| 20h | 3 | 266 | 2.0 | 0.0 | 4.4 |
+| 13h | 4 | 200 | 8.5 | 0.0 | 5.8 |
 | 23h | 1 | 0 | 0.0 | 0.0 | 0.0 |
 
 Tendance : 22h devant, mais moins de 5 posts par variante — attendre avant de conclure.
@@ -57,8 +58,8 @@ Tendance : 22h devant, mais moins de 5 posts par variante — attendre avant de 
 | Variante | Posts | Vues moy. | Réactions moy. | Partages moy. | Visionnage moy. (s) |
 |---|---|---|---|---|---|
 | diaporama | 2 | 526 | 2.0 | 0.0 | 1.8 |
-| carousel | 6 | 467 | 6.0 | 0.5 | 5.4 |
-| video | 19 | 427 | 17.8 | 0.4 | 7.3 |
+| carousel | 4 | 512 | 6.2 | 0.5 | 4.5 |
+| video | 20 | 420 | 18.8 | 0.3 | 8.3 |
 
 Tendance : diaporama devant, mais moins de 5 posts par variante — attendre avant de conclure.
 
